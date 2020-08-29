@@ -298,6 +298,7 @@
 
 ## JavaScript 
 
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
 - [speccy](https://github.com/wework/speccy) - Well Spectually 🤓 Enforce quality rules on your OpenAPI 3.0.x specifications.
 - [termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
@@ -562,6 +563,12 @@
 
 ## Python 
 
+- [pyddos](https://github.com/mach1el/pyddos) - DDOS python script
+- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
+- [flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
+- [grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
+- [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [nannernest](https://github.com/EthanRosenthal/nannernest) - Optimal peanut butter and banana sandwiches
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
 - [dataget](https://github.com/cgarciae/dataget) - A framework-agnostic datasets library for Machine Learning research and education.
@@ -879,6 +886,7 @@
 - [blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
 - [websocket-client](https://github.com/websocket-client/websocket-client) - websocket client for python
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
+- [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
@@ -1093,6 +1101,7 @@
 - [nox](https://github.com/theacodes/nox) - Flexible test automation for Python
 - [towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Mausoleum](https://github.com/mandeep/Mausoleum) - A GUI application, command line interface, and wrapper for Tomb
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
@@ -1189,7 +1198,6 @@
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [dotyaml](https://github.com/tidelift/dotyaml) - dependencyci.yml config parser
 - [bibliothecary](https://github.com/librariesio/bibliothecary) - :notebook_with_decorative_cover: Libraries.io Package Manager Manifest Parsers
-- [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [readme-score](https://github.com/clayallsopp/readme-score) - Giving a score to README.md's everywhere
 - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [license-compatibility](https://github.com/librariesio/license-compatibility) - :copyright: Check compatibility between different SPDX licenses
@@ -1256,7 +1264,6 @@
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [cpip](https://github.com/eigentechnologies/cpip) - 
 - [anyenv](https://github.com/anyenv/anyenv) - All in one for **env
-- [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [VATS-zsh](https://github.com/zdharma/VATS-zsh) - Private repo: VATS integrated with Zsh build system
@@ -1360,6 +1367,7 @@
 
 ## TypeScript 
 
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
