@@ -298,6 +298,7 @@
 
 ## JavaScript 
 
+- [miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
 - [speccy](https://github.com/wework/speccy) - Well Spectually 🤓 Enforce quality rules on your OpenAPI 3.0.x specifications.
@@ -485,7 +486,6 @@
 - [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
 - [python-horror-show](https://github.com/pablogsal/python-horror-show) - Strange and odd python snippets explained
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
-- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [plex-api](https://github.com/Arcanemagus/plex-api) - Unofficial Plex API Documentation
 - [sfeir-school-speaker](https://github.com/sfeir-open-source/sfeir-school-speaker) - Sfeir School Speaker. This trainning will help people to speak in conference
 - [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
@@ -500,7 +500,7 @@
 - [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
@@ -563,6 +563,13 @@
 
 ## Python 
 
+- [darglint](https://github.com/terrencepreilly/darglint) - A python documentation linter which checks that the docstring description matches the definition.
+- [flake8-eradicate](https://github.com/sobolevn/flake8-eradicate) - Flake8 plugin to find commented out or dead code
+- [flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
+- [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - :game_die: Pytest plugin to randomly order tests and control random.seed
+- [hypothesmith](https://github.com/Zac-HD/hypothesmith) - Hypothesis strategies for generating Python programs, something like CSmith
+- [tokelor](https://github.com/lensvol/tokelor) - Visualize Python token stream produced by tokenize module.
+- [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [pyddos](https://github.com/mach1el/pyddos) - DDOS python script
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
@@ -891,6 +898,7 @@
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
+- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
