@@ -62,6 +62,7 @@
 
 ## C 
 
+- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
@@ -70,7 +71,7 @@
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [ccs-pykerberos](https://github.com/apple/ccs-pykerberos) - Python Kerberos library used by CalendarServer
 - [radeontop](https://github.com/clbr/radeontop) - 
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes on GNU/Linux.
 - [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -171,6 +172,7 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I uses for development
 - [gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
 - [Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/docker-nginx-postgres-django-example).
 - [bash-kit](https://github.com/bashup/bash-kit) - Images for testing .devkit-based projects against specific bash versions
@@ -563,6 +565,18 @@
 
 ## Python 
 
+- [tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
+- [Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and configure. It empowers lint rule to provide autofix to fix the issues for developers. It also provide tools to run autofix across codebase to fix existing issues and automatically insert lint-fixme comments to silent existing violation. Fixit integrates with Flake8 and it adds the above mentioned enhancements to it.
+- [reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
+- [steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
+- [HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface 🤖
+- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
+- [unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
+- [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents
+- [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+- [autohooks](https://github.com/greenbone/autohooks) - Library for managing git hooks
+- [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
+- [slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [darglint](https://github.com/terrencepreilly/darglint) - A python documentation linter which checks that the docstring description matches the definition.
 - [flake8-eradicate](https://github.com/sobolevn/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
@@ -589,11 +603,11 @@
 - [anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - This generator creates pydantic mode from an openapi file.
-- [schemathesis](https://github.com/kiwicom/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [skyline](https://github.com/earthgecko/skyline) - Anomaly detection
-- [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool
+- [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
 - [climoji](https://github.com/psincraian/climoji) - Climoji is an initiative to facilitate the use of the emojis from the command line
 - [usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
@@ -822,7 +836,7 @@
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-- [python-ext-wasm](https://github.com/wasmerio/python-ext-wasm) - 🐍🕸 Python library to run WebAssembly binaries.
+- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [pytosquatting](https://github.com/benjaoming/pytosquatting) - 
 - [mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation
 - [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -1191,6 +1205,7 @@
 
 ## Ruby 
 
+- [shortcuts](https://github.com/seanbreckenridge/shortcuts) - some ruby to create arbitrary shell scripts
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -1249,6 +1264,7 @@
 
 ## Shell 
 
+- [sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
 - [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
 - [shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
 - [PlexGuide.com-The-Awesome-Plex-Server](https://github.com/zhdenny/PlexGuide.com-The-Awesome-Plex-Server) - Welcome to PlexGuide.com! Deploy a multi-app supported Plex Server with an HD or GDrive (Unlimited Space) through UB16/18 - Ansible & Docker - Now with PGDrives & PGBlitz!
@@ -1375,6 +1391,7 @@
 
 ## TypeScript 
 
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
