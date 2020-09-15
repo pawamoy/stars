@@ -38,10 +38,10 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
-  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
@@ -136,7 +136,7 @@
 - [hpenc](https://github.com/vstakhov/hpenc) - High performance command line tool for stream encryption
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [dejalu](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client
-- [Relativ](https://github.com/relativty/Relativ) - Build your own VR headset for $100.
+- [Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 
@@ -172,11 +172,11 @@
 
 ## Dockerfile 
 
-- [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I uses for development
+- [docker-isso](https://github.com/Wonderfall/docker-isso) - 
+- [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I use for development
 - [gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
 - [Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/docker-nginx-postgres-django-example).
 - [bash-kit](https://github.com/bashup/bash-kit) - Images for testing .devkit-based projects against specific bash versions
-- [docker-bash](https://github.com/tianon/docker-bash) - Many versions of Bash, Dockerized
 
 ## Elixir 
 
@@ -203,7 +203,7 @@
 - [structor](https://github.com/containous/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
 - [rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
-- [musig](https://github.com/sfluor/musig) - A shazam like tool to store musics fingerprints and retrieve them
+- [musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
@@ -565,6 +565,15 @@
 
 ## Python 
 
+- [poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
+- [shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
+- [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
+- [deepmerge](https://github.com/toumorokoshi/deepmerge) - A deep merging tool for Python core data structures
+- [rgain](https://github.com/chaudum/rgain) - A Python 3 compatible fork of rgain
+- [backtrace](https://github.com/nir0s/backtrace) - Makes Python tracebacks human friendly
+- [colored-traceback.py](https://github.com/staticshock/colored-traceback.py) - Automatically color Python's uncaught exception tracebacks
+- [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
+- [toml](https://github.com/uiri/toml) - Python lib for TOML
 - [tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
 - [Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and configure. It empowers lint rule to provide autofix to fix the issues for developers. It also provide tools to run autofix across codebase to fix existing issues and automatically insert lint-fixme comments to silent existing violation. Fixit integrates with Flake8 and it adds the above mentioned enhancements to it.
 - [reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
@@ -630,7 +639,7 @@
 - [knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 - [exdown](https://github.com/nschloe/exdown) - Extract code blocks from text files
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
-- [icecream](https://github.com/gruns/icecream) - 🍦 Sweet and creamy print debugging.
+- [icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
 - [freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [aiofile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
 - [up42-py](https://github.com/up42/up42-py) - :earth_americas: Python SDK for UP42, the geospatial marketplace and developer platform.
@@ -656,6 +665,7 @@
 - [case-conversion](https://github.com/AlejandroFrias/case-conversion) - Python package ported from Davis Clark's CaseConversion Sublime Plugin
 - [inflect](https://github.com/jazzband/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
+- [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
 - [logging_tree](https://github.com/brandon-rhodes/logging_tree) - Debug Python logging problems by printing out the tree of handlers you have defined.
 - [deethon](https://github.com/deethon/deethon) - 🎵 Python3 library to easily download music from Deezer
 - [docspec](https://github.com/NiklasRosenstein/docspec) - Docspec is a JSON object specification for representing API documentation of programming languages.
@@ -673,7 +683,7 @@
 - [mkdocs-simple-hooks](https://github.com/aklajnert/mkdocs-simple-hooks) - Define your own hooks for mkdocs, without having to create a new package.
 - [mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
-- [byob](https://github.com/malwaredllc/byob) - BYOB (Build Your Own Botnet)
+- [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [pdoc](https://github.com/mitmproxy/pdoc) - A simple command line tool and library to auto generate API documentation for Python libraries.
@@ -836,7 +846,6 @@
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [pytosquatting](https://github.com/benjaoming/pytosquatting) - 
 - [mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation
 - [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -1239,6 +1248,7 @@
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
+- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers :rocket:
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
@@ -1258,18 +1268,23 @@
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [package-manager](https://github.com/sinopiaolive/package-manager) - The package manager.
 
+## SCSS 
+
+- [furo](https://github.com/pradyunsg/furo) - [WIP] A clean customizable documentation theme for Sphinx
+
 ## Scheme 
 
 - [spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest. In addition classes are provided to expose the data to geotools and thereby to geotools enabled applications like geoserver and uDig.
 
 ## Shell 
 
+- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
 - [sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
 - [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
 - [shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
 - [PlexGuide.com-The-Awesome-Plex-Server](https://github.com/zhdenny/PlexGuide.com-The-Awesome-Plex-Server) - Welcome to PlexGuide.com! Deploy a multi-app supported Plex Server with an HD or GDrive (Unlimited Space) through UB16/18 - Ansible & Docker - Now with PGDrives & PGBlitz!
 - [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
-- [Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILDs and information on how to install Arch Linux to Pinetab/PinePhone.
+- [Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
 - [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [ghostplay](https://github.com/ko1nksm/ghostplay) - Automatic terminal input tool - ghost types your script!
 - [pkgbuilds](https://github.com/flipee/pkgbuilds) - PKGBUILDs for the Arch User Repository
@@ -1343,6 +1358,7 @@
 - [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [bats-support](https://github.com/ztombol/bats-support) - Supporting library for Bats test helpers
 - [bats-assert](https://github.com/ztombol/bats-assert) - Common assertions for Bats
+- [docker-bash](https://github.com/tianon/docker-bash) - Many versions of Bash, Dockerized
 - [pyenv-binstubs](https://github.com/madumlao/pyenv-binstubs) - A pipenv plugin for pyenv
 - [pyenv-chooser](https://github.com/oscarmcm/pyenv-chooser) - Allow pyenv to select the python version from the program name.
 - [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -1381,16 +1397,14 @@
 
 - [starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 
-## TSQL 
-
-- [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
-
 ## TeX 
 
 - [PolyPasswordHasher](https://github.com/PolyPasswordHasher/PolyPasswordHasher) - A Password hash storage scheme that prevents an attacker from cracking passwords individually and efficiently.
 
 ## TypeScript 
 
+- [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A summary of package management tools in the Python ecosystem
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
