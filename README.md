@@ -62,6 +62,8 @@
 
 ## C 
 
+- [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
+- [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -142,6 +144,7 @@
 
 ## CSS 
 
+- [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A summary of package management tools in the Python ecosystem
 - [semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -200,7 +203,7 @@
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
 - [checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
-- [structor](https://github.com/containous/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
+- [structor](https://github.com/traefik/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
 - [rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
@@ -312,6 +315,7 @@
 - [apilint](https://github.com/danielgtaylor/apilint) - Extensible REST API linter utility
 - [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+- [cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [PokerPlanning](https://github.com/khris78/PokerPlanning) - 
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -565,6 +569,7 @@
 
 ## Python 
 
+- [editor](https://github.com/rec/editor) - 🖋️ Open a text editor🖋️
 - [poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
 - [shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
@@ -611,7 +616,7 @@
 - [nectarine](https://github.com/doom/nectarine) - Configuration-loading made easy.
 - [anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
-- [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - This generator creates pydantic mode from an openapi file.
+- [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
@@ -691,7 +696,6 @@
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
-- [cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [python-memcached](https://github.com/linsomniac/python-memcached) - A python memcached client library.
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
@@ -909,6 +913,7 @@
 - [PyJava](https://github.com/raptor494/PyJava) - Use braces and semicolons in Python!
 - [paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python 3.4+
 - [datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
@@ -1403,7 +1408,6 @@
 
 ## TypeScript 
 
-- [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A summary of package management tools in the Python ecosystem
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
@@ -1419,7 +1423,6 @@
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [sfeir-school-angular](https://github.com/sfeir-open-source/sfeir-school-angular) - Repository for Sfeir School Angular
 - [drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
