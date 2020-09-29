@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
 - [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
@@ -280,7 +281,7 @@
 ## Haskell 
 
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
-- [scarf](https://github.com/aviaviavi/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
+- [scarf](https://github.com/scarf-sh/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
 - [unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -432,7 +433,7 @@
 ## Kotlin 
 
 - [poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
-- [pydantic-pycharm-plugin](https://github.com/koxudaxi/pydantic-pycharm-plugin) - Autocomplete for pydantic
+- [pydantic-pycharm-plugin](https://github.com/koxudaxi/pydantic-pycharm-plugin) - PyCharm plugin for pydantic.  This plugin provides autocompletion, inspection, type-checking, inserting unfilled argument, and more.
 - [zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
@@ -569,12 +570,20 @@
 
 ## Python 
 
+- [battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
+- [python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
+- [questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
+- [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+- [man-utils](https://github.com/oz123/man-utils) - man-utils is a collection of utils and libraries to help package maintainers easily create and maintain man pages for Python projects.
+- [httpx-cli](https://github.com/encode/httpx-cli) - A command line HTTP client
+- [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+- [splitmind](https://github.com/jerdna-regeiz/splitmind) - Split information output of pwndbg output
 - [editor](https://github.com/rec/editor) - 🖋️ Open a text editor🖋️
 - [poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
 - [shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [deepmerge](https://github.com/toumorokoshi/deepmerge) - A deep merging tool for Python core data structures
-- [rgain](https://github.com/chaudum/rgain) - A Python 3 compatible fork of rgain
+- [rgain](https://github.com/chaudum/rgain) - A Python 3 compatible fork of rgain -- ReplayGain tools and Python library
 - [backtrace](https://github.com/nir0s/backtrace) - Makes Python tracebacks human friendly
 - [colored-traceback.py](https://github.com/staticshock/colored-traceback.py) - Automatically color Python's uncaught exception tracebacks
 - [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
@@ -865,7 +874,7 @@
 - [vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
-- [mne-python](https://github.com/mne-tools/mne-python) - MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+- [mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in python or on AWS Lambda
 - [doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner.
@@ -1283,7 +1292,8 @@
 
 ## Shell 
 
-- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
+- [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
+- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
 - [sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
 - [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
 - [shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
