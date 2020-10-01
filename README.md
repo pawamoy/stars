@@ -39,6 +39,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -152,7 +153,6 @@
 - [mkdocs-bootswatch](https://github.com/mkdocs/mkdocs-bootswatch) - MkDocs Bootswatch Themes
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [sphinx-material](https://github.com/bashtage/sphinx-material) - A material-based, responsive theme inspired by mkdocs-material
-- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
@@ -192,6 +192,7 @@
 
 ## Go 
 
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [upterm](https://github.com/jingweno/upterm) - Secure Terminal Sharing
@@ -409,7 +410,7 @@
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [repolinter](https://github.com/todogroup/repolinter) - Open Source Repository Linter
+- [repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 - [Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
@@ -570,6 +571,7 @@
 
 ## Python 
 
+- [pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
 - [battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
 - [python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
 - [questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
@@ -1286,6 +1288,10 @@
 
 - [furo](https://github.com/pradyunsg/furo) - [WIP] A clean customizable documentation theme for Sphinx
 
+## Sass 
+
+- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
+
 ## Scheme 
 
 - [spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest. In addition classes are provided to expose the data to geotools and thereby to geotools enabled applications like geoserver and uDig.
@@ -1418,6 +1424,7 @@
 
 ## TypeScript 
 
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod is an open source developer platform that automates the provisioning of ready-to-code development environments.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
