@@ -156,6 +156,7 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause) - I downvoted because...
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
@@ -192,10 +193,11 @@
 
 ## Go 
 
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [upterm](https://github.com/jingweno/upterm) - Secure Terminal Sharing
+- [upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
@@ -262,7 +264,6 @@
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
-- [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
@@ -297,7 +298,7 @@
 - [git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - Library for parsing and generating a changelog, or releasenotes, from a GIT repository
 - [haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
-- [SDE-Interview-Questions](https://github.com/rishabh115/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+- [SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [SciGraph](https://github.com/SciGraph/SciGraph) - A Neo4j backed ontology store
@@ -339,6 +340,7 @@
 - [sharyfi](https://github.com/tersfeld/sharyfi) - 
 - [conway](https://github.com/tersfeld/conway) - 
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
+- [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
@@ -446,7 +448,6 @@
 ## Makefile 
 
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
 ## OCaml 
 
@@ -541,7 +542,7 @@
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
-- [hire-me](https://github.com/fvcproductions/hire-me) - A path to getting an awesome tech gig 💼
+- [hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
@@ -571,6 +572,8 @@
 
 ## Python 
 
+- [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
+- [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
 - [battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
 - [python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
@@ -628,7 +631,7 @@
 - [anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications.
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -900,7 +903,7 @@
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
 - [puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
-- [xdg](https://github.com/srstevenson/xdg) - XDG Base Directory Specification for Python
+- [xdg](https://github.com/srstevenson/xdg) - An implementation of the XDG Base Directory Specification in Python
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [moviemon](https://github.com/iCHAIT/moviemon) - :movie_camera: Everything about your movies within the command line.
 - [guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
@@ -942,7 +945,6 @@
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
 - [tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
-- [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [python-anyconfig](https://github.com/ssato/python-anyconfig) - Python library provides common APIs to load and dump configuration files in various formats
@@ -1032,7 +1034,7 @@
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
 - [bugwarrior](https://github.com/ralphbean/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [redisgraph-py](https://github.com/RedisGraph/redisgraph-py) - RedisGraph python client
-- [topydo](https://github.com/bram85/topydo) - A powerful todo list application for the console, using the todo.txt format.
+- [topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
 - [django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
@@ -1078,7 +1080,7 @@
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [bumpversion](https://github.com/peritus/bumpversion) - Version-bump your software with a single command
 - [django-shard-library](https://github.com/ridi/django-shard-library) - 
-- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
+- [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
@@ -1298,6 +1300,7 @@
 
 ## Shell 
 
+- [tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
 - [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 - [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
 - [sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
