@@ -499,7 +499,7 @@
 - [sfeir-school-speaker](https://github.com/sfeir-open-source/sfeir-school-speaker) - Sfeir School Speaker. This trainning will help people to speak in conference
 - [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -572,6 +572,13 @@
 
 ## Python 
 
+- [dependencies](https://github.com/proofit404/dependencies) - Dependency Injection for Humans.
+- [moesha](https://github.com/emehrkay/moesha) - 
+- [darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit
+- [docker-nginx-postgres-django-example](https://github.com/pawamoy/docker-nginx-postgres-django-example) - Example using Docker, Django, multiple Postgres databases, NginX, Gunicorn, pipenv, GitLab CI and tox.
+- [pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
+- [procrastinate](https://github.com/peopledoc/procrastinate) - PostgreSQL-based Task Queue for Python
+- [python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
@@ -666,7 +673,7 @@
 - [dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
-- [python-build](https://github.com/FFY00/python-build) - A simple, correct PEP517 package builder
+- [build](https://github.com/pypa/build) - A simple, correct PEP517 package builder
 - [python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [installer](https://github.com/pradyunsg/installer) - [work in progess - see #1] Someone said something about Python wheels, installation and maybe... a CLI.
 - [clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
@@ -1213,7 +1220,7 @@
 - [django-dash](https://github.com/barseghyanartur/django-dash) - Customisable, modular dashboard application framework for Django.
 - [changes](https://github.com/michaeljoseph/changes) - changes automates python library release tasks.
 - [django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
-- [django-filer](https://github.com/divio/django-filer) - File and Image Management Application for django
+- [django-filer](https://github.com/django-cms/django-filer) - File and Image Management Application for django
 - [django-csvimport](https://github.com/edcrewe/django-csvimport) - A generic CSV import tool for django models, imports run via admin upload logging model or custom command
 - [django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [django-audit-log](https://github.com/vvangelovski/django-audit-log) - Audit log for your Django models
@@ -1283,12 +1290,12 @@
 - [alt](https://github.com/uptech/alt) - Command line tool to find alternate files
 - [cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [package-manager](https://github.com/sinopiaolive/package-manager) - The package manager.
 
 ## SCSS 
 
-- [furo](https://github.com/pradyunsg/furo) - [WIP] A clean customizable documentation theme for Sphinx
+- [furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 
 ## Sass 
 
