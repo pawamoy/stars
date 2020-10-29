@@ -148,7 +148,6 @@
 
 - [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A summary of package management tools in the Python ecosystem
 - [semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [mkdocs-bootswatch](https://github.com/mkdocs/mkdocs-bootswatch) - MkDocs Bootswatch Themes
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -337,7 +336,7 @@
 - [game-of-life](https://github.com/yuanchuan/game-of-life) - A browser extension to play Conway's Game of Life on GitHub contribution board
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
 - [Measure](https://github.com/MeasureOSS/Measure) - At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. It allows you to understand how people as individuals and as organizations are interacting with open source projects on GitHub. It’s metrics that focus not only on code, but on contributors.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
+- [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [movie](https://github.com/mayankchd/movie) - A CLI for getting information about movies and comparing two movies
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [sharyfi](https://github.com/tersfeld/sharyfi) - 
@@ -463,6 +462,8 @@
 
 ## Others 
 
+- [mkdocstrings-feedstock](https://github.com/conda-forge/mkdocstrings-feedstock) - A conda-smithy repository for mkdocstrings.
+- [mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
 - [awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
 - [MkDocsPlus](https://github.com/bwmarrin/MkDocsPlus) - MkDocs+ provides examples of integrating 3rd party libraries with MkDocs.
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -575,6 +576,18 @@
 
 ## Python 
 
+- [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
+- [aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
+- [janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
+- [treelock](https://github.com/michalc/treelock) - Fast read/write sub-tree locking for asyncio Python
+- [fifolock](https://github.com/michalc/fifolock) - A flexible low-level tool to make synchronisation primitives in asyncio Python
+- [aioredlock](https://github.com/joanvila/aioredlock) - :lock: The asyncio implemetation of Redis distributed locks
+- [aiorwlock](https://github.com/aio-libs/aiorwlock) - Read/Write Lock - synchronization primitive for asyncio
+- [aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
+- [persist-queue](https://github.com/peter-wangxu/persist-queue) - A thread-safe disk based persistent queue in Python
+- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+- [queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) queues
+- [aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [dataclasses](https://github.com/ericvsmith/dataclasses) - 
 - [mkdocstrings-crystal](https://github.com/oprypin/mkdocstrings-crystal) - 📘 Crystal language generator for https://github.com/pawamoy/mkdocstrings
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
@@ -869,7 +882,7 @@
 - [snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
 - [tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
-- [yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine aware.
+- [yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.
 - [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [graphscii](https://github.com/etano/graphscii) - Print ASCII graphs in the terminal.
@@ -1016,7 +1029,7 @@
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [setupmeta](https://github.com/zsimic/setupmeta) - Simplify your setup.py
-- [disposable](https://github.com/andreis/disposable) - A list of disposable/temporary email address domains
+- [disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the output of pytest with colourful unified diffs
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
 - [expects](https://github.com/jaimegildesagredo/expects) - Expects is an expressive and extensible TDD/BDD assertion library for Python.
@@ -1161,7 +1174,7 @@
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [pootle](https://github.com/translate/pootle) - Online translation tool
 - [system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
-- [tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool
+- [tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [nox](https://github.com/theacodes/nox) - Flexible test automation for Python
 - [towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
@@ -1304,6 +1317,7 @@
 ## SCSS 
 
 - [furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Sass 
 
