@@ -177,6 +177,7 @@
 
 ## Dockerfile 
 
+- [theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings
 - [docker-isso](https://github.com/Wonderfall/docker-isso) - 
 - [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I use for development
 - [gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
@@ -462,6 +463,7 @@
 
 ## Others 
 
+- [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [mkdocstrings-feedstock](https://github.com/conda-forge/mkdocstrings-feedstock) - A conda-smithy repository for mkdocstrings.
 - [mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
 - [awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
@@ -576,6 +578,9 @@
 
 ## Python 
 
+- [fastapi-admin](https://github.com/long2ice/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
+- [Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
+- [py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
 - [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
 - [janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
