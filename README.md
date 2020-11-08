@@ -111,7 +111,7 @@
 
 ## C# # 
 
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
 
@@ -181,6 +181,7 @@
 - [docker-isso](https://github.com/Wonderfall/docker-isso) - 
 - [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I use for development
 - [gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
+- [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/docker-nginx-postgres-django-example).
 - [bash-kit](https://github.com/bashup/bash-kit) - Images for testing .devkit-based projects against specific bash versions
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -197,7 +198,7 @@
 
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
@@ -578,6 +579,8 @@
 
 ## Python 
 
+- [importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
+- [dogstring-action](https://github.com/ponicode/dogstring-action) - GitHub Action that generates your Python docstrings!
 - [fastapi-admin](https://github.com/long2ice/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
 - [Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
 - [py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
@@ -797,7 +800,6 @@
 - [xcffib](https://github.com/tych0/xcffib) - A drop-in replacement for xpyb based on cffi
 - [pytest-parallel](https://github.com/browsertron/pytest-parallel) - A pytest plugin for parallel and concurrent testing
 - [Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
-- [awesome-python](https://github.com/doron-cohen/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [ptyprocess](https://github.com/pexpect/ptyprocess) - Run a subprocess in a pseudo terminal
 - [qtile-telemetry-playground](https://github.com/ep12/qtile-telemetry-playground) - ideas for qtile telemetry
 - [aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
@@ -1321,11 +1323,11 @@
 
 ## SCSS 
 
-- [furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Sass 
 
+- [furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 
 ## Scheme 
@@ -1363,7 +1365,7 @@
 - [cpip](https://github.com/eigentechnologies/cpip) - 
 - [anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [VATS-zsh](https://github.com/zdharma/VATS-zsh) - Private repo: VATS integrated with Zsh build system
 - [z-a-test](https://github.com/zinit-zsh/z-a-test) - Zsh-Zplugin extension that runs tests (via make test, for example) after installing and updating a plugin or snippet
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
@@ -1391,7 +1393,6 @@
 - [bpm](https://github.com/bpm-rocks/bpm) - Bash Package Manager
 - [bash-array-utils](https://github.com/hugot/bash-array-utils) - Utility functions  for common array operations in bash
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
 - [sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
