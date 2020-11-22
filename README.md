@@ -7,10 +7,12 @@
 
   - [Assembly](#assembly)
   - [Awk](#awk)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Crystal](#crystal)
   - [D](#d)
   - [Dockerfile](#dockerfile)
@@ -61,6 +63,10 @@
 
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
+## Blade 
+
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+
 ## C 
 
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -98,7 +104,7 @@
 - [testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [libsphinx](https://github.com/stef/libsphinx) - Sphinx-based Password Storage and OPAQUE low-level library
+- [libsphinx](https://github.com/stef/libsphinx) - Sphinx-based Password Storage low-level library
 - [agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [tint2](https://github.com/chazmcgarvey/tint2) - a lightweight panel/taskbar, with patches
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
@@ -158,13 +164,16 @@
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause) - I downvoted because...
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS (Stupid Hackathon Project)
 - [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+
+## Clojure 
+
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
 
 ## Crystal 
 
@@ -261,6 +270,7 @@
 
 ## HTML 
 
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
 - [ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
@@ -346,7 +356,6 @@
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
@@ -439,6 +448,8 @@
 
 ## Kotlin 
 
+- [projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
+- [projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
 - [poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
 - [pydantic-pycharm-plugin](https://github.com/koxudaxi/pydantic-pycharm-plugin) - PyCharm plugin for pydantic.  This plugin provides autocompletion, inspection, type-checking, inserting unfilled argument, and more.
 - [zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
@@ -464,6 +475,7 @@
 
 ## Others 
 
+- [gh-pages-url-shortener-db](https://github.com/nelsontky/gh-pages-url-shortener-db) - 
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [mkdocstrings-feedstock](https://github.com/conda-forge/mkdocstrings-feedstock) - A conda-smithy repository for mkdocstrings.
 - [mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
@@ -579,6 +591,10 @@
 
 ## Python 
 
+- [mutmut](https://github.com/boxed/mutmut) - Mutation testing system
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
+- [piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder) - Runs tests multiple times to expose flakiness.
 - [flaky](https://github.com/box/flaky) - Plugin for nose or pytest that automatically reruns flaky tests.
 - [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
@@ -649,7 +665,7 @@
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [darglint](https://github.com/terrencepreilly/darglint) - A python documentation linter which checks that the docstring description matches the definition.
-- [flake8-eradicate](https://github.com/sobolevn/flake8-eradicate) - Flake8 plugin to find commented out or dead code
+- [flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [flake8-pytest-style](https://github.com/m-burst/flake8-pytest-style) - A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.
 - [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - :game_die: Pytest plugin to randomly order tests and control random.seed
 - [hypothesmith](https://github.com/Zac-HD/hypothesmith) - Hypothesis strategies for generating Python programs, something like CSmith
@@ -725,7 +741,7 @@
 - [python-stringcase](https://github.com/okunishinishi/python-stringcase) - String case converter for python.
 - [inflection](https://github.com/jpvanhal/inflection) - A port of Ruby on Rails' inflector to Python
 - [case-conversion](https://github.com/AlejandroFrias/case-conversion) - Python package ported from Davis Clark's CaseConversion Sublime Plugin
-- [inflect](https://github.com/jazzband/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+- [inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
 - [logging_tree](https://github.com/brandon-rhodes/logging_tree) - Debug Python logging problems by printing out the tree of handlers you have defined.
@@ -1329,6 +1345,7 @@
 ## SCSS 
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 
 ## Sass 
 
@@ -1468,6 +1485,7 @@
 
 ## TypeScript 
 
+- [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod is an open source developer platform that automates the provisioning of ready-to-code development environments.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
