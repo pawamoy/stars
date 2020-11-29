@@ -29,6 +29,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [OpenSCAD](#openscad)
   - [Others](#others)
@@ -333,7 +334,6 @@
 - [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [PokerPlanning](https://github.com/khris78/PokerPlanning) - 
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [mkdocs-swagger-plugin](https://github.com/allevo/mkdocs-swagger-plugin) - MkDocs plugin for render swagger into docs
@@ -385,6 +385,7 @@
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
+- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [sourcecred](https://github.com/sourcecred/sourcecred) - a social algorithm for computing cred
 - [browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
@@ -464,6 +465,10 @@
 
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
+## Nix 
+
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## OCaml 
 
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
@@ -485,6 +490,7 @@
 - [blacklist-is-not-a-racist-word](https://github.com/blacklistisnotracist/blacklist-is-not-a-racist-word) - Hi, my name is blacklist. I'm offended because non-black people think I'm offensive without presenting any evidence.
 - [policy-2.0](https://github.com/lemonade-hq/policy-2.0) - Lemonade’s Policy 2.0, a radically simplified, modernized, and digitized insurance policy.
 - [Invite](https://github.com/ourforks/Invite) - Request an organization invite by opening an issue.
+- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [pinephone](https://github.com/tcfitzgerald/pinephone) - Things I want to remember for the pinephone
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
@@ -591,6 +597,9 @@
 
 ## Python 
 
+- [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
+- [perfplot](https://github.com/nschloe/perfplot) - Performance plots for Python code
+- [doit](https://github.com/pydoit/doit) - task management & automation tool
 - [mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -656,7 +665,7 @@
 - [Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and configure. It empowers lint rule to provide autofix to fix the issues for developers. It also provide tools to run autofix across codebase to fix existing issues and automatically insert lint-fixme comments to silent existing violation. Fixit integrates with Flake8 and it adds the above mentioned enhancements to it.
 - [reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
 - [steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
-- [HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface 🤖
+- [HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents
@@ -1514,7 +1523,6 @@
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [angular-push-notifications](https://github.com/LukasMarx/angular-push-notifications) - 
-- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
