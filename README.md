@@ -597,6 +597,11 @@
 
 ## Python 
 
+- [tuna](https://github.com/nschloe/tuna) - Python profile viewer
+- [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) - Create Python API documentation in Markdown format.
+- [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
+- [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [perfplot](https://github.com/nschloe/perfplot) - Performance plots for Python code
 - [doit](https://github.com/pydoit/doit) - task management & automation tool
@@ -800,7 +805,7 @@
 - [hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [respx](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects 🦋
 - [python-switch](https://github.com/mikeckennedy/python-switch) - Adds switch blocks to Python
-- [Parser](https://github.com/ReceiptManager/Parser) - A supermarket receipt parser written in Python using tesseract OCR
+- [receipt-parser](https://github.com/ReceiptManager/receipt-parser) - A supermarket receipt parser written in Python using tesseract OCR
 - [pycon-async-sync-poster](https://github.com/sethmlarson/pycon-async-sync-poster) - An example project which demonstrates how to use some new tools to more easily maintain a codebase that supports both async and synchronous I/O and multiple async libraries.
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
