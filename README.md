@@ -7,7 +7,6 @@
 
   - [Assembly](#assembly)
   - [Awk](#awk)
-  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -64,12 +63,9 @@
 
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
-## Blade 
-
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-
 ## C 
 
+- [yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -153,7 +149,7 @@
 
 ## CSS 
 
-- [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A summary of package management tools in the Python ecosystem
+- [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - An big, interactive table of package management tools in the Python ecosystem
 - [semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [mkdocs-bootswatch](https://github.com/mkdocs/mkdocs-bootswatch) - MkDocs Bootswatch Themes
@@ -194,7 +190,6 @@
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/docker-nginx-postgres-django-example).
 - [bash-kit](https://github.com/bashup/bash-kit) - Images for testing .devkit-based projects against specific bash versions
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Elixir 
 
@@ -321,6 +316,8 @@
 
 ## JavaScript 
 
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
@@ -356,6 +353,7 @@
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
@@ -480,6 +478,7 @@
 
 ## Others 
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [gh-pages-url-shortener-db](https://github.com/nelsontky/gh-pages-url-shortener-db) - 
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [mkdocstrings-feedstock](https://github.com/conda-forge/mkdocstrings-feedstock) - A conda-smithy repository for mkdocstrings.
@@ -566,7 +565,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
+- [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -597,6 +596,12 @@
 
 ## Python 
 
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
+- [napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
+- [anybadge](https://github.com/jongracecox/anybadge) - A Python project for generating badges for your projects, with a focus on simplicity and flexibility.
+- [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [tuna](https://github.com/nschloe/tuna) - Python profile viewer
 - [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) - Create Python API documentation in Markdown format.
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
@@ -614,7 +619,7 @@
 - [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
 - [pytest-random-order](https://github.com/jbasko/pytest-random-order) - pytest plugin to randomise the order of tests with some control over the randomness
 - [pylint-silent](https://github.com/udifuchs/pylint-silent) - Automatically add code comments to silence the output of pylint.
-- [turbulette](https://github.com/python-turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
+- [turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
 - [dogstring-action](https://github.com/ponicode/dogstring-action) - GitHub Action that generates your Python docstrings!
 - [fastapi-admin](https://github.com/long2ice/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
@@ -633,7 +638,7 @@
 - [queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) queues
 - [aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [dataclasses](https://github.com/ericvsmith/dataclasses) - 
-- [mkdocstrings-crystal](https://github.com/oprypin/mkdocstrings-crystal) - 📘 Crystal language generator for https://github.com/pawamoy/mkdocstrings
+- [mkdocstrings-crystal](https://github.com/oprypin/mkdocstrings-crystal) - 📘 Crystal language doc generator for https://github.com/pawamoy/mkdocstrings
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
@@ -811,7 +816,7 @@
 - [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
 - [pdm](https://github.com/frostming/pdm) - A modern Python package manager with PEP 582 support.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
-- [chain-reaction-ai](https://github.com/shridharrhegde/chain-reaction-ai) - ai opponent for the game chain reaction
+- [chain-reaction-ai](https://github.com/notshridhar/chain-reaction-ai) - ai opponent for the game chain reaction
 - [pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [get-ca-py](https://github.com/neozenith/get-ca-py) - Extracting Certificate Authorities from a request
 - [cluegen](https://github.com/dabeaz/cluegen) - Get a clue, get some code
@@ -956,7 +961,7 @@
 - [python-gssapi](https://github.com/pythongssapi/python-gssapi) - A Python interface to RFC 2743/2744 (plus common extensions)
 - [flask-kerberos-login](https://github.com/ContinuumIO/flask-kerberos-login) - Flask kerberos integration
 - [requests-kerberos](https://github.com/requests/requests-kerberos) - An authentication handler for using Kerberos with Python Requests.
-- [flask-kerberos](https://github.com/mkomitee/flask-kerberos) - Kerberos Authentication for Flask
+- [flask-kerberos](https://github.com/deshaw/flask-kerberos) - Kerberos Authentication for Flask
 - [adtk](https://github.com/arundo/adtk) - A Python toolkit for rule-based/unsupervised anomaly detection in time series
 - [pythondi](https://github.com/teamhide/pythondi) - Python lightweight dependency injection library
 - [six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
@@ -1007,7 +1012,7 @@
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
-- [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -1193,6 +1198,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [imbox](https://github.com/martinrusev/imbox) - Python IMAP for Human beings
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -1500,7 +1506,7 @@
 ## TypeScript 
 
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod is an open source developer platform that automates the provisioning of ready-to-code development environments.
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
