@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [Awk](#awk)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -62,6 +63,10 @@
 ## Awk 
 
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+
+## Blade 
+
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -120,6 +125,7 @@
 
 ## C++ 
 
+- [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
@@ -164,7 +170,6 @@
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS (Stupid Hackathon Project)
-- [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 
@@ -316,8 +321,11 @@
 
 ## JavaScript 
 
+- [termynal](https://github.com/daxartio/termynal) - 
+- [AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
@@ -353,7 +361,6 @@
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
@@ -596,6 +603,19 @@
 
 ## Python 
 
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
+- [pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
+- [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
+- [beartype](https://github.com/beartype/beartype) - Unbearably fast O(1) runtime type-checking in pure Python.
+- [python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
+- [python-pytest-harvest](https://github.com/smarie/python-pytest-harvest) - Store data created during your `pytest` tests execution, and retrieve it at the end of the session, e.g. for applicative benchmarking purposes.
+- [pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
+- [spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
+- [pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
+- [pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
+- [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) - MkDocs plugin to specify the navigation in Markdown instead of YAML
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
@@ -611,7 +631,6 @@
 - [perfplot](https://github.com/nschloe/perfplot) - Performance plots for Python code
 - [doit](https://github.com/pydoit/doit) - task management & automation tool
 - [mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 - [piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder) - Runs tests multiple times to expose flakiness.
@@ -870,7 +889,7 @@
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
+- [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [watchgod](https://github.com/samuelcolvin/watchgod) - Simple, modern file watching and code reload in python.
@@ -1366,6 +1385,7 @@
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+- [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 
 ## Sass 
 
