@@ -7,7 +7,6 @@
 
   - [Assembly](#assembly)
   - [Awk](#awk)
-  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -57,16 +56,13 @@
 
 ## Assembly 
 
+- [pics](https://github.com/corkami/pics) - Posters, drawings...
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## Awk 
 
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-
-## Blade 
-
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -361,6 +357,7 @@
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
@@ -485,6 +482,8 @@
 
 ## Others 
 
+- [nord-wallpapers](https://github.com/tamaldearroz/nord-wallpapers) - Frosty ❄️ wallpapers for your nord rice!
+- [faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [gh-pages-url-shortener-db](https://github.com/nelsontky/gh-pages-url-shortener-db) - 
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
@@ -603,6 +602,12 @@
 
 ## Python 
 
+- [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
+- [regarding](https://github.com/nicfit/regarding) - Create __about__.py files from `pyproject.toml`.
+- [eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4).
+- [Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
+- [django-jsonapi-training](https://github.com/columbia-it/django-jsonapi-training) - Columbia University IT developer training on using Django, REST and {json:api}
+- [colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
@@ -1184,7 +1189,7 @@
 - [django_coverage_plugin](https://github.com/nedbat/django_coverage_plugin) - A plugin for coverage.py to measure Django template execution
 - [coveragepy-bbmirror](https://github.com/nedbat/coveragepy-bbmirror) - The old mirror of the old Bitbucket repo. Real repo is at https://github.com/nedbat/coveragepy
 - [codeclimate-pylint](https://github.com/mikebryant/codeclimate-pylint) - Pylint engine for codeclimate
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [eve-neo4j](https://github.com/Grupo-Abraxas/eve-neo4j) - Eve Neo4j extension
 - [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
