@@ -75,7 +75,7 @@
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [ccs-pykerberos](https://github.com/apple/ccs-pykerberos) - Python Kerberos library used by CalendarServer
 - [radeontop](https://github.com/clbr/radeontop) - 
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
@@ -162,7 +162,6 @@
 - [aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause) - I downvoted because...
-- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS (Stupid Hackathon Project)
@@ -194,6 +193,7 @@
 
 ## Elixir 
 
+- [shoutouts.dev](https://github.com/yeraydiazdiaz/shoutouts.dev) - Open Source is hard. Show your gratitude
 - [base16-builder-elixir](https://github.com/obahareth/base16-builder-elixir) - An Elixir implementation of a Base16 builder.
 
 ## Gherkin 
@@ -482,6 +482,7 @@
 
 ## Others 
 
+- [blue-book](https://github.com/lyz-code/blue-book) - My personal second brain
 - [nord-wallpapers](https://github.com/tamaldearroz/nord-wallpapers) - Frosty ❄️ wallpapers for your nord rice!
 - [faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -602,6 +603,7 @@
 
 ## Python 
 
+- [apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [regarding](https://github.com/nicfit/regarding) - Create __about__.py files from `pyproject.toml`.
 - [eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4).
@@ -834,7 +836,7 @@
 - [hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [respx](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects 🦋
 - [python-switch](https://github.com/mikeckennedy/python-switch) - Adds switch blocks to Python
-- [receipt-parser](https://github.com/ReceiptManager/receipt-parser) - A supermarket receipt parser written in Python using tesseract OCR
+- [receipt-parser-legacy](https://github.com/ReceiptManager/receipt-parser-legacy) - A supermarket receipt parser written in Python using tesseract OCR
 - [pycon-async-sync-poster](https://github.com/sethmlarson/pycon-async-sync-poster) - An example project which demonstrates how to use some new tools to more easily maintain a codebase that supports both async and synchronous I/O and multiple async libraries.
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
@@ -1205,6 +1207,7 @@
 - [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [recommonmark](https://github.com/readthedocs/recommonmark) - A markdown parser for docutils
 - [nginx-flask-postgres-docker-compose-example](https://github.com/juggernaut/nginx-flask-postgres-docker-compose-example) - A working example of nginx+flask+postgres multi-container setup using Docker Compose
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
@@ -1468,7 +1471,7 @@
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
+- [polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
 - [bunsen-welcome](https://github.com/BunsenLabs/bunsen-welcome) - Post installation script for BunsenLabs Linux
 - [colored-man-pages_mod](https://github.com/zuxfoucault/colored-man-pages_mod) - Fork from https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh
