@@ -461,7 +461,7 @@
 ## Lua 
 
 - [polycore](https://github.com/philer/polycore) - A conky config and library of Lua widgets
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 
 ## Makefile 
 
@@ -999,7 +999,7 @@
 - [gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [django-shop](https://github.com/awesto/django-shop) - A Django based shop system
-- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
@@ -1406,6 +1406,7 @@
 
 ## Shell 
 
+- [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
 - [tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
 - [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
