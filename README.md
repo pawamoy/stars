@@ -66,6 +66,7 @@
 
 ## C 
 
+- [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -174,7 +175,6 @@
 
 ## Crystal 
 
-- [crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## D 
@@ -183,6 +183,7 @@
 
 ## Dockerfile 
 
+- [dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings
 - [docker-isso](https://github.com/Wonderfall/docker-isso) - 
 - [dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I use for development
@@ -268,6 +269,7 @@
 ## HTML 
 
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
+- [crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
 - [ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
@@ -465,6 +467,7 @@
 
 ## Makefile 
 
+- [blue-book](https://github.com/lyz-code/blue-book) - My personal second brain
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
 ## Nix 
@@ -482,7 +485,8 @@
 
 ## Others 
 
-- [blue-book](https://github.com/lyz-code/blue-book) - My personal second brain
+- [calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
+- [tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
 - [nord-wallpapers](https://github.com/tamaldearroz/nord-wallpapers) - Frosty ❄️ wallpapers for your nord rice!
 - [faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -540,7 +544,7 @@
 - [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
@@ -574,7 +578,7 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
@@ -603,6 +607,17 @@
 
 ## Python 
 
+- [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) - MkDocs plugin to allow clickable sections that lead to an index page
+- [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
+- [typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
+- [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
+- [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+- [python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
+- [year-on-github](https://github.com/jrieke/year-on-github) - 🐙 Share your Github stats for 2020 on Twitter
+- [mkdocs-simple-plugin](https://github.com/athackst/mkdocs-simple-plugin) - Build documentation files inside your code into a MkDocs.
+- [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
+- [astor](https://github.com/berkerpeksag/astor) - Python AST read/write
+- [mkgendocs](https://github.com/davidenunes/mkgendocs) - Markdown documentation generator from Google docstrings
 - [apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [regarding](https://github.com/nicfit/regarding) - Create __about__.py files from `pyproject.toml`.
@@ -1100,7 +1115,7 @@
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [setupmeta](https://github.com/zsimic/setupmeta) - Simplify your setup.py
+- [setupmeta](https://github.com/codrsquad/setupmeta) - Simplify your setup.py
 - [disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the output of pytest with colourful unified diffs
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
@@ -1191,7 +1206,7 @@
 - [django_coverage_plugin](https://github.com/nedbat/django_coverage_plugin) - A plugin for coverage.py to measure Django template execution
 - [coveragepy-bbmirror](https://github.com/nedbat/coveragepy-bbmirror) - The old mirror of the old Bitbucket repo. Real repo is at https://github.com/nedbat/coveragepy
 - [codeclimate-pylint](https://github.com/mikebryant/codeclimate-pylint) - Pylint engine for codeclimate
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [eve-neo4j](https://github.com/Grupo-Abraxas/eve-neo4j) - Eve Neo4j extension
 - [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
@@ -1334,7 +1349,7 @@
 
 ## Ruby 
 
-- [shortcuts](https://github.com/seanbreckenridge/shortcuts) - some ruby to create arbitrary shell scripts
+- [shortcuts](https://github.com/seanbreckenridge/shortcuts) - some ruby to create arbitrary shell scripts from a config file
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -1406,6 +1421,7 @@
 
 ## Shell 
 
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
 - [tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
