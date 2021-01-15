@@ -66,6 +66,7 @@
 
 ## C 
 
+- [typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -485,9 +486,12 @@
 
 ## Others 
 
+- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
+- [old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
 - [tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
-- [nord-wallpapers](https://github.com/tamaldearroz/nord-wallpapers) - Frosty ❄️ wallpapers for your nord rice!
+- [nord-wallpapers](https://github.com/dxnst/nord-wallpapers) - moved to https://github.com/dxnst/nord-backgrounds
 - [faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [gh-pages-url-shortener-db](https://github.com/nelsontky/gh-pages-url-shortener-db) - 
@@ -607,6 +611,10 @@
 
 ## Python 
 
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
+- [projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
+- [pychu](https://github.com/doom/pychu) - Layered configuration loading built on Pydantic.
+- [ormar](https://github.com/collerek/ormar) - python async mini orm with fastapi in mind and pydantic validation
 - [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) - MkDocs plugin to allow clickable sections that lead to an index page
 - [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
@@ -746,7 +754,7 @@
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) - A plugin for flake8 integrating Mypy.
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [nectarine](https://github.com/doom/nectarine) - Configuration-loading made easy.
+- [nectarine](https://github.com/doom/nectarine) - Configuration loading made easy.
 - [anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
@@ -824,7 +832,7 @@
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [pdoc](https://github.com/mitmproxy/pdoc) - A simple command line tool and library to auto generate API documentation for Python libraries.
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same configuration across multiple projects
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
@@ -1278,7 +1286,7 @@
 - [djangocms-shiny-app](https://github.com/mfcovington/djangocms-shiny-app) - A Django app for adding R Shiny apps to a Django site with django CMS-specific features
 - [dparse](https://github.com/pyupio/dparse) - A parser for Python dependency files
 - [honssh](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -1406,6 +1414,7 @@
 
 ## SCSS 
 
+- [athackst.github.io](https://github.com/athackst/athackst.github.io) - My personal webpage
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
@@ -1421,6 +1430,9 @@
 
 ## Shell 
 
+- [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
+- [parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
+- [bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
