@@ -30,6 +30,7 @@
   - [Makefile](#makefile)
   - [Nix](#nix)
   - [OCaml](#ocaml)
+  - [Objective-C](#objective-c)
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
@@ -127,7 +128,6 @@
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
-- [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [kcachegrind](https://github.com/KDE/kcachegrind) - GUI to profilers such as Valgrind
 - [ashuffle](https://github.com/joshkunz/ashuffle) - Automatic library-wide shuffle for mpd.
 - [rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -172,7 +172,7 @@
 
 ## Clojure 
 
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
 
 ## Crystal 
 
@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -272,6 +273,7 @@
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -303,6 +305,9 @@
 
 ## Java 
 
+- [rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
+- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
+- [picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
 - [neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -480,14 +485,16 @@
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
+## Objective-C 
+
+- [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
+
 ## OpenSCAD 
 
 - [keyboard-diy](https://github.com/macroxue/keyboard-diy) - DIY 60% split keyboard, 3D-printed and hand-wired
 
 ## Others 
 
-- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
 - [tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
@@ -536,7 +543,7 @@
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [plex-api](https://github.com/Arcanemagus/plex-api) - Unofficial Plex API Documentation
 - [sfeir-school-speaker](https://github.com/sfeir-open-source/sfeir-school-speaker) - Sfeir School Speaker. This trainning will help people to speak in conference
-- [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
@@ -611,7 +618,20 @@
 
 ## Python 
 
+- [serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
+- [django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
+- [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
+- [http-request-codegen](https://github.com/mondeja/http-request-codegen) - Multilanguage HTTP requests code generator.
+- [autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - Provides GitHub like autolink references in Mkdocs.
+- [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+- [mkdocs-altlink-plugin](https://github.com/cmitu/mkdocs-altlink-plugin) - An MkDocs plugin that simplifies internal links creation
+- [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+- [emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
+- [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
+- [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [pychu](https://github.com/doom/pychu) - Layered configuration loading built on Pydantic.
 - [ormar](https://github.com/collerek/ormar) - python async mini orm with fastapi in mind and pydantic validation
@@ -832,7 +852,6 @@
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same configuration across multiple projects
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
@@ -1258,7 +1277,7 @@
 - [wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [wcwidth](https://github.com/jquast/wcwidth) - Python library that measures the width of unicode strings rendered to a terminal
 - [argparse](https://github.com/ThomasWaldmann/argparse) - python argparse, pypi version (moved from google code)
-- [django-hijack](https://github.com/arteria/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
+- [django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
 - [django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
@@ -1521,7 +1540,7 @@
 - [pyenv-binstubs](https://github.com/madumlao/pyenv-binstubs) - A pipenv plugin for pyenv
 - [pyenv-chooser](https://github.com/oscarmcm/pyenv-chooser) - Allow pyenv to select the python version from the program name.
 - [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [urchin](https://github.com/tlevine/urchin) - Shell tests
 - [sysechk](https://github.com/infertux/sysechk) - System Security Checker is a bundle of small shell scripts to assess your computer security.
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
