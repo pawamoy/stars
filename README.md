@@ -273,7 +273,6 @@
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -329,7 +328,6 @@
 - [AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
@@ -452,6 +450,7 @@
 
 ## Jupyter Notebook 
 
+- [madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
 - [essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -482,6 +481,7 @@
 
 ## OCaml 
 
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
@@ -495,6 +495,7 @@
 
 ## Others 
 
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
 - [tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
@@ -618,10 +619,18 @@
 
 ## Python 
 
+- [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
+- [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
+- [mkdocs-tooltipster-links-plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
+- [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+- [exceptional](https://github.com/wbolster/exceptional) - python library providing various exception handling utilities
+- [HyperTag](https://github.com/SeanPedersen/HyperTag) - File organization made for humans
+- [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
+- [pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
 - [django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
-- [http-request-codegen](https://github.com/mondeja/http-request-codegen) - Multilanguage HTTP requests code generator.
+- [http-request-codegen](https://github.com/mondeja/http-request-codegen) - Multilanguage HTTP requests code generator
 - [autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - Provides GitHub like autolink references in Mkdocs.
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [mkdocs-altlink-plugin](https://github.com/cmitu/mkdocs-altlink-plugin) - An MkDocs plugin that simplifies internal links creation
@@ -852,6 +861,7 @@
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same configuration across multiple projects
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
@@ -1316,7 +1326,7 @@
 - [geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
 - [pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [zerodb](https://github.com/zerodb/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
+- [zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
 - [django-excel-response](https://github.com/tarkatronic/django-excel-response) - Django package to easily render Excel spreadsheets
 - [grest](https://github.com/mostafa/grest) - Build REST APIs with Neo4j and Flask, as quickly as possible!
 - [depsy](https://github.com/ourresearch/depsy) - Track the impact of research software.
@@ -1400,6 +1410,7 @@
 
 ## Rust 
 
+- [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
