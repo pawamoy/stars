@@ -619,6 +619,8 @@
 
 ## Python 
 
+- [construct](https://github.com/construct/construct) - Construct: Declarative data structures for python that allow symmetric parsing and building
+- [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [mkdocs-tooltipster-links-plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
@@ -861,7 +863,7 @@
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
+- [pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same configuration across multiple projects
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
@@ -1086,7 +1088,7 @@
 - [picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
 - [blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
-- [websocket-client](https://github.com/websocket-client/websocket-client) - websocket client for python
+- [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
@@ -1468,7 +1470,7 @@
 - [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
 - [tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
 - [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
-- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
+- [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
 - [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
 - [shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
@@ -1592,6 +1594,7 @@
 
 ## TypeScript 
 
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
