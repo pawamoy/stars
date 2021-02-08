@@ -14,6 +14,7 @@
   - [Clojure](#clojure)
   - [Crystal](#crystal)
   - [D](#d)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Gherkin](#gherkin)
@@ -67,6 +68,8 @@
 
 ## C 
 
+- [hxd](https://github.com/lptstr/hxd) - A better hexdump
+- [rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
 - [typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
@@ -153,6 +156,7 @@
 
 ## CSS 
 
+- [flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
 - [python-packaging-tools](https://github.com/cs01/python-packaging-tools) - An big, interactive table of package management tools in the Python ecosystem
 - [semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -181,6 +185,10 @@
 ## D 
 
 - [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+
+## Dart 
+
+- [syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## Dockerfile 
 
@@ -279,6 +287,7 @@
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
+- [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
@@ -304,9 +313,9 @@
 
 ## Java 
 
-- [rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -481,7 +490,6 @@
 
 ## OCaml 
 
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
@@ -619,6 +627,13 @@
 
 ## Python 
 
+- [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+- [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
+- [Dispatch](https://github.com/Lucretiel/Dispatch) - A python library for overloading functions on type and signature.
+- [organize](https://github.com/tfeldmann/organize) - The file management automation tool.
+- [flake8-html](https://github.com/lordmauve/flake8-html) - Generate HTML reports of flake8 violations
+- [pyotr](https://github.com/berislavlopac/pyotr) - Python OpenAPI-to-REST (and back) framework
+- [pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
 - [construct](https://github.com/construct/construct) - Construct: Declarative data structures for python that allow symmetric parsing and building
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
@@ -989,7 +1004,7 @@
 - [asgi-video-streaming](https://github.com/jordaneremieff/asgi-video-streaming) - Demonstration of video streaming using an ASGI application
 - [aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [cert_human](https://github.com/lifehackjim/cert_human) - SSL Certificates for Humans
-- [memegen](https://github.com/jacebrowning/memegen) - The open source meme generator.
+- [memegen](https://github.com/jacebrowning/memegen) - The free and open source meme generator.
 - [wasabi](https://github.com/ines/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [datafiles](https://github.com/jacebrowning/datafiles) - A file-based ORM for Python dataclasses.
@@ -1088,7 +1103,6 @@
 - [picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
 - [blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
-- [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
@@ -1501,7 +1515,7 @@
 - [z-a-test](https://github.com/zinit-zsh/z-a-test) - Zsh-Zplugin extension that runs tests (via make test, for example) after installing and updating a plugin or snippet
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
 - [yojimbo](https://github.com/ZalgoNoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
-- [gitpack](https://github.com/dominiksalvet/gitpack) - :package: Simple Git-based package manager.
+- [gitpack](https://github.com/dominiksalvet/gitpack) - 📦 Simple Git-based package manager.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [hollywood](https://github.com/dustinkirkland/hollywood) - 
