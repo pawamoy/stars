@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -176,7 +177,7 @@
 
 ## Clojure 
 
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.
 
 ## Crystal 
 
@@ -481,7 +482,7 @@
 
 ## Makefile 
 
-- [blue-book](https://github.com/lyz-code/blue-book) - My personal second brain
+- [blue-book](https://github.com/lyz-code/blue-book) - My personal digital garden
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
 ## Nix 
@@ -627,6 +628,20 @@
 
 ## Python 
 
+- [autorefs](https://github.com/mkdocstrings/autorefs) - 
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+- [mkdocs-newsletter](https://github.com/lyz-code/mkdocs-newsletter) - Automatically create newsletters from the changes in a mkdocs repository
+- [clumper](https://github.com/koaning/clumper) - A small python library that can clump lists of data together.
+- [lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
+- [versort](https://github.com/Tecnativa/versort) - Version sorter utility
+- [pyskroutz](https://github.com/sp1thas/pyskroutz) - A Python client for Skroutz API
+- [flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
+- [pydal](https://github.com/Mte90/pydal) - Remap your specific keyboard to execute custom scripts!
+- [ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
+- [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
+- [about-time](https://github.com/rsalmei/about-time) - A cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions.
+- [mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log.
+- [mkdocstrings-sourcelink](https://github.com/AI2Business/mkdocstrings-sourcelink) - Automatic source link generation for mkdocstrings
 - [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [Dispatch](https://github.com/Lucretiel/Dispatch) - A python library for overloading functions on type and signature.
@@ -641,7 +656,7 @@
 - [mkdocs-tooltipster-links-plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [exceptional](https://github.com/wbolster/exceptional) - python library providing various exception handling utilities
-- [HyperTag](https://github.com/SeanPedersen/HyperTag) - File organization made for humans
+- [HyperTag](https://github.com/SeanPedersen/HyperTag) - Knowledge Management for Humans using Machine Learning & Tags
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
@@ -733,7 +748,7 @@
 - [queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) queues
 - [aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [dataclasses](https://github.com/ericvsmith/dataclasses) - 
-- [mkdocstrings-crystal](https://github.com/oprypin/mkdocstrings-crystal) - 📘 Crystal language doc generator for https://github.com/pawamoy/mkdocstrings
+- [crystal](https://github.com/mkdocstrings/crystal) - 📘 Crystal language doc generator for https://github.com/pawamoy/mkdocstrings
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
@@ -839,7 +854,7 @@
 - [dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
-- [build](https://github.com/pypa/build) - A simple, correct PEP517 package builder
+- [build](https://github.com/pypa/build) - A simple, correct PEP 517 package builder
 - [python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [installer](https://github.com/pradyunsg/installer) - [work in progess - see #1] Someone said something about Python wheels, installation and maybe... a CLI.
 - [clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
@@ -927,7 +942,7 @@
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [ibus-uniemoji](https://github.com/salty-horse/ibus-uniemoji) - Input method (ibus) for entering unicode symbols and emoji by name
 - [mkdocs-jinja2](https://github.com/andyoakley/mkdocs-jinja2) - 
-- [mkdocstrings](https://github.com/pawamoy/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull requests via command line
 - [shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [custom_inherit](https://github.com/rsokl/custom_inherit) - A Python package that provides tools for inheriting docstrings in customizable ways.
@@ -1004,11 +1019,11 @@
 - [asgi-video-streaming](https://github.com/jordaneremieff/asgi-video-streaming) - Demonstration of video streaming using an ASGI application
 - [aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [cert_human](https://github.com/lifehackjim/cert_human) - SSL Certificates for Humans
-- [memegen](https://github.com/jacebrowning/memegen) - The free and open source meme generator.
+- [memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [wasabi](https://github.com/ines/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [datafiles](https://github.com/jacebrowning/datafiles) - A file-based ORM for Python dataclasses.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [tmdbv3api](https://github.com/AnthonyBloomer/tmdbv3api) - A lightweight Python library for The Movie Database (TMDb) API. The TMDb API is a resource for developers to integrate movie, TV show and cast data along with posters or movie fan art.
 - [pip](https://github.com/pypa/pip) - The Python package installer
 - [at16k](https://github.com/at16k/at16k) - Trained models for automatic speech recognition (ASR). A library to quickly build applications that require speech to text conversion.
@@ -1608,6 +1623,7 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
