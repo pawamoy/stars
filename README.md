@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -363,7 +364,7 @@
 - [create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [game-of-life](https://github.com/yuanchuan/game-of-life) - A browser extension to play Conway's Game of Life on GitHub contribution board
-- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
+- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [Measure](https://github.com/MeasureOSS/Measure) - At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. It allows you to understand how people as individuals and as organizations are interacting with open source projects on GitHub. It’s metrics that focus not only on code, but on contributors.
 - [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [movie](https://github.com/mayankchd/movie) - A CLI for getting information about movies and comparing two movies
@@ -403,7 +404,7 @@
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [sourcecred](https://github.com/sourcecred/sourcecred) - a social algorithm for computing cred
 - [browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
@@ -628,6 +629,10 @@
 
 ## Python 
 
+- [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
+- [import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
+- [astpath](https://github.com/hchasestevens/astpath) - A command-line search utility for Python ASTs using XPath syntax.
+- [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [autorefs](https://github.com/mkdocstrings/autorefs) - 
 - [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [mkdocs-newsletter](https://github.com/lyz-code/mkdocs-newsletter) - Automatically create newsletters from the changes in a mkdocs repository
@@ -656,7 +661,7 @@
 - [mkdocs-tooltipster-links-plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [exceptional](https://github.com/wbolster/exceptional) - python library providing various exception handling utilities
-- [HyperTag](https://github.com/SeanPedersen/HyperTag) - Knowledge Management for Humans using Machine Learning & Tags
+- [HyperTag](https://github.com/Ravn-Tech/HyperTag) - Knowledge Management for Humans using Machine Learning & Tags
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
@@ -716,7 +721,7 @@
 - [tuna](https://github.com/nschloe/tuna) - Python profile viewer
 - [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) - Create Python API documentation in Markdown format.
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
-- [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
+- [python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [perfplot](https://github.com/nschloe/perfplot) - Performance plots for Python code
@@ -753,7 +758,7 @@
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
-- [dependencies](https://github.com/proofit404/dependencies) - Dependency Injection for Humans.
+- [dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
 - [moesha](https://github.com/emehrkay/moesha) - 
 - [darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a
 - [docker-nginx-postgres-django-example](https://github.com/pawamoy/docker-nginx-postgres-django-example) - Example using Docker, Django, multiple Postgres databases, NginX, Gunicorn, pipenv, GitLab CI and tox.
@@ -787,7 +792,7 @@
 - [steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
 - [HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
-- [unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
+- [unimport](https://github.com/unimport/unimport) - A linter, formatter for finding and removing unused import statements.
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [autohooks](https://github.com/greenbone/autohooks) - Library for managing git hooks
@@ -844,7 +849,7 @@
 - [mixology](https://github.com/sdispater/mixology) - A generic dependency-resolution library written in pure Python
 - [pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
 - [knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
-- [exdown](https://github.com/nschloe/exdown) - Extract code blocks from text files
+- [exdown](https://github.com/nschloe/exdown) - Extract and test code blocks from Markdown
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
@@ -853,7 +858,7 @@
 - [cookiecutter-python-project](https://github.com/gergelyk/cookiecutter-python-project) - Template of python project.
 - [dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
-- [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
+- [pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [build](https://github.com/pypa/build) - A simple, correct PEP 517 package builder
 - [python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [installer](https://github.com/pradyunsg/installer) - [work in progess - see #1] Someone said something about Python wheels, installation and maybe... a CLI.
@@ -874,7 +879,6 @@
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
 - [logging_tree](https://github.com/brandon-rhodes/logging_tree) - Debug Python logging problems by printing out the tree of handlers you have defined.
-- [deethon](https://github.com/deethon/deethon) - 🎵 Python3 library to easily download music from Deezer
 - [docspec](https://github.com/NiklasRosenstein/docspec) - Docspec is a JSON object specification for representing API documentation of programming languages.
 - [lice](https://github.com/licenses/lice) - Generate license files for your projects
 - [starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
@@ -1414,6 +1418,7 @@
 ## Roff 
 
 - [strans](https://github.com/Inventitech/strans) - Performs string manipulation tasks by learning from the provided example(s), instead of having to program them out explicitly.
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -1542,7 +1547,7 @@
 - [forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
-- [kunst](https://github.com/sdushantha/kunst) - 🖼️ Download and display album art or display embedded album art
+- [kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [explore-with-dmenu](https://github.com/langenhagen/explore-with-dmenu) - A simple Desktop file browser for Linux (and probably Mac)
 - [cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
@@ -1602,7 +1607,6 @@
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
-- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
