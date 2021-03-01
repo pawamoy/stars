@@ -177,7 +177,7 @@
 
 ## Clojure 
 
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases
 
 ## Crystal 
 
@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [go-term-markdown](https://github.com/MichaelMure/go-term-markdown) - A markdown renderer package for the terminal
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -238,7 +239,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI
 - [onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -280,6 +281,7 @@
 
 ## HTML 
 
+- [d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
@@ -317,7 +319,6 @@
 
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -335,6 +336,8 @@
 
 ## JavaScript 
 
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [termynal](https://github.com/daxartio/termynal) - 
 - [AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -492,6 +495,7 @@
 
 ## OCaml 
 
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
@@ -629,6 +633,14 @@
 
 ## Python 
 
+- [arger](https://github.com/jnoortheen/arger) - Create argparser automatically from functions annotations :snake:.
+- [astunparse](https://github.com/simonpercivall/astunparse) - An AST unparser for Python
+- [arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+- [sharkattack](https://github.com/cirla/sharkattack) - Live dangerously.
+- [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [astpath](https://github.com/hchasestevens/astpath) - A command-line search utility for Python ASTs using XPath syntax.
@@ -1446,6 +1458,7 @@
 
 ## Rust 
 
+- [snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -1627,6 +1640,11 @@
 
 ## TypeScript 
 
+- [pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
+- [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
+- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [chartjs-chart-graph](https://github.com/sgratzl/chartjs-chart-graph) - Chart.js Graph-like Charts (tree, force directed)
+- [listipy](https://github.com/arvkevi/listipy) - VS Code Extension to List-ify strings into Python Lists
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
