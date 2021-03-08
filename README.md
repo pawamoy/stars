@@ -29,6 +29,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Mustache](#mustache)
   - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -84,7 +85,7 @@
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [ccs-pykerberos](https://github.com/apple/ccs-pykerberos) - Python Kerberos library used by CalendarServer
 - [radeontop](https://github.com/clbr/radeontop) - 
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes on GNU/Linux.
 - [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -127,6 +128,7 @@
 
 ## C++ 
 
+- [fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
@@ -177,7 +179,7 @@
 
 ## Clojure 
 
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## Crystal 
 
@@ -213,11 +215,15 @@
 
 ## Go 
 
+- [upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
 - [go-term-markdown](https://github.com/MichaelMure/go-term-markdown) - A markdown renderer package for the terminal
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -287,7 +293,6 @@
 - [plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
 - [ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
@@ -311,7 +316,7 @@
 ## Haskell 
 
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
-- [scarf](https://github.com/scarf-sh/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
+- [scarf](https://github.com/scarf-sh/scarf) - An experimental prototype of a package manager and packaging ecosystem. Currently being rebuilt.
 - [unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -336,6 +341,7 @@
 
 ## JavaScript 
 
+- [pdm-action](https://github.com/pdm-project/pdm-action) - The GitHub Action for using pdm as the package manager
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [termynal](https://github.com/daxartio/termynal) - 
@@ -489,6 +495,10 @@
 - [blue-book](https://github.com/lyz-code/blue-book) - My personal digital garden
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
+## Mustache 
+
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
 ## Nix 
 
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -558,7 +568,7 @@
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [plex-api](https://github.com/Arcanemagus/plex-api) - Unofficial Plex API Documentation
 - [sfeir-school-speaker](https://github.com/sfeir-open-source/sfeir-school-speaker) - Sfeir School Speaker. This trainning will help people to speak in conference
-- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
@@ -633,6 +643,11 @@
 
 ## Python 
 
+- [egobooster](https://github.com/oprypin/egobooster) - Search GitHub for new usages of your projects
+- [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
+- [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works.
+- [pip-download](https://github.com/youngquan/pip-download) - A wrapper for pip download in offline scenario.
 - [arger](https://github.com/jnoortheen/arger) - Create argparser automatically from functions annotations :snake:.
 - [astunparse](https://github.com/simonpercivall/astunparse) - An AST unparser for Python
 - [arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
@@ -1025,7 +1040,7 @@
 - [bitrot](https://github.com/ambv/bitrot) - Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.
 - [speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [recent](https://github.com/trengrj/recent) - log bash history to an sqlite database
-- [scalene](https://github.com/emeryberger/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
+- [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
 - [fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - 
 - [mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [fastapi_client](https://github.com/dmontagu/fastapi_client) - FastAPI client generator
@@ -1514,7 +1529,7 @@
 - [bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
+- [shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
 - [tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
 - [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 - [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
@@ -1548,7 +1563,7 @@
 - [z-a-test](https://github.com/zinit-zsh/z-a-test) - Zsh-Zplugin extension that runs tests (via make test, for example) after installing and updating a plugin or snippet
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
 - [yojimbo](https://github.com/ZalgoNoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
-- [gitpack](https://github.com/dominiksalvet/gitpack) - 📦 Simple Git-based package manager.
+- [gitpack](https://github.com/dominiksalvet/gitpack) - [RELEASED] 📦 Simple Git-based package manager.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [hollywood](https://github.com/dustinkirkland/hollywood) - 
@@ -1648,7 +1663,6 @@
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
