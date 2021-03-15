@@ -245,7 +245,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
 - [onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -341,7 +341,6 @@
 
 ## JavaScript 
 
-- [pdm-action](https://github.com/pdm-project/pdm-action) - The GitHub Action for using pdm as the package manager
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [termynal](https://github.com/daxartio/termynal) - 
@@ -643,6 +642,11 @@
 
 ## Python 
 
+- [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio
+- [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
+- [comment_parser](https://github.com/jeanralphaviles/comment_parser) - Python module to extract comments from source code files of various types.
+- [pip-api](https://github.com/di/pip-api) - An unofficial, importable pip API
+- [flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [egobooster](https://github.com/oprypin/egobooster) - Search GitHub for new usages of your projects
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
 - [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -925,7 +929,7 @@
 - [pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
-- [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same configuration across multiple projects
+- [nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings across multiple language-independent projects
 - [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
@@ -1040,7 +1044,7 @@
 - [bitrot](https://github.com/ambv/bitrot) - Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.
 - [speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [recent](https://github.com/trengrj/recent) - log bash history to an sqlite database
-- [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
+- [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - 
 - [mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [fastapi_client](https://github.com/dmontagu/fastapi_client) - FastAPI client generator
@@ -1152,7 +1156,7 @@
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
-- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -1182,7 +1186,7 @@
 - [mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [SUDO](https://github.com/jthistle/SUDO) - Order bash to do things by shouting.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
-- [friendly-traceback](https://github.com/aroberge/friendly-traceback) - Aimed at Python beginners: replacing standard traceback by something easier to understand
+- [friendly](https://github.com/aroberge/friendly) - Aimed at Python beginners: replacing standard traceback by something easier to understand
 - [acousticbrainz-client](https://github.com/MTG/acousticbrainz-client) - A client to upload data to an acousticbrainz server
 - [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -1563,7 +1567,7 @@
 - [z-a-test](https://github.com/zinit-zsh/z-a-test) - Zsh-Zplugin extension that runs tests (via make test, for example) after installing and updating a plugin or snippet
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
 - [yojimbo](https://github.com/ZalgoNoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
-- [gitpack](https://github.com/dominiksalvet/gitpack) - [RELEASED] 📦 Simple Git-based package manager.
+- [gitpack](https://github.com/dominiksalvet/gitpack) - 📦 Simple Git-based package manager.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [hollywood](https://github.com/dustinkirkland/hollywood) - 
@@ -1655,6 +1659,7 @@
 
 ## TypeScript 
 
+- [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
