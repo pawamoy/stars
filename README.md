@@ -161,6 +161,7 @@
 ## CSS 
 
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - An big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -224,7 +225,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -647,10 +647,17 @@
 
 ## Python 
 
+- [KeNaCo/auto-changelog](https://github.com/KeNaCo/auto-changelog) - A small program that will generate a changelog from git repos using "conventional style" commit messages
+- [pyupio/changelogs](https://github.com/pyupio/changelogs) - A changelog finder and parser for packages available on pypi, npm and rubygems.
+- [jborean93/pyspnego](https://github.com/jborean93/pyspnego) - Python SPNEGO authentication library
+- [micahflee/passphraseme](https://github.com/micahflee/passphraseme) - A quick and simple cryptographically secure script to generate high entropy passphrases using EFF's wordlists
+- [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
+- [programical/pytyle1x](https://github.com/programical/pytyle1x) - Tiling manager which runs on top of EWMH window managers.
+- [ranvijaykumar/typo](https://github.com/ranvijaykumar/typo) - A python package to simulate typographical errors.
 - [johejo/inputimeout](https://github.com/johejo/inputimeout) - Multi platform standard input with timeout
 - [asottile/future-annotations](https://github.com/asottile/future-annotations) - A backport of __future__ annotations to python&lt;3.7.
 - [TRI-AMDD/beep](https://github.com/TRI-AMDD/beep) - Battery evaluation and early prediction
-- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - pathlib-style classes for cloud storage services
+- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [shivam5992/textstat](https://github.com/shivam5992/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
@@ -757,7 +764,7 @@
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) - MkDocs plugin to specify the navigation in Markdown instead of YAML
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [pinetr2e/napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
 - [jongracecox/anybadge](https://github.com/jongracecox/anybadge) - A Python project for generating badges for your projects, with a focus on simplicity and flexibility.
@@ -901,7 +908,7 @@
 - [gergelyk/cookiecutter-python-project](https://github.com/gergelyk/cookiecutter-python-project) - Template of python project.
 - [paw-lu/dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [soxofaan/duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
-- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [pypa/build](https://github.com/pypa/build) - A simple, correct PEP 517 package builder
 - [FFY00/python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [pradyunsg/installer](https://github.com/pradyunsg/installer) - [work in progess - see #1] Someone said something about Python wheels, installation and maybe... a CLI.
@@ -971,7 +978,7 @@
 - [sethmlarson/pycon-async-sync-poster](https://github.com/sethmlarson/pycon-async-sync-poster) - An example project which demonstrates how to use some new tools to more easily maintain a codebase that supports both async and synchronous I/O and multiple async libraries.
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [frostming/python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
-- [frostming/pdm](https://github.com/frostming/pdm) - A modern Python package manager with PEP 582 support.
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [notshridhar/chain-reaction-ai](https://github.com/notshridhar/chain-reaction-ai) - ai opponent for the game chain reaction
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
