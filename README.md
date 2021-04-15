@@ -71,6 +71,7 @@
 
 ## C 
 
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [lptstr/hxd](https://github.com/lptstr/hxd) - A better hexdump
@@ -200,6 +201,7 @@
 
 ## Dockerfile 
 
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings
 - [Wonderfall/docker-isso](https://github.com/Wonderfall/docker-isso) - 
@@ -220,6 +222,9 @@
 
 ## Go 
 
+- [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [readthedocs/godocjson](https://github.com/readthedocs/godocjson) - Generate json from go.
 - [jbszczepaniak/slicegraph](https://github.com/jbszczepaniak/slicegraph) - Slice graph uses graphviz in order to pretty print slices for you.
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
@@ -331,9 +336,7 @@
 
 ## Java 
 
-- [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
-- [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -354,6 +357,9 @@
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
+- [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
 - [daxartio/termynal](https://github.com/daxartio/termynal) - 
 - [newsuk/AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -370,6 +376,7 @@
 - [danielgtaylor/apilint](https://github.com/danielgtaylor/apilint) - Extensible REST API linter utility
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [khris78/PokerPlanning](https://github.com/khris78/PokerPlanning) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -519,7 +526,6 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Armael/papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
@@ -533,7 +539,7 @@
 
 ## Others 
 
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources. Enjoy the website:  https://opensustain.tech/
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.  https://opensustain.tech/
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [koaning/calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
@@ -636,6 +642,7 @@
 
 ## PHP 
 
+- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -656,7 +663,23 @@
 
 ## Python 
 
-- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [pdm-project/pdm-pep517](https://github.com/pdm-project/pdm-pep517) - PEP 517 support for PDM
+- [Psionica/Semantica](https://github.com/Psionica/Semantica) - Extending conceptual thinking with semantic embeddings.
+- [Psionica/K-Probes](https://github.com/Psionica/K-Probes) - Promoting critical thinking through machine-generated prompts.
+- [Psionica/MemNav](https://github.com/Psionica/MemNav) - Expanding propositional memory through text mining.
+- [Psionica/Dual](https://github.com/Psionica/Dual) - Part you, part AI. Dual is your second brain come to life.
+- [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
+- [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
+- [synodriver/aioaria2](https://github.com/synodriver/aioaria2) - An async/await wrapper around aria2-json-rpc
+- [mattsb42/pypi-parker](https://github.com/mattsb42/pypi-parker) - Helper tooling for parking PyPI namespaces to combat typosquatting.
+- [KyleKing/not-on-pypi](https://github.com/KyleKing/not-on-pypi) - Package for reserving names on PyPi
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [abersheeran/poetry2setup](https://github.com/abersheeran/poetry2setup) - Convert python-poetry(pyproject.toml) to setup.py.
+- [abersheeran/mkdocs-version](https://github.com/abersheeran/mkdocs-version) - Simple and easy-to-use mkdocs version plugin based on git tags
+- [abersheeran/rpc.py](https://github.com/abersheeran/rpc.py) - A fast and powerful RPC framework based on ASGI/WSGI.
+- [abersheeran/cool](https://github.com/abersheeran/cool) - Make Python code cooler. Less is more.
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [strpc/easy_notifyer](https://github.com/strpc/easy_notifyer) - Easy bug reporter for small projects. Zero dependencies - download and run. Asyncio support.
 - [plinss/flake8-noqa](https://github.com/plinss/flake8-noqa) - 
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
@@ -865,7 +888,7 @@
 - [seanbreckenridge/steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
 - [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
-- [unimport/unimport](https://github.com/unimport/unimport) - A linter, formatter for finding and removing unused import statements.
+- [hakancelik96/unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
 - [jwodder/check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [greenbone/autohooks](https://github.com/greenbone/autohooks) - Library for managing git hooks
@@ -967,7 +990,6 @@
 - [aklajnert/mkdocs-simple-hooks](https://github.com/aklajnert/mkdocs-simple-hooks) - Define your own hooks for mkdocs, without having to create a new package.
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
-- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
@@ -1173,7 +1195,7 @@
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [erichulser/mkdocs_autodoc](https://github.com/erichulser/mkdocs_autodoc) - 
-- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [rambler-digital-solutions/scaraplate](https://github.com/rambler-digital-solutions/scaraplate) - Scaraplate is a wrapper around cookiecutter which allows to repeatedly rollup project templates onto concrete projects.
 - [senseyeio/cupper](https://github.com/senseyeio/cupper) - Update cookiecutter projects
 - [rmedaer/milhoja](https://github.com/rmedaer/milhoja) - Mixing Cookiecutter and Git to ends up sticking to your finger.
@@ -1255,6 +1277,7 @@
 - [Pierre-Sassoulas/django-zxcvbn-password-validator](https://github.com/Pierre-Sassoulas/django-zxcvbn-password-validator) - A translatable password validator for django, based on zxcvbn-python and available with pip.
 - [dgraph-io/pydgraph](https://github.com/dgraph-io/pydgraph) - Official Dgraph Python client
 - [BusesCanFly/rpi-hunter](https://github.com/BusesCanFly/rpi-hunter) - Auto discover and exploit LAN raspberry pi's
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -1519,6 +1542,7 @@
 
 ## Rust 
 
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ruscur/snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
@@ -1539,7 +1563,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [fdionisi/xray](https://github.com/fdionisi/xray) - An experimental next-generation Electron-based text editor
 - [ecumene/rust-sloth](https://github.com/ecumene/rust-sloth) - A 3D software rasterizer... for the terminal!
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [ryochack/peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [camdencheek/fre](https://github.com/camdencheek/fre) - Command line frecency tracking
