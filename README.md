@@ -32,6 +32,7 @@
   - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [OpenSCAD](#openscad)
@@ -222,6 +223,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -306,7 +308,6 @@
 - [oprypin/crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [modasserbillah/plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
 - [ourforks/ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
-- [mkbdfr/website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
@@ -330,7 +331,7 @@
 ## Haskell 
 
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
-- [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An experimental prototype of a package manager and packaging ecosystem. Currently being rebuilt.
+- [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
 - [joshuaclayton/unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -355,7 +356,7 @@
 ## JavaScript 
 
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
@@ -376,7 +377,6 @@
 - [danielgtaylor/apilint](https://github.com/danielgtaylor/apilint) - Extensible REST API linter utility
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
-- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [khris78/PokerPlanning](https://github.com/khris78/PokerPlanning) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -410,7 +410,6 @@
 - [plibither8/asciinema-player-for-github](https://github.com/plibither8/asciinema-player-for-github) - 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [lukechilds/thanks](https://github.com/lukechilds/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) - Clean your useless GitHub forks
 - [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid) - Map a BitTorrent peer ID to a human-readable client name and version
@@ -486,7 +485,7 @@
 
 ## Jupyter Notebook 
 
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -523,6 +522,10 @@
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+## Nunjucks 
+
+- [mkbdfr/website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
 
 ## OCaml 
 
@@ -603,7 +606,6 @@
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
-- [danielquinn/pyletheia](https://github.com/danielquinn/pyletheia) - A Python implementation of Aletheia
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
@@ -663,11 +665,16 @@
 
 ## Python 
 
+- [pythongssapi/httpx-gssapi](https://github.com/pythongssapi/httpx-gssapi) - A GSSAPI authentication handler for Python's HTTPX
+- [pythongssapi/requests-gssapi](https://github.com/pythongssapi/requests-gssapi) - An authentication handler for using GSSAPI with Python Requests.  Drop-in replacement for old requests-kerberos.
+- [FHPythonUtils/LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) - Output the licenses used by dependencies and check if these are compatible with the project license
+- [raimon49/pip-licenses](https://github.com/raimon49/pip-licenses) - Dump the license list of packages installed with pip.
+- [dhatim/python-license-check](https://github.com/dhatim/python-license-check) - Check python packages from requirement.txt and report issues
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pdm-project/pdm-pep517](https://github.com/pdm-project/pdm-pep517) - PEP 517 support for PDM
 - [Psionica/Semantica](https://github.com/Psionica/Semantica) - Extending conceptual thinking with semantic embeddings.
 - [Psionica/K-Probes](https://github.com/Psionica/K-Probes) - Promoting critical thinking through machine-generated prompts.
 - [Psionica/MemNav](https://github.com/Psionica/MemNav) - Expanding propositional memory through text mining.
-- [Psionica/Dual](https://github.com/Psionica/Dual) - Part you, part AI. Dual is your second brain come to life.
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [synodriver/aioaria2](https://github.com/synodriver/aioaria2) - An async/await wrapper around aria2-json-rpc
@@ -846,7 +853,7 @@
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [peter-wangxu/persist-queue](https://github.com/peter-wangxu/persist-queue) - A thread-safe disk based persistent queue in Python
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [scrapy/queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) queues
+- [scrapy/queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) and non-persistent (memory-based) queues for Python
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
 - [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) - 📘 Crystal language doc generator for https://github.com/pawamoy/mkdocstrings
@@ -990,6 +997,7 @@
 - [aklajnert/mkdocs-simple-hooks](https://github.com/aklajnert/mkdocs-simple-hooks) - Define your own hooks for mkdocs, without having to create a new package.
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
+- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
@@ -1109,7 +1117,7 @@
 - [lucashadfield/speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [trengrj/recent](https://github.com/trengrj/recent) - log bash history to an sqlite database
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
-- [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - 
+- [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - FastAPI CRUD
 - [LukeCarrier/mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client) - FastAPI client generator
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
@@ -1220,7 +1228,7 @@
 - [aaugustin/websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [florimondmanca/python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
-- [kenreitz42/bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [kennethreitz/bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -1666,6 +1674,7 @@
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [bashup/.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
 - [BunsenLabs/bunsen-welcome](https://github.com/BunsenLabs/bunsen-welcome) - Post installation script for BunsenLabs Linux
 - [zuxfoucault/colored-man-pages_mod](https://github.com/zuxfoucault/colored-man-pages_mod) - Fork from https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh
@@ -1725,6 +1734,7 @@
 
 ## TypeScript 
 
+- [Psionica/Dual](https://github.com/Psionica/Dual) - An open source local-first virtual assistant for knowledge work.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -1755,7 +1765,7 @@
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
 - [adesgautam/dj-angular](https://github.com/adesgautam/dj-angular) - Integrating Django and Angular
 - [nikersify/jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
-- [traduora/traduora](https://github.com/traduora/traduora) - Translation management platform for teams
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
