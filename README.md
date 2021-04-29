@@ -166,7 +166,6 @@
 ## CSS 
 
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - An big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -223,6 +222,7 @@
 
 ## Go 
 
+- [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -237,6 +237,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -337,6 +338,7 @@
 
 ## Java 
 
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
@@ -355,6 +357,7 @@
 
 ## JavaScript 
 
+- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -665,6 +668,17 @@
 
 ## Python 
 
+- [neatc0der/mkdocs-markmap](https://github.com/neatc0der/mkdocs-markmap) - MkDocs plugin and extension to creates mindmaps from markdown using markmap
+- [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
+- [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
+- [repo-helper/whey](https://github.com/repo-helper/whey) - A simple Python wheel builder for simple projects.
+- [g6123/mkdocs-yaarg-plugin](https://github.com/g6123/mkdocs-yaarg-plugin) - Yet Another API Reference Generator plugin for MKDocs.
+- [LedgerProject/GeneCoop](https://github.com/LedgerProject/GeneCoop) - Repository for the GeneCoop Project
+- [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
+- [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
+- [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
+- [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
+- [tomwojcik/starlette-context](https://github.com/tomwojcik/starlette-context) - Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.
 - [pythongssapi/httpx-gssapi](https://github.com/pythongssapi/httpx-gssapi) - A GSSAPI authentication handler for Python's HTTPX
 - [pythongssapi/requests-gssapi](https://github.com/pythongssapi/requests-gssapi) - An authentication handler for using GSSAPI with Python Requests.  Drop-in replacement for old requests-kerberos.
 - [FHPythonUtils/LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) - Output the licenses used by dependencies and check if these are compatible with the project license
@@ -841,7 +855,7 @@
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [cs01/importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
 - [ponicode/dogstring-action](https://github.com/ponicode/dogstring-action) - GitHub Action that generates your Python docstrings!
-- [long2ice/fastapi-admin](https://github.com/long2ice/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
+- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
 - [mzipay/Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
 - [tqdm/py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
 - [dano/aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
@@ -893,6 +907,7 @@
 - [Instagram/Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and configure. It empowers lint rule to provide autofix to fix the issues for developers. It also provide tools to run autofix across codebase to fix existing issues and automatically insert lint-fixme comments to silent existing violation. Fixit integrates with Flake8 and it adds the above mentioned enhancements to it.
 - [seanbreckenridge/reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
 - [seanbreckenridge/steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
+- [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
 - [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [hakancelik96/unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
@@ -1001,7 +1016,7 @@
 - [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs) - pyfakefs implements a fake file system that mocks the Python file system modules.
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
-- [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings across multiple language-independent projects
+- [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
@@ -1174,7 +1189,7 @@
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [FutureSharks/invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in python or on AWS Lambda
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner.
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
 - [pythongssapi/python-gssapi](https://github.com/pythongssapi/python-gssapi) - A Python interface to RFC 2743/2744 (plus common extensions)
 - [ContinuumIO/flask-kerberos-login](https://github.com/ContinuumIO/flask-kerberos-login) - Flask kerberos integration
 - [requests/requests-kerberos](https://github.com/requests/requests-kerberos) - An authentication handler for using Kerberos with Python Requests.
@@ -1526,7 +1541,6 @@
 
 ## Ruby 
 
-- [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - some ruby to create arbitrary shell scripts from a config file
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -1550,6 +1564,7 @@
 
 ## Rust 
 
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ruscur/snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
