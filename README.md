@@ -72,6 +72,7 @@
 
 ## C 
 
+- [j3parker/hijack](https://github.com/j3parker/hijack) - Intercept stdout/stderr/stdin of interactive programs... for evil
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -668,6 +669,9 @@
 
 ## Python 
 
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [dvrpc/network-routing](https://github.com/dvrpc/network-routing) - Python package to create and analyze routable networks
+- [mansenfranzen/autodoc_pydantic](https://github.com/mansenfranzen/autodoc_pydantic) - Seamlessly integrate pydantic models in your Sphinx documentation.
 - [neatc0der/mkdocs-markmap](https://github.com/neatc0der/mkdocs-markmap) - MkDocs plugin and extension to creates mindmaps from markdown using markmap
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
 - [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
