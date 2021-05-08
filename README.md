@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -358,9 +359,10 @@
 
 ## JavaScript 
 
+- [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
@@ -512,7 +514,7 @@
 
 ## Makefile 
 
-- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal digital garden
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
 ## Markdown 
@@ -669,6 +671,10 @@
 
 ## Python 
 
+- [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
+- [tulir/mautrix-python](https://github.com/tulir/mautrix-python) - A Python 3 asyncio Matrix framework.
+- [DavHau/pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Probably the most complete python dependency database
+- [oprypin/markdown-callouts](https://github.com/oprypin/markdown-callouts) - Markdown extension: a classier syntax for admonitions
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [dvrpc/network-routing](https://github.com/dvrpc/network-routing) - Python package to create and analyze routable networks
 - [mansenfranzen/autodoc_pydantic](https://github.com/mansenfranzen/autodoc_pydantic) - Seamlessly integrate pydantic models in your Sphinx documentation.
@@ -783,7 +789,7 @@
 - [midnightprioriem/mkdocs-tooltipster-links-plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [wbolster/exceptional](https://github.com/wbolster/exceptional) - python library providing various exception handling utilities
-- [Ravn-Tech/HyperTag](https://github.com/Ravn-Tech/HyperTag) - Knowledge Management for Humans using Machine Learning & Tags
+- [Ravn-Tech/HyperTag](https://github.com/Ravn-Tech/HyperTag) - Knowledge Management CLI for Humans using Machine Learning & Tags
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [clarkduvall/serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
@@ -859,7 +865,7 @@
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [cs01/importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
 - [ponicode/dogstring-action](https://github.com/ponicode/dogstring-action) - GitHub Action that generates your Python docstrings!
-- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM.
+- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM with tabler ui
 - [mzipay/Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
 - [tqdm/py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
 - [dano/aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
@@ -971,7 +977,7 @@
 - [sdispater/mixology](https://github.com/sdispater/mixology) - A generic dependency-resolution library written in pure Python
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
-- [nschloe/exdown](https://github.com/nschloe/exdown) - Extract and test code blocks from Markdown
+- [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Test code blocks in your READMEs
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
@@ -1620,6 +1626,7 @@
 
 ## Shell 
 
+- [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
 - [archlinux/contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [Akianonymus/parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
