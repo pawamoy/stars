@@ -24,6 +24,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -359,6 +360,7 @@
 
 ## JavaScript 
 
+- [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
 - [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
@@ -485,6 +487,10 @@
 - [fusionbox/django-widgy](https://github.com/fusionbox/django-widgy) - A CMS framework for Django built on a heterogenous tree editor.
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 
+## Jinja 
+
+- [oprypin/py-library-template](https://github.com/oprypin/py-library-template) - 
+
 ## Jsonnet 
 
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -492,6 +498,7 @@
 ## Jupyter Notebook 
 
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -548,6 +555,7 @@
 
 ## Others 
 
+- [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Stuff that works with Home Assistant
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.  https://opensustain.tech/
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
@@ -671,6 +679,11 @@
 
 ## Python 
 
+- [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
+- [cognitivefactory/interactive-clustering](https://github.com/cognitivefactory/interactive-clustering) - Python package used to apply NLP interactive clustering methods.
+- [domvwt/esparto](https://github.com/domvwt/esparto) - Simple HTML and PDF document generator for Python - with built-in support for popular data analysis and plotting libraries.
+- [flacjacket/pywayland](https://github.com/flacjacket/pywayland) - Python bindings for the libwayland library
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [tulir/mautrix-python](https://github.com/tulir/mautrix-python) - A Python 3 asyncio Matrix framework.
 - [DavHau/pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Probably the most complete python dependency database
@@ -865,7 +878,7 @@
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [cs01/importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
 - [ponicode/dogstring-action](https://github.com/ponicode/dogstring-action) - GitHub Action that generates your Python docstrings!
-- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - FastAPI Admin Dashboard based on FastAPI and Tortoise ORM with tabler ui
+- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [mzipay/Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
 - [tqdm/py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
 - [dano/aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
@@ -1054,7 +1067,6 @@
 - [mikeckennedy/python-switch](https://github.com/mikeckennedy/python-switch) - Adds switch blocks to Python
 - [ReceiptManager/receipt-parser-legacy](https://github.com/ReceiptManager/receipt-parser-legacy) - A supermarket receipt parser written in Python using tesseract OCR
 - [sethmlarson/pycon-async-sync-poster](https://github.com/sethmlarson/pycon-async-sync-poster) - An example project which demonstrates how to use some new tools to more easily maintain a codebase that supports both async and synchronous I/O and multiple async libraries.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [frostming/python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
@@ -1574,6 +1586,7 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ruscur/snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
@@ -1626,6 +1639,7 @@
 
 ## Shell 
 
+- [flathub/net.stabyourself.nottetris2](https://github.com/flathub/net.stabyourself.nottetris2) - 
 - [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
 - [archlinux/contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
