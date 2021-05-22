@@ -169,7 +169,7 @@
 ## CSS 
 
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
-- [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - An big, interactive table of package management tools in the Python ecosystem
+- [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [mkdocs/mkdocs-bootswatch](https://github.com/mkdocs/mkdocs-bootswatch) - MkDocs Bootswatch Themes
@@ -283,7 +283,7 @@
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -679,6 +679,14 @@
 
 ## Python 
 
+- [facelessuser/pep562](https://github.com/facelessuser/pep562) - Backport of PEP 562
+- [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin) - Poetry plugin to export the dependencies to various formats
+- [lensvol/pybetter](https://github.com/lensvol/pybetter) - Tool for fixing trivial problems with your code.
+- [dbrgn/coverage-badge](https://github.com/dbrgn/coverage-badge) - Create badges/shields for your Python test coverage!
+- [frostming/atoml](https://github.com/frostming/atoml) - Yet another style-preserving TOML library for Python
+- [ilevkivskyi/com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python
+- [pyupio/safety-db](https://github.com/pyupio/safety-db) - A curated database of insecure Python packages
+- [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [cognitivefactory/interactive-clustering](https://github.com/cognitivefactory/interactive-clustering) - Python package used to apply NLP interactive clustering methods.
@@ -859,13 +867,13 @@
 - [pinetr2e/napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
 - [jongracecox/anybadge](https://github.com/jongracecox/anybadge) - A Python project for generating badges for your projects, with a focus on simplicity and flexibility.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [nschloe/tuna](https://github.com/nschloe/tuna) - Python profile viewer
+- [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [NiklasRosenstein/pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) - Create Python API documentation in Markdown format.
 - [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [qwj/python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
-- [nschloe/perfplot](https://github.com/nschloe/perfplot) - Performance plots for Python code
+- [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance plots for Python code
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [joshlk/many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -990,7 +998,7 @@
 - [sdispater/mixology](https://github.com/sdispater/mixology) - A generic dependency-resolution library written in pure Python
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
-- [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Test code blocks in your READMEs
+- [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
@@ -1002,7 +1010,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [pypa/build](https://github.com/pypa/build) - A simple, correct PEP 517 package builder
 - [FFY00/python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
-- [pradyunsg/installer](https://github.com/pradyunsg/installer) - [work in progess - see #1] Someone said something about Python wheels, installation and maybe... a CLI.
+- [pradyunsg/installer](https://github.com/pradyunsg/installer) - A low-level library for installing from a Python wheel distribution.
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [jeffshek/betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
 - [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
@@ -1211,7 +1219,7 @@
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [FutureSharks/invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in python or on AWS Lambda
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [pythongssapi/python-gssapi](https://github.com/pythongssapi/python-gssapi) - A Python interface to RFC 2743/2744 (plus common extensions)
 - [ContinuumIO/flask-kerberos-login](https://github.com/ContinuumIO/flask-kerberos-login) - Flask kerberos integration
 - [requests/requests-kerberos](https://github.com/requests/requests-kerberos) - An authentication handler for using Kerberos with Python Requests.
@@ -1522,8 +1530,8 @@
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks your installed dependencies for known security vulnerabilities
 - [jhermann/dependency-check-py](https://github.com/jhermann/dependency-check-py) - :closed_lock_with_key: Shim to easily install OWASP dependency-check-cli into Python projects
 - [authomatic/authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
-- [neo4j-contrib/django-neomodel](https://github.com/neo4j-contrib/django-neomodel) - neomodel plugin for Django
-- [neo4j-contrib/neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database
+- [neo4j-contrib/django-neomodel](https://github.com/neo4j-contrib/django-neomodel) - Neomodel plugin for Django
+- [neo4j-contrib/neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (OGM) for the Neo4j graph database.
 - [erm0l0v/django-fake-model](https://github.com/erm0l0v/django-fake-model) - Simple library for creating fake models in the unit tests.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
 - [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
@@ -1623,7 +1631,6 @@
 
 ## SCSS 
 
-- [athackst/athackst.github.io](https://github.com/athackst/athackst.github.io) - My personal webpage
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
@@ -1778,7 +1785,7 @@
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [sgratzl/chartjs-chart-graph](https://github.com/sgratzl/chartjs-chart-graph) - Chart.js Graph-like Charts (tree, force directed)
 - [arvkevi/listipy](https://github.com/arvkevi/listipy) - VS Code Extension to List-ify strings into Python Lists
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
