@@ -77,7 +77,7 @@
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [lptstr/hxd](https://github.com/lptstr/hxd) - A better hexdump
+- [kiedtl/hxd](https://github.com/kiedtl/hxd) - A better hexdump
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
@@ -168,6 +168,7 @@
 
 ## CSS 
 
+- [Psionica/Dual](https://github.com/Psionica/Dual) - An open source local-first virtual assistant for knowledge work.
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
@@ -188,7 +189,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## Crystal 
 
@@ -240,7 +241,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -555,6 +555,8 @@
 
 ## Others 
 
+- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Stuff that works with Home Assistant
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.  https://opensustain.tech/
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
@@ -679,6 +681,16 @@
 
 ## Python 
 
+- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
+- [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
+- [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+- [dcoles/snaketrace](https://github.com/dcoles/snaketrace) - An strace-like tool for Python audit events 🐍
+- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Python rewrite (sync + async) of the official Notion API client
+- [clearlydefined/license-score](https://github.com/clearlydefined/license-score) - Documentation and samples to compute a license clarity score report e.g. are we ClearlyLicensed yet?
+- [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
+- [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [facelessuser/pep562](https://github.com/facelessuser/pep562) - Backport of PEP 562
 - [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin) - Poetry plugin to export the dependencies to various formats
 - [lensvol/pybetter](https://github.com/lensvol/pybetter) - Tool for fixing trivial problems with your code.
@@ -750,7 +762,7 @@
 - [jborean93/pyspnego](https://github.com/jborean93/pyspnego) - Python SPNEGO authentication library
 - [micahflee/passphraseme](https://github.com/micahflee/passphraseme) - A quick and simple cryptographically secure script to generate high entropy passphrases using EFF's wordlists
 - [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
-- [programical/pytyle1x](https://github.com/programical/pytyle1x) - Tiling manager which runs on top of EWMH window managers.
+- [zehkira/pytyle1x](https://github.com/zehkira/pytyle1x) - Tiling manager which runs on top of EWMH window managers.
 - [ranvijaykumar/typo](https://github.com/ranvijaykumar/typo) - A python package to simulate typographical errors.
 - [johejo/inputimeout](https://github.com/johejo/inputimeout) - Multi platform standard input with timeout
 - [asottile/future-annotations](https://github.com/asottile/future-annotations) - A backport of __future__ annotations to python&lt;3.7.
@@ -851,7 +863,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast O(1) runtime type-checking in pure Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
@@ -1353,7 +1365,7 @@
 - [pavlov99/json-rpc](https://github.com/pavlov99/json-rpc) - 🔁 JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [brodie/cram](https://github.com/brodie/cram) - Functional tests for command line applications
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
@@ -1594,6 +1606,7 @@
 
 ## Rust 
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -1781,7 +1794,6 @@
 
 ## TypeScript 
 
-- [Psionica/Dual](https://github.com/Psionica/Dual) - An open source local-first virtual assistant for knowledge work.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -1791,6 +1803,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
@@ -1850,6 +1863,7 @@
 
 ## Vue 
 
+- [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 
