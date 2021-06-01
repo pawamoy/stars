@@ -304,7 +304,6 @@
 
 ## HTML 
 
-- [pdm-project/copier-pdm](https://github.com/pdm-project/copier-pdm) - Copier template for PDM projects
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -490,6 +489,7 @@
 ## Jinja 
 
 - [oprypin/py-library-template](https://github.com/oprypin/py-library-template) - 
+- [pdm-project/copier-pdm](https://github.com/pdm-project/copier-pdm) - Copier template for PDM projects
 
 ## Jsonnet 
 
@@ -681,6 +681,8 @@
 
 ## Python 
 
+- [whoosh-community/whoosh](https://github.com/whoosh-community/whoosh) - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
+- [frostming/pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
@@ -841,7 +843,7 @@
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [doom/pychu](https://github.com/doom/pychu) - Layered configuration loading built on Pydantic.
-- [collerek/ormar](https://github.com/collerek/ormar) - python async mini orm with fastapi in mind and pydantic validation
+- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
 - [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) - MkDocs plugin to allow clickable sections that lead to an index page
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
@@ -951,7 +953,7 @@
 - [seanbreckenridge/reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
 - [seanbreckenridge/steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
 - [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
-- [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data
+- [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data [my modules]
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [hakancelik96/unimport](https://github.com/hakancelik96/unimport) - A linter, formatter for finding and removing unused import statements.
 - [jwodder/check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents
