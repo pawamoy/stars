@@ -73,6 +73,7 @@
 
 ## C 
 
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
 - [j3parker/hijack](https://github.com/j3parker/hijack) - Intercept stdout/stderr/stdin of interactive programs... for evil
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
@@ -681,6 +682,9 @@
 
 ## Python 
 
+- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+- [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
+- [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [whoosh-community/whoosh](https://github.com/whoosh-community/whoosh) - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
@@ -903,7 +907,7 @@
 - [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [mzipay/Autologging](https://github.com/mzipay/Autologging) - Autologging automates logging setup and method tracing for Python classes.
 - [tqdm/py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
-- [dano/aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.4+ library that integrates the multiprocessing module with asyncio
+- [dano/aioprocessing](https://github.com/dano/aioprocessing) - A Python 3.5+ library that integrates the multiprocessing module with asyncio
 - [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
 - [michalc/treelock](https://github.com/michalc/treelock) - Fast read/write sub-tree locking for asyncio Python
 - [michalc/fifolock](https://github.com/michalc/fifolock) - A flexible low-level tool to make synchronisation primitives in asyncio Python
@@ -1245,7 +1249,7 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [econchick/mayhem](https://github.com/econchick/mayhem) - The Python asyncio tutorial I wish existed earlier
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ is an intelligent bot auto shell injector that detect vulnerabilities in multiple types of cms { `wordpress , joomla , drupal , prestashop .. `}
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning.
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [awesto/django-shop](https://github.com/awesto/django-shop) - A Django based shop system
@@ -1661,6 +1665,10 @@
 
 ## Shell 
 
+- [thevinter/styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
+- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+- [houbie/pdmwrapper](https://github.com/houbie/pdmwrapper) - proof of concept for a bootstrap pdm command like the one that gradle provides
+- [wurosh/cake](https://github.com/wurosh/cake) - A sweet make wrapper 🍰
 - [flathub/net.stabyourself.nottetris2](https://github.com/flathub/net.stabyourself.nottetris2) - 
 - [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
 - [archlinux/contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
@@ -1796,6 +1804,7 @@
 
 ## TypeScript 
 
+- [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -1841,6 +1850,7 @@
 
 ## V 
 
+- [cotowari/cotowari](https://github.com/cotowari/cotowari) - A statically typed script language that transpile into POSIX sh
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## VBScript 
