@@ -35,7 +35,6 @@
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
-  - [Objective-C](#objective-c)
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
@@ -90,6 +89,7 @@
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos) - Python Kerberos library used by CalendarServer
 - [clbr/radeontop](https://github.com/clbr/radeontop) - 
@@ -547,16 +547,14 @@
 - [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Armael/papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
-## Objective-C 
-
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
-
 ## OpenSCAD 
 
 - [macroxue/keyboard-diy](https://github.com/macroxue/keyboard-diy) - DIY 60% split keyboard, 3D-printed and hand-wired
 
 ## Others 
 
+- [Julian/awesome-bugs](https://github.com/Julian/awesome-bugs) - A collection of bizarre, funny or obscure bugs in our software and hardware
+- [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -685,6 +683,11 @@
 
 ## Python 
 
+- [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
+- [branchvincent/pdm-publish](https://github.com/branchvincent/pdm-publish) - A PDM plugin to publish to PyPI
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for tools and technologies.
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
@@ -791,7 +794,7 @@
 - [oprypin/egobooster](https://github.com/oprypin/egobooster) - Search GitHub for new usages of your projects
 - [pdm-project/tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
-- [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works.
+- [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [youngquan/pip-download](https://github.com/youngquan/pip-download) - A wrapper for pip download in offline scenario.
 - [jnoortheen/arger](https://github.com/jnoortheen/arger) - Create argparser automatically from functions annotations :snake:.
 - [simonpercivall/astunparse](https://github.com/simonpercivall/astunparse) - An AST unparser for Python
@@ -1165,7 +1168,7 @@
 - [rSkogeby/dockerized-fastapi-redis-rq-task-queue](https://github.com/rSkogeby/dockerized-fastapi-redis-rq-task-queue) - 
 - [elimintz/justpy](https://github.com/elimintz/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [adamchainz/flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
-- [technige/py2neo](https://github.com/technige/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
+- [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [uranusjr/pipx-standalone](https://github.com/uranusjr/pipx-standalone) - Build script and manifest to publish pipx to Scoop
@@ -1617,6 +1620,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
@@ -1699,7 +1703,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [xvoland/Extract](https://github.com/xvoland/Extract) - Bash function for extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz
+- [xvoland/Extract](https://github.com/xvoland/Extract) - Bash/Zsh function for extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, etc.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [Crestwave/shmenu](https://github.com/Crestwave/shmenu) - A dynamic menu for the terminal written in pure Bash
@@ -1855,7 +1859,7 @@
 
 ## V 
 
-- [cotowari/cotowari](https://github.com/cotowari/cotowari) - A statically typed script language that transpile into POSIX sh
+- [cotowari/cotowali](https://github.com/cotowari/cotowali) - A statically typed script language that transpile into POSIX sh
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## VBScript 
