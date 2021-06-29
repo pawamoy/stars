@@ -171,7 +171,7 @@
 ## CSS 
 
 - [Psionica/Dual](https://github.com/Psionica/Dual) - An open source local-first virtual assistant for knowledge work.
-- [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with reporting the flake8 violations found.
+- [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -524,7 +524,6 @@
 ## Makefile 
 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
-- [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 
 ## Markdown 
 
@@ -1052,6 +1051,7 @@
 - [AlejandroFrias/case-conversion](https://github.com/AlejandroFrias/case-conversion) - Python package ported from Davis Clark's CaseConversion Sublime Plugin
 - [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
+- [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
 - [brandon-rhodes/logging_tree](https://github.com/brandon-rhodes/logging_tree) - Debug Python logging problems by printing out the tree of handlers you have defined.
 - [NiklasRosenstein/docspec](https://github.com/NiklasRosenstein/docspec) - Docspec is a JSON object specification for representing API documentation of programming languages.
@@ -1859,7 +1859,7 @@
 
 ## V 
 
-- [cotowari/cotowali](https://github.com/cotowari/cotowali) - A statically typed script language that transpile into POSIX sh
+- [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed script language that transpile into POSIX sh
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## VBScript 
