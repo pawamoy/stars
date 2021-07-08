@@ -160,7 +160,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [vstakhov/hpenc](https://github.com/vstakhov/hpenc) - High performance command line tool for stream encryption
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [dinhvh/dejalu](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client
@@ -170,7 +170,7 @@
 
 ## CSS 
 
-- [Psionica/Dual](https://github.com/Psionica/Dual) - An open source local-first virtual assistant for knowledge work.
+- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
@@ -682,6 +682,9 @@
 
 ## Python 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+- [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [soulless-viewer/mkdocs-video](https://github.com/soulless-viewer/mkdocs-video) - MkDocs Video plugin
 - [ksindi/implements](https://github.com/ksindi/implements) - :snake: Pythonic interfaces using decorators
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
@@ -690,7 +693,7 @@
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for tools and technologies.
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management. If this repo is useful to you, please star ⭐️ it to let more people know 🤗.
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
@@ -744,9 +747,9 @@
 - [dhatim/python-license-check](https://github.com/dhatim/python-license-check) - Check python packages from requirement.txt and report issues
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pdm-project/pdm-pep517](https://github.com/pdm-project/pdm-pep517) - PEP 517 support for PDM
-- [Psionica/Semantica](https://github.com/Psionica/Semantica) - Extending conceptual thinking with semantic embeddings.
-- [Psionica/K-Probes](https://github.com/Psionica/K-Probes) - Promoting critical thinking through machine-generated prompts.
-- [Psionica/MemNav](https://github.com/Psionica/MemNav) - Expanding propositional memory through text mining.
+- [Psionica/semantica](https://github.com/Psionica/semantica) - Extending conceptual thinking with semantic embeddings.
+- [Psionica/k-probes](https://github.com/Psionica/k-probes) - Promoting critical thinking through machine-generated prompts.
+- [Psionica/memnav](https://github.com/Psionica/memnav) - Expanding propositional memory through text mining.
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [synodriver/aioaria2](https://github.com/synodriver/aioaria2) - An async/await wrapper around aria2-json-rpc
@@ -810,7 +813,7 @@
 - [hchasestevens/astpath](https://github.com/hchasestevens/astpath) - A command-line search utility for Python ASTs using XPath syntax.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) - Automatically link across pages in MkDocs.
-- [oilshell/oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [lyz-code/mkdocs-newsletter](https://github.com/lyz-code/mkdocs-newsletter) - Automatically create newsletters from the changes in a mkdocs repository
 - [koaning/clumper](https://github.com/koaning/clumper) - A small python library that can clump lists of data together.
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
@@ -900,7 +903,7 @@
 - [qwj/python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
-- [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance plots for Python code
+- [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python code
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [joshlk/many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -1332,7 +1335,7 @@
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [aroberge/friendly](https://github.com/aroberge/friendly) - Aimed at Python beginners: replacing standard traceback by something easier to understand
 - [MTG/acousticbrainz-client](https://github.com/MTG/acousticbrainz-client) - A client to upload data to an acousticbrainz server
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [sustrik/uxy](https://github.com/sustrik/uxy) - UXY: Adding structure to the UNIX tools
 - [beetbox/pyacoustid](https://github.com/beetbox/pyacoustid) - Python bindings for Chromaprint acoustic fingerprinting and the Acoustid Web service
@@ -1687,7 +1690,7 @@
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
+- [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [ckardaris/tormix](https://github.com/ckardaris/tormix) - A terminal user interface for the transmission-cli
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
