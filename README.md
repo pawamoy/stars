@@ -170,7 +170,6 @@
 
 ## CSS 
 
-- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
@@ -264,7 +263,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -682,13 +681,14 @@
 
 ## Python 
 
+- [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [soulless-viewer/mkdocs-video](https://github.com/soulless-viewer/mkdocs-video) - MkDocs Video plugin
 - [ksindi/implements](https://github.com/ksindi/implements) - :snake: Pythonic interfaces using decorators
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - A Text User Interface with Rich as the renderer
-- [branchvincent/pdm-publish](https://github.com/branchvincent/pdm-publish) - A PDM plugin to publish to PyPI
+- [branchvincent/pdm-publish](https://github.com/branchvincent/pdm-publish) - A PDM plugin to publish to PyPI 📦
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for tools and technologies.
@@ -1624,6 +1624,7 @@
 
 ## Rust 
 
+- [IsaccBarker/Greatness](https://github.com/IsaccBarker/Greatness) - Acheive greatness!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -1818,6 +1819,7 @@
 ## TypeScript 
 
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
+- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
