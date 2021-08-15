@@ -33,6 +33,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Mustache](#mustache)
+  - [Nim](#nim)
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
@@ -166,7 +167,7 @@
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [dinhvh/dejalu](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
+- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 
 ## CSS 
@@ -540,6 +541,10 @@
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
+## Nim 
+
+- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
+
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -560,7 +565,7 @@
 
 ## Others 
 
-- [nonunicorn/onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with 700+ minimalistic code pieces with clear explanation @ onelinerhub.com
+- [nonunicorn/onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [Julian/awesome-bugs](https://github.com/Julian/awesome-bugs) - A collection of bizarre, funny or obscure bugs in our software and hardware
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -691,6 +696,8 @@
 
 ## Python 
 
+- [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
+- [serverdensity/python-daemon](https://github.com/serverdensity/python-daemon) - Python daemonizer for Unix, Linux and OS X
 - [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right
 - [akoumjian/python-safety-vuln](https://github.com/akoumjian/python-safety-vuln) - Circumvent any python package scanner installed to the same python environment.
 - [twu/skjold](https://github.com/twu/skjold) - Security audit Python project dependencies against security advisory databases.
@@ -726,7 +733,7 @@
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [dcoles/snaketrace](https://github.com/dcoles/snaketrace) - An strace-like tool for Python audit events 🐍
-- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Python rewrite (sync + async) of the official Notion API client
+- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
 - [clearlydefined/license-score](https://github.com/clearlydefined/license-score) - Documentation and samples to compute a license clarity score report e.g. are we ClearlyLicensed yet?
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
@@ -802,7 +809,6 @@
 - [jborean93/pyspnego](https://github.com/jborean93/pyspnego) - Python SPNEGO authentication library
 - [micahflee/passphraseme](https://github.com/micahflee/passphraseme) - A quick and simple cryptographically secure script to generate high entropy passphrases using EFF's wordlists
 - [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
-- [zehkira/pytyle1x](https://github.com/zehkira/pytyle1x) - Tiling manager which runs on top of EWMH-compliant window managers.
 - [ranvijaykumar/typo](https://github.com/ranvijaykumar/typo) - A python package to simulate typographical errors.
 - [johejo/inputimeout](https://github.com/johejo/inputimeout) - Multi platform standard input with timeout
 - [asottile/future-annotations](https://github.com/asottile/future-annotations) - A backport of __future__ annotations to python&lt;3.7.
@@ -925,7 +931,7 @@
 - [qwj/python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
-- [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python code
+- [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [joshlk/many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -1364,7 +1370,7 @@
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [tonix64/python-installcab](https://github.com/tonix64/python-installcab) - Install individual components from cab installers into wine
 - [robdmc/behold](https://github.com/robdmc/behold) - :eyes: A Debugging Tool
-- [bcb/jsonrpcserver](https://github.com/bcb/jsonrpcserver) - Process JSON-RPC requests in Python
+- [explodinglabs/jsonrpcserver](https://github.com/explodinglabs/jsonrpcserver) - Process JSON-RPC requests in Python
 - [alexferl/vyper](https://github.com/alexferl/vyper) - Python configuration with (more) fangs
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
@@ -1702,7 +1708,6 @@
 
 - [archlinuxfr/yaourt](https://github.com/archlinuxfr/yaourt) - [unmaintained] A Pacman frontend with more features and AUR support
 - [rmarquis/pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction
-- [AXGKl/blog](https://github.com/AXGKl/blog) - Just some thoughts and experiences
 - [thevinter/styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [houbie/pdmwrapper](https://github.com/houbie/pdmwrapper) - proof of concept for a bootstrap pdm command like the one that gradle provides
