@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -294,7 +295,7 @@
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -508,6 +509,7 @@
 
 ## Jupyter Notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -617,7 +619,7 @@
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [pablogsal/python-horror-show](https://github.com/pablogsal/python-horror-show) - Strange and odd python snippets explained
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [Arcanemagus/plex-api](https://github.com/Arcanemagus/plex-api) - Unofficial Plex API Documentation
@@ -697,6 +699,12 @@
 
 ## Python 
 
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses
+- [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Extends docspec for the python language, offers facility to resolve names and provides additional informations.
+- [it-novum/mkdocs-featherlight](https://github.com/it-novum/mkdocs-featherlight) - Featherlight Plugin for MkDocs
+- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
 - [CodeWithSwastik/vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python
 - [py2neo-org/graphio](https://github.com/py2neo-org/graphio) - Bulk loading of large data sets into Neo4j
@@ -1635,6 +1643,7 @@
 
 ## Ruby 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
