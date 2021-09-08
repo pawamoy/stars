@@ -60,6 +60,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [Zig](#zig)
 
 ## Assembly 
 
@@ -568,7 +569,8 @@
 
 ## Others 
 
-- [nonunicorn/onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [nonunicorn/onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with 800+ (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [Julian/awesome-bugs](https://github.com/Julian/awesome-bugs) - A collection of bizarre, funny or obscure bugs in our software and hardware
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -699,6 +701,13 @@
 
 ## Python 
 
+- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) but without all the weirdness
+- [pycontribs/subprocess-tee](https://github.com/pycontribs/subprocess-tee) - A subprocess.run drop-in replacement that supports a tee mode, being able to display output in real time while still capturing it. No dependencies needed
+- [twisted/pydoctor](https://github.com/twisted/pydoctor) - Generate readable documentation for users based on source code with epytext-formatted docstrings, with support for zope.interface.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
+- [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
+- [boxed/hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to manage all your python exceptions and try/except blocks (limited only for those who like dinosaurs).
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
@@ -1944,6 +1953,10 @@
 
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+
+## Zig 
+
+- [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 
 
 ## License
