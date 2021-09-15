@@ -197,6 +197,7 @@
 
 ## Crystal 
 
+- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Cython 
@@ -354,6 +355,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
@@ -372,6 +374,7 @@
 
 ## JavaScript 
 
+- [fabmob/velolibre](https://github.com/fabmob/velolibre) - Construire un vélo open source
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
 - [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
@@ -569,6 +572,8 @@
 
 ## Others 
 
+- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
+- [python/bugs.python.org](https://github.com/python/bugs.python.org) - Meta-issue tracker for bugs.python.org
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nonunicorn/onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with 800+ (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [Julian/awesome-bugs](https://github.com/Julian/awesome-bugs) - A collection of bizarre, funny or obscure bugs in our software and hardware
@@ -578,7 +583,7 @@
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Stuff that works with Home Assistant
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.  https://opensustain.tech/
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources. https://opensustain.tech/
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [koaning/calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
@@ -701,7 +706,16 @@
 
 ## Python 
 
-- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) but without all the weirdness
+- [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
+- [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
+- [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
+- [ArneBachmann/tagsplorer](https://github.com/ArneBachmann/tagsplorer) - A quick and resource-efficient OS-independent tagging filetree extension tool and library
+- [python/typing](https://github.com/python/typing) - Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
+- [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics.
+- [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
+- [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
+- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
 - [pycontribs/subprocess-tee](https://github.com/pycontribs/subprocess-tee) - A subprocess.run drop-in replacement that supports a tee mode, being able to display output in real time while still capturing it. No dependencies needed
 - [twisted/pydoctor](https://github.com/twisted/pydoctor) - Generate readable documentation for users based on source code with epytext-formatted docstrings, with support for zope.interface.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
@@ -827,7 +841,7 @@
 - [chrieke/mkdocs-exclude-search](https://github.com/chrieke/mkdocs-exclude-search) - 🔎 A mkdocs plugin that lets you exclude selected chapters from the search index.
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [apenwarr/mkdocs-exclude](https://github.com/apenwarr/mkdocs-exclude) - A mkdocs plugin that lets you exclude files or trees from your output.
-- [alexdelorenzo/aiopath](https://github.com/alexdelorenzo/aiopath) - 📁 Asynchronous pathlib for Python
+- [alexdelorenzo/aiopath](https://github.com/alexdelorenzo/aiopath) - 📁 Async pathlib for Python
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [wummel/linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 - [chrisdoherty4/python-case-converter](https://github.com/chrisdoherty4/python-case-converter) - A case conversion library for Python.
@@ -1350,6 +1364,7 @@
 - [raptor494/PyJava](https://github.com/raptor494/PyJava) - Use braces and semicolons in Python!
 - [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python 3.4+
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
@@ -1677,6 +1692,8 @@
 
 ## Rust 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - 
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [IsaccBarker/Greatness](https://github.com/IsaccBarker/Greatness) - Acheive greatness!
@@ -1690,7 +1707,7 @@
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
-- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -1905,7 +1922,6 @@
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [sfeir-open-source/sfeir-school-angular](https://github.com/sfeir-open-source/sfeir-school-angular) - Repository for Sfeir School Angular
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
