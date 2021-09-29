@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [matusnovak/doxybook2](https://github.com/matusnovak/doxybook2) - Doxygen XML to Markdown (or JSON)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -317,6 +318,7 @@
 
 ## HTML 
 
+- [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [qtile/qtile.org](https://github.com/qtile/qtile.org) - Source code to qtile.org
 - [opinionated-code/opinionated-fastapi](https://github.com/opinionated-code/opinionated-fastapi) - Python Package for FastAPI, to provide some opinionated defaults and structure
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -496,7 +498,7 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
-- [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
+- [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
@@ -576,6 +578,7 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [learnk8s/kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [python/bugs.python.org](https://github.com/python/bugs.python.org) - Meta-issue tracker for bugs.python.org
@@ -646,7 +649,7 @@
 - [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
+- [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
@@ -711,7 +714,16 @@
 
 ## Python 
 
-- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal
+- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
+- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+- [MrSenko/coverage-jinja-plugin](https://github.com/MrSenko/coverage-jinja-plugin) - A coverage.py plugin to measure the coverage of Jinja2 templates
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
+- [KenKundert/nestedtext](https://github.com/KenKundert/nestedtext) - Human Readable and Writable Data Interchange Format
+- [thoth-station/prescriptions](https://github.com/thoth-station/prescriptions) - ⚕️💊 Prescriptions to heal your applications and application dependencies 💊⚕️
+- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
 - [gordonwatts/make-it-sync](https://github.com/gordonwatts/make-it-sync) - Runs an async routine and waits for the future. Spawns
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
@@ -800,7 +812,7 @@
 - [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [cognitivefactory/interactive-clustering](https://github.com/cognitivefactory/interactive-clustering) - Python package used to apply NLP interactive clustering methods.
-- [domvwt/esparto](https://github.com/domvwt/esparto) - Simple HTML and PDF document generator for Python - with built-in support for popular data analysis and plotting libraries.
+- [domvwt/esparto](https://github.com/domvwt/esparto) - Simple HTML page and PDF document generator for Python - with built-in support for popular data analysis and plotting libraries.
 - [flacjacket/pywayland](https://github.com/flacjacket/pywayland) - Python bindings for the libwayland library
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [mautrix/python](https://github.com/mautrix/python) - A Python 3 asyncio Matrix framework.
@@ -1016,11 +1028,10 @@
 - [frostming/pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [proofit404/dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
-- [emehrkay/moesha](https://github.com/emehrkay/moesha) - 
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a
 - [pawamoy/docker-nginx-postgres-django-example](https://github.com/pawamoy/docker-nginx-postgres-django-example) - Example using Docker, Django, multiple Postgres databases, NginX, Gunicorn, pipenv, GitLab CI and tox.
 - [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
-- [peopledoc/procrastinate](https://github.com/peopledoc/procrastinate) - PostgreSQL-based Task Queue for Python
+- [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [luozhouyang/python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
 - [alex-sherman/unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
@@ -1716,7 +1727,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
@@ -1903,6 +1914,7 @@
 
 ## TypeScript 
 
+- [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
 - [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
