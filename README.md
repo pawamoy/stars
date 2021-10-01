@@ -237,7 +237,7 @@
 
 ## Go 
 
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -714,6 +714,8 @@
 
 ## Python 
 
+- [juancarlospaco/thatlib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python
+- [sauravmishra1017/Parseltongue](https://github.com/sauravmishra1017/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
@@ -821,7 +823,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [dvrpc/network-routing](https://github.com/dvrpc/network-routing) - Python package to create and analyze routable networks
 - [mansenfranzen/autodoc_pydantic](https://github.com/mansenfranzen/autodoc_pydantic) - Seamlessly integrate pydantic models in your Sphinx documentation.
-- [neatc0der/mkdocs-markmap](https://github.com/neatc0der/mkdocs-markmap) - MkDocs plugin and extension to creates mindmaps from markdown using markmap
+- [neatc0der/mkdocs-markmap](https://github.com/neatc0der/mkdocs-markmap) - MkDocs plugin and extension to create mindmaps from markdown using markmap
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
 - [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
 - [repo-helper/whey](https://github.com/repo-helper/whey) - A simple Python wheel builder for simple projects.
