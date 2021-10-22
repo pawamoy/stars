@@ -84,7 +84,6 @@
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
-- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -298,7 +297,7 @@
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -322,7 +321,6 @@
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [qtile/qtile.org](https://github.com/qtile/qtile.org) - Source code to qtile.org
 - [opinionated-code/opinionated-fastapi](https://github.com/opinionated-code/opinionated-fastapi) - Python Package for FastAPI, to provide some opinionated defaults and structure
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [squidfunk/mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
@@ -715,6 +713,7 @@
 
 ## Python 
 
+- [dbatten5/phylm](https://github.com/dbatten5/phylm) - Python package to aggregate useful data around films
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
 - [harlowja/fasteners](https://github.com/harlowja/fasteners) - A python package that provides useful locks.
 - [axiros/docutools](https://github.com/axiros/docutools) - Dev Centric Tools for Mkdocs Based Documentation
@@ -728,7 +727,7 @@
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [MrSenko/coverage-jinja-plugin](https://github.com/MrSenko/coverage-jinja-plugin) - A coverage.py plugin to measure the coverage of Jinja2 templates
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
 - [KenKundert/nestedtext](https://github.com/KenKundert/nestedtext) - Human Readable and Writable Data Interchange Format
@@ -1138,7 +1137,7 @@
 - [paw-lu/dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [soxofaan/duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
-- [pypa/build](https://github.com/pypa/build) - A simple, correct PEP 517 package builder
+- [pypa/build](https://github.com/pypa/build) - A simple, correct PEP 517 build frontend
 - [FFY00/python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [pradyunsg/installer](https://github.com/pradyunsg/installer) - A low-level library for installing from a Python wheel distribution.
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
@@ -1660,7 +1659,7 @@
 - [neo4j-contrib/django-neomodel](https://github.com/neo4j-contrib/django-neomodel) - Neomodel plugin for Django
 - [neo4j-contrib/neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (OGM) for the Neo4j graph database.
 - [erm0l0v/django-fake-model](https://github.com/erm0l0v/django-fake-model) - Simple library for creating fake models in the unit tests.
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 - [bitlabstudio/django-metrics-dashboard](https://github.com/bitlabstudio/django-metrics-dashboard) - A reusable Django app for displaying a dashboard with a fluid grid of widgets.
 - [eSentire/cymon-python](https://github.com/eSentire/cymon-python) - Python library for Cymon.io APIs
@@ -1930,6 +1929,7 @@
 - [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -1985,6 +1985,7 @@
 
 ## Vala 
 
+- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim script 
