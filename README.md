@@ -82,7 +82,7 @@
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [kiedtl/hxd](https://github.com/kiedtl/hxd) - A better hexdump
+- [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
@@ -237,6 +237,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -320,6 +321,8 @@
 
 ## HTML 
 
+- [frostming/tokei-pie-cooker](https://github.com/frostming/tokei-pie-cooker) - Visualize your code statistics with Pie Chart
+- [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [laffra/pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
@@ -330,11 +333,9 @@
 - [squidfunk/mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
 - [oprypin/crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
 - [modasserbillah/plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
-- [ourforks/ourforks.github.io](https://github.com/ourforks/ourforks.github.io) - Public website for the organization.
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
-- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [karan/TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
@@ -587,7 +588,7 @@
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [python/bugs.python.org](https://github.com/python/bugs.python.org) - Meta-issue tracker for bugs.python.org
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Lib with 800+ (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Lib with 950+ (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [Julian/awesome-bugs](https://github.com/Julian/awesome-bugs) - A collection of bizarre, funny or obscure bugs in our software and hardware
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -611,7 +612,6 @@
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [blacklistisnotracist/blacklist-is-not-a-racist-word](https://github.com/blacklistisnotracist/blacklist-is-not-a-racist-word) - Hi, my name is blacklist. I'm offended because non-black people think I'm offensive without presenting any evidence.
 - [lemonade-hq/policy-2.0](https://github.com/lemonade-hq/policy-2.0) - Lemonade’s Policy 2.0, a radically simplified, modernized, and digitized insurance policy.
-- [ourforks/Invite](https://github.com/ourforks/Invite) - Request an organization invite by opening an issue.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [tcfitzgerald/pinephone](https://github.com/tcfitzgerald/pinephone) - Things I want to remember for the pinephone
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
@@ -718,6 +718,11 @@
 
 ## Python 
 
+- [hynek/structlog](https://github.com/hynek/structlog) - Structured Logging for Python
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) - A platform-independent file lock for Python.
+- [life4/deal](https://github.com/life4/deal) - Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [posita/numerary](https://github.com/posita/numerary) - A pure-Python codified rant aspiring to a world where numbers and types can work together.
 - [Discord-Snake-Pit/Dis-Snek](https://github.com/Discord-Snake-Pit/Dis-Snek) - A Python API wrapper for Discord
 - [FFY00/python-pep621](https://github.com/FFY00/python-pep621) - PEP 621 metadata parsing
@@ -740,7 +745,7 @@
 - [axiros/docutools](https://github.com/axiros/docutools) - Dev Centric Tools for Mkdocs Based Documentation
 - [sleuth-io/code-video-generator](https://github.com/sleuth-io/code-video-generator) - Generates code walkthrough videos using Manim
 - [Julian/regret](https://github.com/Julian/regret) - You made a thing, but now you wish it'd go away... Deprecations, a love story.
-- [Riverside-Healthcare/djLint](https://github.com/Riverside-Healthcare/djLint) - HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
+- [Riverside-Healthcare/djLint](https://github.com/Riverside-Healthcare/djLint) - ✨ 📜 🪄 ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 - [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
 - [juancarlospaco/thatlib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python
 - [sauravmishra1017/Parseltongue](https://github.com/sauravmishra1017/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
@@ -774,7 +779,7 @@
 - [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
 - [boxed/hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to manage all your python exceptions and try/except blocks (limited only for those who like dinosaurs).
+- [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses
@@ -813,7 +818,7 @@
 - [branchvincent/pdm-publish](https://github.com/branchvincent/pdm-publish) - 📦 A PDM plugin to publish to PyPI
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
-- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for tools and technologies.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
@@ -1419,6 +1424,7 @@
 - [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
 - [jquast/blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [erikrose/blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
+- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [aaugustin/websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [florimondmanca/python-in-browser](https://github.com/florimondmanca/python-in-browser) - 🐍🛥🌟 Running Python in the browser with Batavia and Starlette
@@ -1742,6 +1748,8 @@
 
 ## Rust 
 
+- [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Rust app to tag your music library.
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
@@ -1903,7 +1911,7 @@
 - [madumlao/pyenv-binstubs](https://github.com/madumlao/pyenv-binstubs) - A pipenv plugin for pyenv
 - [oscarmcm/pyenv-chooser](https://github.com/oscarmcm/pyenv-chooser) - Allow pyenv to select the python version from the program name.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tlevine/urchin](https://github.com/tlevine/urchin) - Shell tests
 - [infertux/sysechk](https://github.com/infertux/sysechk) - System Security Checker is a bundle of small shell scripts to assess your computer security.
 - [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
@@ -1924,7 +1932,7 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
 - [Mosai/workshop](https://github.com/Mosai/workshop) - Tools that works on a lot of platforms.
@@ -1944,6 +1952,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
 - [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien
