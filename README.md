@@ -239,7 +239,7 @@
 
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -321,7 +321,7 @@
 
 ## HTML 
 
-- [frostming/tokei-pie-cooker](https://github.com/frostming/tokei-pie-cooker) - Visualize your code statistics with Pie Chart
+- [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [laffra/pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact
@@ -383,6 +383,9 @@
 
 ## JavaScript 
 
+- [grapheco/InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
+- [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [quantumblacklabs/kedro-viz](https://github.com/quantumblacklabs/kedro-viz) - Visualise your Kedro data pipelines.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -421,7 +424,6 @@
 - [rllola/Documentation](https://github.com/rllola/Documentation) - ZeroNet Documentation
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [yuanchuan/game-of-life](https://github.com/yuanchuan/game-of-life) - A browser extension to play Conway's Game of Life on GitHub contribution board
 - [MeasureOSS/Measure](https://github.com/MeasureOSS/Measure) - At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. It allows you to understand how people as individuals and as organizations are interacting with open source projects on GitHub. It’s metrics that focus not only on code, but on contributors.
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
@@ -434,7 +436,7 @@
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
-- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
 - [colmsjo/github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -718,7 +720,14 @@
 
 ## Python 
 
+- [MartinThoma/flake8-simplify](https://github.com/MartinThoma/flake8-simplify) - ❄ A flake8 plugin that helps you to simplify code
+- [codemation/easyauth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server. Easily secure FastAPI endpoints based on Users, Groups, Roles or Permissions with very little database usage.
+- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
+- [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
+- [nschloe/deadlink](https://github.com/nschloe/deadlink) - :skull: Checks and fixes URLs in code and documentation.
+- [drgarcia1986/simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
 - [hynek/structlog](https://github.com/hynek/structlog) - Structured Logging for Python
+- [frostming/tokei-pie-cooker](https://github.com/frostming/tokei-pie-cooker) - Visualize your code statistics with Pie Chart
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) - A platform-independent file lock for Python.
@@ -1360,7 +1369,7 @@
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [benjaoming/pytosquatting](https://github.com/benjaoming/pytosquatting) - 
-- [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation
+- [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
@@ -1854,6 +1863,7 @@
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [juanibiapina/codon](https://github.com/juanibiapina/codon) - A simple URL encoder for the command line.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [eigentechnologies/cpip](https://github.com/eigentechnologies/cpip) - 
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
