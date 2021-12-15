@@ -238,7 +238,7 @@
 
 ## Go 
 
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes by Team Lens
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
@@ -385,6 +385,7 @@
 
 ## JavaScript 
 
+- [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
 - [grapheco/InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -666,7 +667,7 @@
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 - [themanifest/package-management-glossary](https://github.com/themanifest/package-management-glossary) - A glossary of terms relating to package management
 - [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
-- [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
@@ -721,6 +722,8 @@
 
 ## Python 
 
+- [lietu/shylock](https://github.com/lietu/shylock) - Distributed async locks on Python
+- [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple, fast and high performance Python framework (RPC + PubSub) for building microservices
 - [posita/dyce](https://github.com/posita/dyce) - Simple Python tools for exploring dice outcomes and other finite discrete probabilities
 - [emcd/python-lockup](https://github.com/emcd/python-lockup) - Immutable and concealed attributes for Python classes, modules, and namespaces.
 - [MartinThoma/flake8-simplify](https://github.com/MartinThoma/flake8-simplify) - ❄ A flake8 plugin that helps you to simplify code
@@ -1174,7 +1177,7 @@
 - [gergelyk/cookiecutter-python-project](https://github.com/gergelyk/cookiecutter-python-project) - Template of python project.
 - [paw-lu/dressup](https://github.com/paw-lu/dressup) - Dress up your unicode!
 - [soxofaan/duviz](https://github.com/soxofaan/duviz) - Command-line disk space usage visualization utility
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [pypa/build](https://github.com/pypa/build) - A simple, correct PEP 517 build frontend
 - [FFY00/python-install](https://github.com/FFY00/python-install) - A simple, correct PEP427 wheel installer
 - [pradyunsg/installer](https://github.com/pradyunsg/installer) - A low-level library for installing from a Python wheel distribution.
@@ -1873,7 +1876,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [ZalgoNoise/yojimbo](https://github.com/ZalgoNoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
-- [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - 📦 Simple Git-based package manager.
+- [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Simple Git-based package manager
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
@@ -1966,6 +1969,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
@@ -2015,7 +2019,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## V 
