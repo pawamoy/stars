@@ -214,6 +214,7 @@
 
 ## Dart 
 
+- [maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner) - Braindump better.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## Dockerfile 
@@ -401,6 +402,7 @@
 - [cognitivefactory/annotationtool-dev](https://github.com/cognitivefactory/annotationtool-dev) - Annotation tool - Internship project for TPS students
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - The end-to-end platform for building voice products at scale
@@ -441,7 +443,6 @@
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [colmsjo/github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -703,7 +704,7 @@
 
 ## PHP 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1000+ micro code pieces with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.1k micro code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -1872,7 +1873,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [ko1nksm/ghostplay](https://github.com/ko1nksm/ghostplay) - Automatic terminal input tool - ghost types your script!
 - [flipee/pkgbuilds](https://github.com/flipee/pkgbuilds) - PKGBUILDs for the Arch User Repository
-- [dodie/testing-in-bash](https://github.com/dodie/testing-in-bash) - Bash test framework comparison 2020
+- [dodie/testing-in-bash](https://github.com/dodie/testing-in-bash) - Bash test framework comparison
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -1997,7 +1998,6 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [sgratzl/chartjs-chart-graph](https://github.com/sgratzl/chartjs-chart-graph) - Chart.js Graph-like Charts (tree, force directed)
 - [arvkevi/listipy](https://github.com/arvkevi/listipy) - VS Code Extension to List-ify strings into Python Lists
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
@@ -2065,6 +2065,7 @@
 ## Vue 
 
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## Zig 
