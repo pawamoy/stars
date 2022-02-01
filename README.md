@@ -391,6 +391,8 @@
 
 ## JavaScript 
 
+- [unconed/mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
+- [davidpiegza/Graph-Visualization](https://github.com/davidpiegza/Graph-Visualization) - 3D graph visualization with WebGL / Three.js
 - [NeXt-UI/next](https://github.com/NeXt-UI/next) - Mirror of the OpenDaylight next gerrit project
 - [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
 - [grapheco/InteractiveGraph](https://github.com/grapheco/InteractiveGraph) - InteractiveGraph provides a web-based interactive visualization and analysis framework for large graph data, which may come from a GSON file, or an online Neo4j graph database. InteractiveGraph also provides applications built on the framework: GraphNavigator, GraphExplorer and RelFinder.
@@ -433,6 +435,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [rllola/Documentation](https://github.com/rllola/Documentation) - ZeroNet Documentation
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app
 - [yuanchuan/game-of-life](https://github.com/yuanchuan/game-of-life) - A browser extension to play Conway's Game of Life on GitHub contribution board
@@ -732,6 +735,8 @@
 
 ## Python 
 
+- [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - 
+- [myint/pyfuzz](https://github.com/myint/pyfuzz) - Random program generator for Python
 - [dewberryants/asciiMol](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for linux terminals.
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [facelessuser/pyspelling](https://github.com/facelessuser/pyspelling) - Spell checker automation tool
@@ -975,7 +980,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [youngquan/pip-download](https://github.com/youngquan/pip-download) - A wrapper for pip download in offline scenario.
-- [jnoortheen/arger](https://github.com/jnoortheen/arger) - Create argparser automatically from functions annotations :snake:.
+- [jnoortheen/arger](https://github.com/jnoortheen/arger) - Create argparser automatically from py3.6+ annotations :snake:.
 - [simonpercivall/astunparse](https://github.com/simonpercivall/astunparse) - An AST unparser for Python
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
@@ -1366,7 +1371,6 @@
 - [ambv/bitrot](https://github.com/ambv/bitrot) - Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.
 - [lucashadfield/speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [trengrj/recent](https://github.com/trengrj/recent) - log bash history to an sqlite database
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - FastAPI CRUD
 - [LukeCarrier/mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client) - FastAPI client generator
@@ -1865,6 +1869,7 @@
 
 ## Shell 
 
+- [diejuse/pseudo3dbash](https://github.com/diejuse/pseudo3dbash) - A prototype of a pseudo 3d-engine made in Bash.
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [archlinuxfr/yaourt](https://github.com/archlinuxfr/yaourt) - [unmaintained] A Pacman frontend with more features and AUR support
 - [rmarquis/pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction
