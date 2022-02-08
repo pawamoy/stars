@@ -78,7 +78,6 @@
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
 - [j3parker/hijack](https://github.com/j3parker/hijack) - Intercept stdout/stderr/stdin of interactive programs... for evil
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -108,6 +107,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [spotify/echoprint-server](https://github.com/spotify/echoprint-server) - Server for the Echoprint audio fingerprint system
 - [wryun/es-shell](https://github.com/wryun/es-shell) - es: a shell with higher-order functions
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
@@ -143,6 +143,7 @@
 ## C++ 
 
 - [matusnovak/doxybook2](https://github.com/matusnovak/doxybook2) - Doxygen XML to Markdown (or JSON)
+- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -157,7 +158,6 @@
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [MTG/acousticbrainz-gui](https://github.com/MTG/acousticbrainz-gui) - 
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -399,7 +400,7 @@
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
-- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data pipelines.
+- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your ML experiments.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [fabmob/velolibre](https://github.com/fabmob/velolibre) - Construire un vélo open source
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
@@ -614,7 +615,7 @@
 - [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Equipment and software that works with Home Assistant
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Penetration testing for beginners. A guide for amateur pentesters and a collection of hacking tools, resources and references to practice ethical hacking.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [koaning/calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
 - [davidenunes/tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
@@ -712,7 +713,7 @@
 
 ## PHP 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.5k+ code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - ~1.7k code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -735,6 +736,10 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [houbie/pyprojectx](https://github.com/houbie/pyprojectx) - Execute scripts from pyproject.toml, installing tools on the fly
+- [Jasha10/fixup](https://github.com/Jasha10/fixup) - (pre-alpha) Automatically add and remove python import statements
 - [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - 
 - [myint/pyfuzz](https://github.com/myint/pyfuzz) - Random program generator for Python
 - [dewberryants/asciiMol](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for linux terminals.
@@ -743,10 +748,10 @@
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests
 - [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
 - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [myint/autoflake](https://github.com/myint/autoflake) - Removes unused imports and unused variables as reported by pyflakes
+- [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [swayf/grako](https://github.com/swayf/grako) - Grako (for grammar compiler) is a tool that takes grammars in a variation of EBNF as input, and outputs memoizing (Packrat) PEG parsers in Python. Forked from:
 - [patrick-kidger/pytkdocs_tweaks](https://github.com/patrick-kidger/pytkdocs_tweaks) - Some custom tweaks to the results produced by pytkdocs.
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -1299,7 +1304,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
-- [myint/docformatter](https://github.com/myint/docformatter) - Formats docstrings to follow PEP 257
+- [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
 - [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to make a test results report with Markdown table format.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [salty-horse/ibus-uniemoji](https://github.com/salty-horse/ibus-uniemoji) - Input method (ibus) for entering unicode symbols and emoji by name
@@ -1417,7 +1422,7 @@
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [MagicStack/httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
-- [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
@@ -2009,6 +2014,7 @@
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
