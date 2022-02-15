@@ -66,7 +66,7 @@
 
 - [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## Awk 
 
@@ -265,6 +265,7 @@
 - [MichaelMure/go-term-markdown](https://github.com/MichaelMure/go-term-markdown) - A markdown renderer package for the terminal
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -330,6 +331,7 @@
 
 ## HTML 
 
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -416,7 +418,6 @@
 - [daxartio/termynal](https://github.com/daxartio/termynal) - 
 - [newsuk/AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [thmsrmbld/miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [paypal/openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
@@ -713,7 +714,7 @@
 
 ## PHP 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - ~1.7k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.75k code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -736,6 +737,14 @@
 
 ## Python 
 
+- [mkdocstrings/python-legacy](https://github.com/mkdocstrings/python-legacy) - A legacy Python handler for mkdocstrings.
+- [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
+- [mkdocstrings/pytkdocs](https://github.com/mkdocstrings/pytkdocs) - Load Python objects documentation.
+- [john-hen/demo-MkDocstrings](https://github.com/john-hen/demo-MkDocstrings) - Demo of API documentation using MkDocs and MkDocstrings
+- [SupImDos/mkdocstrings-pydantic-example](https://github.com/SupImDos/mkdocstrings-pydantic-example) - Minimal reproducible example for `mkdocstrings` Python handler issue
+- [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
+- [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for sorting top level statements in python files
+- [chriskiehl/re-wx](https://github.com/chriskiehl/re-wx) - A library for building modern declarative desktop applications in WX.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [houbie/pyprojectx](https://github.com/houbie/pyprojectx) - Execute scripts from pyproject.toml, installing tools on the fly
@@ -748,7 +757,7 @@
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests
 - [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
@@ -938,7 +947,7 @@
 - [paulbricman/memnav](https://github.com/paulbricman/memnav) - Expanding propositional memory through text mining.
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
-- [synodriver/aioaria2](https://github.com/synodriver/aioaria2) - An async/await wrapper around aria2-json-rpc
+- [synodriver/aioaria2](https://github.com/synodriver/aioaria2) - An async/await wrapper around aria2-json-rpc with websocket support
 - [mattsb42/pypi-parker](https://github.com/mattsb42/pypi-parker) - Helper tooling for parking PyPI namespaces to combat typosquatting.
 - [KyleKing/not-on-pypi](https://github.com/KyleKing/not-on-pypi) - Package for reserving names on PyPi
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -1695,7 +1704,7 @@
 - [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [theacodes/nox](https://github.com/theacodes/nox) - Flexible test automation for Python
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [mandeep/Mausoleum](https://github.com/mandeep/Mausoleum) - A GUI application, command line interface, and wrapper for Tomb
@@ -1789,7 +1798,7 @@
 - [theunraveler/taskwarrior-web](https://github.com/theunraveler/taskwarrior-web) - A web interface for the Taskwarrior todo application. Because being a neckbeard is only fun sometimes.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [obahareth/base16-builder-ruby](https://github.com/obahareth/base16-builder-ruby) - A Ruby implementation of a Base16 builder
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [librariesio/lib2pr](https://github.com/librariesio/lib2pr) - :truck: Create GitHub PRs from Libraries.io webhooks
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
