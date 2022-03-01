@@ -330,6 +330,7 @@
 
 ## HTML 
 
+- [AutoActuary/mkdocstrings-vba](https://github.com/AutoActuary/mkdocstrings-vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - A little JS to visualize recursive functions in a steppable tree
 - [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
@@ -378,7 +379,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Built-in CI/CD
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [raptor494/PyJava](https://github.com/raptor494/PyJava) - Use braces and semicolons in Python!
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
@@ -403,7 +404,7 @@
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
-- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your ML experiments.
+- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [fabmob/velolibre](https://github.com/fabmob/velolibre) - Construire un vélo open source
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
@@ -561,6 +562,7 @@
 
 ## Lua 
 
+- [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
 - [philer/polycore](https://github.com/philer/polycore) - A conky config and library of Lua widgets
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -738,6 +740,18 @@
 
 ## Python 
 
+- [ofek/hatch-showcase](https://github.com/ofek/hatch-showcase) - A project showcasing features and plugins for Hatch
+- [ofek/hatch-mypyc](https://github.com/ofek/hatch-mypyc) - Hatch build hook plugin for Mypyc
+- [ofek/hatch-containers](https://github.com/ofek/hatch-containers) - Hatch plugin for Docker containers
+- [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
+- [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs) - Hatch plugin for versioning with your preferred VCS
+- [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
+- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
+- [wemake-services/coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define!
+- [pydanny/cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
+- [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
+- [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
+- [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - pylint extension for performance anti patterns
 - [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [frostming/findpython](https://github.com/frostming/findpython) - A utility to find python versions on your system
 - [kmaork/hypno](https://github.com/kmaork/hypno) - A tool/library allowing to inject python code into a running python process.
@@ -864,7 +878,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses
-- [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Extends docspec for the python language, offers facility to resolve names and provides additional informations.
+- [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Pydocspec is a object specification for representing API documentation of a collection of related python modules.
 - [it-novum/mkdocs-featherlight](https://github.com/it-novum/mkdocs-featherlight) - Featherlight Plugin for MkDocs
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
@@ -927,7 +941,7 @@
 - [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [cognitivefactory/interactive-clustering](https://github.com/cognitivefactory/interactive-clustering) - Python package used to apply NLP interactive clustering methods.
-- [domvwt/esparto](https://github.com/domvwt/esparto) - Simple HTML page and PDF document generator for Python - with built-in support for popular data analysis and plotting libraries.
+- [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the PyData ecosystem.
 - [flacjacket/pywayland](https://github.com/flacjacket/pywayland) - Python bindings for the libwayland library
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [mautrix/python](https://github.com/mautrix/python) - A Python 3 asyncio Matrix framework.
@@ -1386,7 +1400,7 @@
 - [encode/httpcore](https://github.com/encode/httpcore) - A minimal HTTP client. ⚙️
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gazpachoking/minesweeper](https://github.com/gazpachoking/minesweeper) - Cross-platform terminal based minesweeper. Because I was bored.
-- [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (http://semver.org/)
+- [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (https://semver.org/)
 - [rr-/docstring_parser](https://github.com/rr-/docstring_parser) - Parse Python docstrings in various flavors.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [ronf/asyncssh](https://github.com/ronf/asyncssh) - AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework.
@@ -1718,7 +1732,7 @@
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [theacodes/nox](https://github.com/theacodes/nox) - Flexible test automation for Python
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [mandeep/Mausoleum](https://github.com/mandeep/Mausoleum) - A GUI application, command line interface, and wrapper for Tomb
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
