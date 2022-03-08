@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [matusnovak/doxybook2](https://github.com/matusnovak/doxybook2) - Doxygen XML to Markdown (or JSON)
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -241,6 +242,7 @@
 
 ## Go 
 
+- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -275,7 +277,7 @@
 - [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
-- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity: Application containers for Linux
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
@@ -603,6 +605,7 @@
 
 ## Others 
 
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
@@ -690,6 +693,7 @@
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vintasoftware/python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -740,6 +744,17 @@
 
 ## Python 
 
+- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
+- [disrupted/subclean](https://github.com/disrupted/subclean) - 🧙📖 Simple CLI to instantly enhance your movie & TV show subtitles.
+- [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
+- [seperman/deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
+- [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
+- [apparebit/konsole](https://github.com/apparebit/konsole) - Readable, pleasing console output for Python
+- [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier `ls` for the pros.
+- [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [tylerwince/flake8-bandit](https://github.com/tylerwince/flake8-bandit) - Automated security testing using bandit and flake8.
 - [ofek/hatch-showcase](https://github.com/ofek/hatch-showcase) - A project showcasing features and plugins for Hatch
 - [ofek/hatch-mypyc](https://github.com/ofek/hatch-mypyc) - Hatch build hook plugin for Mypyc
 - [ofek/hatch-containers](https://github.com/ofek/hatch-containers) - Hatch plugin for Docker containers
@@ -1665,7 +1680,6 @@
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [xsteadfastx/jinja2-slug](https://github.com/xsteadfastx/jinja2-slug) - 
@@ -1841,6 +1855,7 @@
 
 ## Rust 
 
+- [disrupted/blackd-client](https://github.com/disrupted/blackd-client) - ⬛ Blazing fast Python code formatting using Black
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [openfare/openfare](https://github.com/openfare/openfare) - Micropayment funded software.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -1910,6 +1925,7 @@
 
 ## Shell 
 
+- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [spenserblack/gh-md-tag](https://github.com/spenserblack/gh-md-tag) - Allows you to create an annotated tag in Markdown format
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
 - [diejuse/pseudo3dbash](https://github.com/diejuse/pseudo3dbash) - A prototype of a pseudo 3d-engine made in Bash.
@@ -1959,7 +1975,7 @@
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
-- [ZalgoNoise/yojimbo](https://github.com/ZalgoNoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
+- [zalgonoise/yojimbo](https://github.com/zalgonoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Simple Git-based package manager
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
