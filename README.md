@@ -179,6 +179,7 @@
 
 ## CSS 
 
+- [pradyunsg/lutra](https://github.com/pradyunsg/lutra) - Ooops, I wrote another Sphinx theme! [very WIP, do not use]
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.
@@ -725,7 +726,7 @@
 
 ## PHP 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.75k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.8k code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -748,6 +749,7 @@
 
 ## Python 
 
+- [idmitrievsky/rescue](https://github.com/idmitrievsky/rescue) - type-safe exceptions for Python 👷
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [mondeja/mkdocs-mdpo-plugin](https://github.com/mondeja/mkdocs-mdpo-plugin) - Mkdocs translation plugin using PO files.
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
@@ -757,7 +759,7 @@
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [apparebit/konsole](https://github.com/apparebit/konsole) - Readable, pleasing console output for Python
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier `ls` for the pros.
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [tylerwince/flake8-bandit](https://github.com/tylerwince/flake8-bandit) - Automated security testing using bandit and flake8.
@@ -941,7 +943,7 @@
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [whoosh-community/whoosh](https://github.com/whoosh-community/whoosh) - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
-- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
+- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode  Docs at https://vulnerablecode.readthedocs.org/
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
@@ -1750,7 +1752,7 @@
 - [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [theacodes/nox](https://github.com/theacodes/nox) - Flexible test automation for Python
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [mandeep/Mausoleum](https://github.com/mandeep/Mausoleum) - A GUI application, command line interface, and wrapper for Tomb
