@@ -734,7 +734,7 @@
 ## PHP 
 
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.9k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2k code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -757,6 +757,11 @@
 
 ## Python 
 
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
+- [markqvist/LXMF](https://github.com/markqvist/LXMF) - Lightweight Extensible Message Format for Reticulum
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - Self-configuring, encrypted and resilient mesh for LoRa, packet radio, WiFi and everything in between
+- [sethmlarson/pypi-data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI
+- [ewjoachim/coverage-comment-action](https://github.com/ewjoachim/coverage-comment-action) - Publish diff coverage report as PR comment, and create a coverage badge to display on the Readme
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [SupImDos/pydantic-argparse](https://github.com/SupImDos/pydantic-argparse) - Typed Argument Parsing with Pydantic
 - [idmitrievsky/rescue](https://github.com/idmitrievsky/rescue) - type-safe exceptions for Python 👷
@@ -1076,7 +1081,7 @@
 - [ahawker/ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [rsalmei/about-time](https://github.com/rsalmei/about-time) - A cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions.
-- [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log.
+- [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
 - [AI2Business/mkdocstrings-sourcelink](https://github.com/AI2Business/mkdocstrings-sourcelink) - Automatic source link generation for mkdocstrings
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
@@ -1871,6 +1876,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [disrupted/blackd-client](https://github.com/disrupted/blackd-client) - ⬛ Blazing fast Python code formatting using Black
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [openfare/openfare](https://github.com/openfare/openfare) - Micropayment funded software.
