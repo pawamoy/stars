@@ -349,6 +349,7 @@
 - [laffra/pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [opinionated-code/opinionated-fastapi](https://github.com/opinionated-code/opinionated-fastapi) - Python Package for FastAPI, to provide some opinionated defaults and structure
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [squidfunk/mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
@@ -424,7 +425,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [daxartio/termynal](https://github.com/daxartio/termynal) - 
+- [daxartio/termynal](https://github.com/daxartio/termynal) - Python markdown terminal. Built for mkdocs
 - [newsuk/AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thmsrmbld/miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
@@ -757,6 +758,13 @@
 
 ## Python 
 
+- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [pawamoy/best-of-mkdocs](https://github.com/pawamoy/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
+- [octadocs/flake8.codes](https://github.com/octadocs/flake8.codes) - A catalog of error codes for flake8 Python static analysis tool & a few of its plugins.
+- [EddyLuten/mkdocs-categories-plugin](https://github.com/EddyLuten/mkdocs-categories-plugin) - An MkDocs plugin allowing for categorization of wiki pages
+- [EddyLuten/mkdocs-alias-plugin](https://github.com/EddyLuten/mkdocs-alias-plugin) - An MkDocs plugin allowing links to your pages using a custom alias
+- [mattsb42-meta/pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx) - Bootstrap your pipx with pipx.
 - [asottile/detect-test-pollution](https://github.com/asottile/detect-test-pollution) - a tool to detect test pollution
 - [RocketRace/custom-literals](https://github.com/RocketRace/custom-literals) - A library implementing C++'s custom literal suffixes using pure Python.
 - [AlayaCare/git-black](https://github.com/AlayaCare/git-black) - Reformat your source without losing git's history
@@ -1557,6 +1565,7 @@
 - [raptor494/JavaPy](https://github.com/raptor494/JavaPy) - Program Java with Python indentation!
 - [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python 3.4+
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
@@ -1885,6 +1894,7 @@
 
 ## Rust 
 
+- [samuelcolvin/pydantic-core](https://github.com/samuelcolvin/pydantic-core) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [disrupted/blackd-client](https://github.com/disrupted/blackd-client) - ⬛ Blazing fast Python code formatting using Black
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -1956,6 +1966,7 @@
 
 ## Shell 
 
+- [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [spenserblack/gh-md-tag](https://github.com/spenserblack/gh-md-tag) - Allows you to create an annotated tag in Markdown format
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
@@ -2108,7 +2119,6 @@
 - [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -2133,11 +2143,10 @@
 - [findumonde/tuvascraquer](https://github.com/findumonde/tuvascraquer) - Tu vas craquer ? (confinement : le test)
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [sfeir-open-source/sfeir-school-angular](https://github.com/sfeir-open-source/sfeir-school-angular) - Repository for Sfeir School Angular
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
