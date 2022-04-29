@@ -758,6 +758,9 @@
 
 ## Python 
 
+- [mblayman/homeschool](https://github.com/mblayman/homeschool) - An app for homeschool planning
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
+- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pawamoy/best-of-mkdocs](https://github.com/pawamoy/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
@@ -793,7 +796,7 @@
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A modern TUI library free from the shackles of web development.
 - [tylerwince/flake8-bandit](https://github.com/tylerwince/flake8-bandit) - Automated security testing using bandit and flake8.
 - [ofek/hatch-showcase](https://github.com/ofek/hatch-showcase) - A project showcasing features and plugins for Hatch
 - [ofek/hatch-mypyc](https://github.com/ofek/hatch-mypyc) - Hatch build hook plugin for Mypyc
@@ -856,7 +859,7 @@
 - [Narasimha1997/py4jshell](https://github.com/Narasimha1997/py4jshell) - Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit code.
 - [smarie/mkdocs-gallery](https://github.com/smarie/mkdocs-gallery) - Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx dependency !).
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
-- [jek/blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+- [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [lietu/shylock](https://github.com/lietu/shylock) - Distributed async locks on Python
 - [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple, fast, high performance and low latency Python framework (RPC + PubSub) for building microservices or distributed servers
 - [posita/dyce](https://github.com/posita/dyce) - Simple Python tools for exploring dice outcomes and other finite discrete probabilities
@@ -1894,7 +1897,7 @@
 
 ## Rust 
 
-- [samuelcolvin/pydantic-core](https://github.com/samuelcolvin/pydantic-core) - 
+- [samuelcolvin/pydantic-core](https://github.com/samuelcolvin/pydantic-core) - Core validation logic for pydantic written in rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [disrupted/blackd-client](https://github.com/disrupted/blackd-client) - ⬛ Blazing fast Python code formatting using Black
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
