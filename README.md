@@ -35,6 +35,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -53,7 +54,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
-- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -371,7 +371,6 @@
 - [laffra/pynsights](https://github.com/laffra/pynsights) - Understanding Python programs by visualizing how modules interact
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [opinionated-code/opinionated-fastapi](https://github.com/opinionated-code/opinionated-fastapi) - Python Package for FastAPI, to provide some opinionated defaults and structure
-- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [squidfunk/mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
@@ -619,6 +618,10 @@
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
+## Nim 
+
+- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
+
 ## Nix 
 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -795,6 +798,13 @@
 
 ## Python 
 
+- [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
+- [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
+- [adamviola/textual-imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
+- [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
+- [davep/textual-astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
@@ -1293,6 +1303,8 @@
 - [cmitu/mkdocs-altlink-plugin](https://github.com/cmitu/mkdocs-altlink-plugin) - An MkDocs plugin that simplifies internal links creation
 - [Jackiexiao/mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device Speech-to-Intent engine powered by deep learning
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
+- [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
@@ -2280,10 +2292,6 @@
 
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 
-## Swift 
-
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
-
 ## TeX 
 
 - [PolyPasswordHasher/PolyPasswordHasher](https://github.com/PolyPasswordHasher/PolyPasswordHasher) - A Password hash storage scheme that prevents an attacker from cracking passwords individually and efficiently.
@@ -2314,7 +2322,6 @@
 - [arvkevi/listipy](https://github.com/arvkevi/listipy) - VS Code Extension to List-ify strings into Python Lists
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
