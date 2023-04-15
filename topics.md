@@ -553,6 +553,8 @@
 
 ## cli 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renamer and organizion tool
@@ -781,6 +783,7 @@
 
 ## cybersecurity 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 
 ## dart 
@@ -790,6 +793,7 @@
 
 ## data 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
@@ -1318,6 +1322,7 @@
 
 ## hacking 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
@@ -1758,6 +1763,7 @@
 
 ## linux 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
@@ -1807,6 +1813,7 @@
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1884,6 +1891,7 @@
 
 ## macos 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -2132,6 +2140,9 @@
 
 ## others 
 
+- [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
+- [adamviola/textual-imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
+- [davep/textual-astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
@@ -2513,7 +2524,6 @@
 - [michalc/fifolock](https://github.com/michalc/fifolock) - A flexible low-level tool to make synchronisation primitives in asyncio Python
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
 - [oprypin/crsfml-mkdocstrings](https://github.com/oprypin/crsfml-mkdocstrings) - 
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [proofit404/dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
 - [alex-sherman/unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [zillow/battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
@@ -3150,6 +3160,10 @@
 
 ## python 
 
+- [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
+- [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Productivity tool for quickly creating python programs that parse command-line arguments. Stop writing argparse boilerplate code!
@@ -3425,6 +3439,7 @@
 - [scrapy/queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) and non-persistent (memory-based) queues for Python
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
@@ -3733,6 +3748,7 @@
 
 ## python3 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Productivity tool for quickly creating python programs that parse command-line arguments. Stop writing argparse boilerplate code!
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
@@ -4160,6 +4176,8 @@
 
 ## terminal 
 
+- [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [Textualize/textualize-see](https://github.com/Textualize/textualize-see) - A file opener for the terminal
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
