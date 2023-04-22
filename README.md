@@ -101,7 +101,7 @@
 - [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://svn.osdn.net/svnroot/yash/)
+- [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://scm.osdn.net/gitroot/yash/yash.git)
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -798,6 +798,7 @@
 
 ## Python 
 
+- [sethmlarson/secure-python-package-template](https://github.com/sethmlarson/secure-python-package-template) - Template for a Python package with a secure project host and package repository configuration.
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -806,7 +807,7 @@
 - [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [davep/textual-astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1335,7 +1336,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
@@ -1743,7 +1744,7 @@
 - [raptor494/JavaPy](https://github.com/raptor494/JavaPy) - Program Java with Python indentation!
 - [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python 3.4+
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
