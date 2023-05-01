@@ -378,6 +378,7 @@
 - [modasserbillah/plot_coverage](https://github.com/modasserbillah/plot_coverage) - Python package to generate plots from coverage reports
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [karan/TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
@@ -644,6 +645,7 @@
 
 ## Others 
 
+- [fkromer/best-of-fastapi](https://github.com/fkromer/best-of-fastapi) - List of automatically rated Python packages for FastAPI.
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native) - A collection of content about key Python packaging topics and issues for projects using native code
 - [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
@@ -798,6 +800,12 @@
 
 ## Python 
 
+- [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
+- [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
+- [ojacques/mkdocs-git-committers-plugin-2](https://github.com/ojacques/mkdocs-git-committers-plugin-2) - MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!
+- [timvink/mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) - MkDocs plugin to add a last updated date to your site pages
+- [ddelange/pipgrip](https://github.com/ddelange/pipgrip) - Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm
+- [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [sethmlarson/secure-python-package-template](https://github.com/sethmlarson/secure-python-package-template) - Template for a Python package with a secure project host and package repository configuration.
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
@@ -819,14 +827,14 @@
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [waylan/bootstrap4markdown.py](https://github.com/waylan/bootstrap4markdown.py) - A Python-Markdown extension which provides a simple syntax for including Bootstrap objects within a Markdown document.
 - [cduck/hyperbolic](https://github.com/cduck/hyperbolic) - A Python 3 library for constructing and drawing hyperbolic geometry
-- [mozman/svgwrite](https://github.com/mozman/svgwrite) - Python Package to write SVG files
+- [mozman/svgwrite](https://github.com/mozman/svgwrite) - Python Package to write SVG files (UNMAINTAINED)
 - [cduck/drawsvg](https://github.com/cduck/drawsvg) - Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
 - [Sanster/tldream](https://github.com/Sanster/tldream) - A tiny little diffusion drawing app
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Productivity tool for quickly creating python programs that parse command-line arguments. Stop writing argparse boilerplate code!
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
-- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renamer and organizion tool
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [pdm-project/pdm-expansions](https://github.com/pdm-project/pdm-expansions) - What does PDM stand for?
 - [frostming/fix-future-annotations](https://github.com/frostming/fix-future-annotations) - A CLI and pre-commit hook to fix future annotations
 - [fchollet/namex](https://github.com/fchollet/namex) - Clean up the public namespace of your package!
@@ -837,7 +845,7 @@
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
 - [frostming/pdm-vscode](https://github.com/frostming/pdm-vscode) - A PDM plugin that autogenerates workspace vscode settings for you
 - [franzhaas/pdm-collect-dependencies](https://github.com/franzhaas/pdm-collect-dependencies) - 
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [abersheeran/pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 - [KyleKing/copier-template-tester](https://github.com/KyleKing/copier-template-tester) - ctt: CLI and pre-commit tool for testing copier
@@ -1030,7 +1038,7 @@
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [jrieke/streamlit-profiler](https://github.com/jrieke/streamlit-profiler) - 🏄🏼 Runtime profiler for Streamlit, powered by pyinstrument
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Narasimha1997/py4jshell](https://github.com/Narasimha1997/py4jshell) - Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit cod
 - [smarie/mkdocs-gallery](https://github.com/smarie/mkdocs-gallery) - Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx dependency !).
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -2060,7 +2068,7 @@
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [librariesio/lib2pr](https://github.com/librariesio/lib2pr) - :truck: Create GitHub PRs from Libraries.io webhooks
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) - The EFF Action Center Platform
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [tidelift/dotyaml](https://github.com/tidelift/dotyaml) - dependencyci.yml config parser
@@ -2073,6 +2081,8 @@
 
 ## Rust 
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -2103,7 +2113,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ruscur/snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -2299,6 +2309,7 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [charliermarsh/ruff-vscode](https://github.com/charliermarsh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
@@ -2337,7 +2348,6 @@
 - [findumonde/tuvascraquer](https://github.com/findumonde/tuvascraquer) - Tu vas craquer ? (confinement : le test)
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
