@@ -81,6 +81,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
 - [gulp](#gulp)
@@ -422,7 +423,7 @@
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -933,7 +934,7 @@
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
 - [soynatan/django-easy-audit](https://github.com/soynatan/django-easy-audit) - Yet another Django audit log app, hopefully the simplest one.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
 - [loggi/python-choicesenum](https://github.com/loggi/python-choicesenum) - Python's Enum with extra powers to play nice with labels and choices fields.
@@ -959,7 +960,7 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - :snake: Example Python project using best practices :nut_and_bolt:
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [athackst/mkdocs-simple-plugin](https://github.com/athackst/mkdocs-simple-plugin) - Build documentation files inside your code into a MkDocs site.
@@ -979,6 +980,7 @@
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1153,7 +1155,7 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [jrieke/year-on-github](https://github.com/jrieke/year-on-github) - 🐙 Share your Github stats for 2020 on Twitter
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
@@ -1279,7 +1281,7 @@
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Riverside-Healthcare/djLint](https://github.com/Riverside-Healthcare/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
@@ -1307,6 +1309,10 @@
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
+## good-first-issue 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
 ## google 
 
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
@@ -1319,7 +1325,7 @@
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 
@@ -1493,7 +1499,6 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [neo4j-contrib/spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial ope
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -1615,6 +1620,7 @@
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
+- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [SciGraph/SciGraph](https://github.com/SciGraph/SciGraph) - A Neo4j backed ontology store
 
@@ -1631,7 +1637,7 @@
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -1680,7 +1686,7 @@
 
 ## jquery 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 
 ## json 
 
@@ -1728,6 +1734,7 @@
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
@@ -1863,7 +1870,7 @@
 
 ## lua 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
 - [philer/polycore](https://github.com/philer/polycore) - A conky config and library of Lua widgets
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1929,6 +1936,7 @@
 
 ## markdown 
 
+- [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [waylan/bootstrap4markdown.py](https://github.com/waylan/bootstrap4markdown.py) - A Python-Markdown extension which provides a simple syntax for including Bootstrap objects within a Markdown document.
 - [benchmark-urbanism/yapper](https://github.com/benchmark-urbanism/yapper) - Yapper converts Python docstrings to astro files for use by the Astro static site generator.
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
@@ -2031,7 +2039,7 @@
 ## mysql 
 
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [peter-wangxu/persist-queue](https://github.com/peter-wangxu/persist-queue) - A thread-safe disk based persistent queue in Python
@@ -2106,7 +2114,7 @@
 ## numpy 
 
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 
@@ -2146,6 +2154,9 @@
 
 ## others 
 
+- [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices.
+- [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint... in your terminal.
 - [fkromer/best-of-fastapi](https://github.com/fkromer/best-of-fastapi) - List of automatically rated Python packages for FastAPI.
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
@@ -2171,7 +2182,7 @@
 - [fchollet/namex](https://github.com/fchollet/namex) - Clean up the public namespace of your package!
 - [mitosch/textual-terminal](https://github.com/mitosch/textual-terminal) - A terminal emulator widget for Textual.
 - [yajo/copierception](https://github.com/yajo/copierception) - A proof of concept for a copier template that generates copier templates
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native) - A collection of content about key Python packaging topics and issues for projects using native code
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
@@ -2256,7 +2267,7 @@
 - [mblayman/homeschool](https://github.com/mblayman/homeschool) - An app for homeschool planning
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
-- [pawamoy/best-of-mkdocs](https://github.com/pawamoy/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
+- [mkdocs/best-of-mkdocs](https://github.com/mkdocs/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
 - [octadocs/flake8.codes](https://github.com/octadocs/flake8.codes) - A catalog of error codes for flake8 Python static analysis tool & a few of its plugins.
 - [EddyLuten/mkdocs-categories-plugin](https://github.com/EddyLuten/mkdocs-categories-plugin) - An MkDocs plugin allowing for categorization of wiki pages
 - [mattsb42-meta/pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx) - Bootstrap your pipx with pipx.
@@ -2918,7 +2929,6 @@
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [themanifest/package-management-glossary](https://github.com/themanifest/package-management-glossary) - A glossary of terms relating to package management
 - [ikanor/intercept](https://github.com/ikanor/intercept) - Gracefully catch Python exceptions with a decorator
-- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
 - [vstakhov/hpenc](https://github.com/vstakhov/hpenc) - High performance command line tool for stream encryption
 - [src-d/go-license-detector](https://github.com/src-d/go-license-detector) - Reliable project licenses detector.
 - [lamby/django-template-tests](https://github.com/lamby/django-template-tests) - Performs some quick static analysis on your Django templates
@@ -3132,7 +3142,7 @@
 ## php 
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - A collection of custom security tools for quick needs.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
@@ -3180,6 +3190,7 @@
 
 ## python 
 
+- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - A command line utility to check for obsolete, missing and transitive dependencies in a Python project.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [ddelange/pipgrip](https://github.com/ddelange/pipgrip) - Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
@@ -3340,7 +3351,7 @@
 - [builtree/handwrite](https://github.com/builtree/handwrite) - Handwrite generates a custom font based on your handwriting sample.
 - [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right
 - [AXGKl/docutools](https://github.com/AXGKl/docutools) - mkdocs centric tools for building professional documentation
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)
 - [vladisa88/fastapi-ormar-utilities](https://github.com/vladisa88/fastapi-ormar-utilities) - Small package for making views in FastAPI cleaner
 - [Kludex/flake8-fastapi](https://github.com/Kludex/flake8-fastapi) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓
@@ -3709,7 +3720,7 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [emehrkay/Pypher](https://github.com/emehrkay/Pypher) - Python Cypher Querybuilder
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
@@ -3983,7 +3994,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [IsaccBarker/Greatness](https://github.com/IsaccBarker/Greatness) - Acheive greatness!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -4156,6 +4167,7 @@
 ## spring-boot 
 
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
+- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 
 ## sql 
 
@@ -4352,7 +4364,7 @@
 
 ## ubuntu 
 
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [mikeslattery/tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
@@ -4450,6 +4462,7 @@
 - [kmaork/hypno](https://github.com/kmaork/hypno) - Inject python code into a running python process
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
