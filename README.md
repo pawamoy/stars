@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices.
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -364,7 +365,6 @@
 - [AutoActuary/mkdocstrings-vba](https://github.com/AutoActuary/mkdocstrings-vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - An online tool to visualize recursive JS functions step-by-step as a tree.
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -418,7 +418,7 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tomasbjerre/git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - Library for parsing and generating a changelog, or releasenotes, from a GIT repository
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
+- [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -427,6 +427,7 @@
 
 ## JavaScript 
 
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint... in your terminal.
 - [Bruno-Odinukweze/PyWeb3D](https://github.com/Bruno-Odinukweze/PyWeb3D) - Exploring three.js with python syntax
 - [roipoussiere/what-the-flow](https://github.com/roipoussiere/what-the-flow) - A tool to create collaborative catalogs of human body movements for various activities.
 - [boytchev/mannequin.js](https://github.com/boytchev/mannequin.js) - A simple model of articulated human figure
@@ -777,7 +778,7 @@
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2.5k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [khris78/osmcamera](https://github.com/khris78/osmcamera) - Source code for osm-camera.tk
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
@@ -800,6 +801,8 @@
 
 ## Python 
 
+- [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
+- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - A command line utility to check for obsolete, missing and transitive dependencies in a Python project.
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [ojacques/mkdocs-git-committers-plugin-2](https://github.com/ojacques/mkdocs-git-committers-plugin-2) - MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!
@@ -840,7 +843,7 @@
 - [fchollet/namex](https://github.com/fchollet/namex) - Clean up the public namespace of your package!
 - [chriskuehl/pygments-ansi-color](https://github.com/chriskuehl/pygments-ansi-color) - ANSI color-code highlighting for Pygments
 - [mitosch/textual-terminal](https://github.com/mitosch/textual-terminal) - A terminal emulator widget for Textual.
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [vispy/GSP](https://github.com/vispy/GSP) - Graphic Server Protocol
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
 - [frostming/pdm-vscode](https://github.com/frostming/pdm-vscode) - A PDM plugin that autogenerates workspace vscode settings for you
@@ -946,7 +949,7 @@
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
-- [pawamoy/best-of-mkdocs](https://github.com/pawamoy/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
+- [mkdocs/best-of-mkdocs](https://github.com/mkdocs/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
 - [octadocs/flake8.codes](https://github.com/octadocs/flake8.codes) - A catalog of error codes for flake8 Python static analysis tool & a few of its plugins.
 - [EddyLuten/mkdocs-categories-plugin](https://github.com/EddyLuten/mkdocs-categories-plugin) - An MkDocs plugin allowing for categorization of wiki pages
 - [EddyLuten/mkdocs-alias-plugin](https://github.com/EddyLuten/mkdocs-alias-plugin) - An MkDocs plugin allowing links to your pages using a custom alias
@@ -1008,6 +1011,7 @@
 - [mkdocstrings/python-legacy](https://github.com/mkdocstrings/python-legacy) - A legacy Python handler for mkdocstrings.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [mkdocstrings/pytkdocs](https://github.com/mkdocstrings/pytkdocs) - Load Python objects documentation.
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [john-hen/demo-MkDocstrings](https://github.com/john-hen/demo-MkDocstrings) - Demo of API documentation using MkDocs and MkDocstrings
 - [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for automatically sorting python statements within a module
@@ -1897,7 +1901,7 @@
 - [emehrkay/Pypher](https://github.com/emehrkay/Pypher) - Python Cypher Querybuilder
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [zedshaw/zadm4py](https://github.com/zedshaw/zadm4py) - Zed's Awesome Debug Macros for Python
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [stefano-maggiolo/pydepgraph](https://github.com/stefano-maggiolo/pydepgraph) - A dependencies analyzer for Python
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
@@ -2309,6 +2313,7 @@
 
 ## TypeScript 
 
+- [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [charliermarsh/ruff-vscode](https://github.com/charliermarsh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
