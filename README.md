@@ -129,7 +129,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 - [iliasam/OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
@@ -295,7 +295,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -796,6 +796,9 @@
 
 ## Python 
 
+- [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
+- [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
+- [initialcommit-com/git-dummy](https://github.com/initialcommit-com/git-dummy) - Generate dummy Git repositories populated with the desired number of commits, branches, and structure.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community.
@@ -875,7 +878,7 @@
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [udf/uniborg](https://github.com/udf/uniborg) - Pluggable Telegram bot and userbot based on Telethon
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
-- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - Reactive user interfaces with pure Python
+- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [nickderobertis/flexlate](https://github.com/nickderobertis/flexlate) - A CLI tool for managing project generator templates such as Cookiecutter and Copier
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
@@ -1023,7 +1026,7 @@
 - [Jasha10/fixup](https://github.com/Jasha10/fixup) - (pre-alpha) Automatically add and remove python import statements
 - [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [myint/pyfuzz](https://github.com/myint/pyfuzz) - Random program generator for Python
-- [dewberryants/asciiMol](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for linux terminals.
+- [dewberryants/asciiMol](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [facelessuser/pyspelling](https://github.com/facelessuser/pyspelling) - Spell checker automation tool
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests: https://gitlab.com/hackancuba/blake2signer
@@ -1455,6 +1458,7 @@
 - [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [EthanRosenthal/nannernest](https://github.com/EthanRosenthal/nannernest) - Optimal peanut butter and banana sandwiches
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
 - [cgarciae/dataget](https://github.com/cgarciae/dataget) - A framework-agnostic datasets library for Machine Learning research and education.
 - [crflynn/pypistats.org](https://github.com/crflynn/pypistats.org) - PyPI downloads analytics dashboard
@@ -1583,11 +1587,11 @@
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [numirias/qtile-plasma](https://github.com/numirias/qtile-plasma) - 🔮 A flexible, tree-based layout for Qtile
 - [rbanffy/pip-chill](https://github.com/rbanffy/pip-chill) - A more relaxed `pip freeze`
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
-- [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to make a test results report with Markdown table format.
+- [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to make test results report with Markdown table format.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [salty-horse/ibus-uniemoji](https://github.com/salty-horse/ibus-uniemoji) - Input method (ibus) for entering unicode symbols and emoji by name
 - [andyoakley/mkdocs-jinja2](https://github.com/andyoakley/mkdocs-jinja2) - 
@@ -2004,7 +2008,7 @@
 - [mostafa/grest](https://github.com/mostafa/grest) - Build REST APIs with Neo4j and Flask, as quickly as possible!
 - [ourresearch/depsy](https://github.com/ourresearch/depsy) - Track the impact of research software.
 - [pyupio/pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
-- [PyCQA/prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [PyCQA/redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
