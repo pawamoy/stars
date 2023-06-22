@@ -208,6 +208,7 @@
 ## ai 
 
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [notshridhar/chain-reaction-ai](https://github.com/notshridhar/chain-reaction-ai) - ai opponent for the game chain reaction
@@ -292,7 +293,7 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [mntnr/build-a-space](https://github.com/mntnr/build-a-space) - Automatically add community documentation to your repository
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
@@ -1398,7 +1399,6 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
-- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [auth0/auth0-python](https://github.com/auth0/auth0-python) - Auth0 SDK for Python
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -2173,6 +2173,9 @@
 
 ## others 
 
+- [noirbizarre/pytest-copier](https://github.com/noirbizarre/pytest-copier) - A Copier plugin for pytest to help testing Copier templates
+- [astrofrog/pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past!
+- [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
@@ -2196,7 +2199,6 @@
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [davep/textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [lyz-code/pass-collaborate](https://github.com/lyz-code/pass-collaborate) - A `pass` extension that helps collectives manage the access to their passwords.
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
@@ -2649,7 +2651,6 @@
 - [licenses/lice](https://github.com/licenses/lice) - Generate license files for your projects
 - [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
 - [perdy/starlette-prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for Starlette.
-- [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [cmacmackin/markdown-include](https://github.com/cmacmackin/markdown-include) - Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents.
 - [mprivat/mkdocs-snippet-plugin](https://github.com/mprivat/mkdocs-snippet-plugin) - An mkdocs plugin that injects snippets from a file in a git repository
