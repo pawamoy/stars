@@ -106,7 +106,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -189,7 +188,7 @@
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [dinhvh/dejalu](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 
 ## CSS 
@@ -445,7 +444,6 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
-- [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [fabmob/velolibre](https://github.com/fabmob/velolibre) - Construire un vélo open source
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
 - [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
@@ -480,6 +478,7 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [yuanchuan/game-of-life](https://github.com/yuanchuan/game-of-life) - A browser extension to play Conway's Game of Life on GitHub contribution board
 - [MeasureOSS/Measure](https://github.com/MeasureOSS/Measure) - At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. I
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
@@ -644,6 +643,7 @@
 
 ## Others 
 
+- [noirbizarre/pytest-copier](https://github.com/noirbizarre/pytest-copier) - A Copier plugin for pytest to help testing Copier templates
 - [fkromer/best-of-fastapi](https://github.com/fkromer/best-of-fastapi) - List of automatically rated Python packages for FastAPI.
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native) - A collection of content about key Python packaging topics and issues for projects using native code
 - [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
@@ -799,6 +799,8 @@
 
 ## Python 
 
+- [astrofrog/pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past!
+- [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
@@ -866,6 +868,7 @@
 - [abersheeran/pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 - [KyleKing/copier-template-tester](https://github.com/KyleKing/copier-template-tester) - ctt: CLI and pre-commit tool for testing copier
 - [hjwp/pytest-icdiff](https://github.com/hjwp/pytest-icdiff) - better error messages for assert equals in pytest
+- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -2232,7 +2235,6 @@
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [juanibiapina/codon](https://github.com/juanibiapina/codon) - A simple URL encoder for the command line.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [eigentechnologies/cpip](https://github.com/eigentechnologies/cpip) - 
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -2330,7 +2332,6 @@
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
 - [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
-- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
@@ -2342,6 +2343,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
+- [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
