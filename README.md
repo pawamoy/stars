@@ -798,6 +798,7 @@
 
 ## Python 
 
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [pdm-project/template-pdm-plugin](https://github.com/pdm-project/template-pdm-plugin) - A template for PDM plugin project
 - [EddyLuten/mkdocs-live-edit-plugin](https://github.com/EddyLuten/mkdocs-live-edit-plugin) - An MkDocs plugin that allows editing pages directly from the browser.
@@ -2190,7 +2191,7 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [Mythra/typeish](https://github.com/Mythra/typeish) - A runtime type checker for bash.... in bash. I'm not sorry.
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
