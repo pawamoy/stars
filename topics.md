@@ -260,7 +260,7 @@
 
 ## ansible 
 
-- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Dockerized workspaces
+- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable dockerized workspaces
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 
@@ -891,6 +891,7 @@
 
 ## deployment 
 
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
 - [mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/
@@ -962,7 +963,7 @@
 ## docker 
 
 - [fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Run the official Stable Diffusion releases in a Docker container with txt2img, img2img, depth2img, pix2pix, upscale4x, and inpaint.
-- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Dockerized workspaces
+- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable dockerized workspaces
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [ofek/hatch-containers](https://github.com/ofek/hatch-containers) - Hatch plugin for Docker containers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -1639,7 +1640,7 @@
 
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
-- [Bruno-Odinukweze/PyWeb3D](https://github.com/Bruno-Odinukweze/PyWeb3D) - Exploring three.js with python syntax
+- [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
@@ -2176,6 +2177,7 @@
 
 ## others 
 
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [pdm-project/template-pdm-plugin](https://github.com/pdm-project/template-pdm-plugin) - A template for PDM plugin project
 - [noirbizarre/pytest-copier](https://github.com/noirbizarre/pytest-copier) - A Copier plugin for pytest to help testing Copier templates
 - [astrofrog/pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past!
@@ -3228,6 +3230,7 @@
 
 ## python 
 
+- [pydantic/bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2 ♻
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -3262,7 +3265,7 @@
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) - Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [t3rn0/ast-comments](https://github.com/t3rn0/ast-comments) - Extension to the built-in ast module. Finds comments in source code and adds them to the parsed tree.
-- [Bruno-Odinukweze/PyWeb3D](https://github.com/Bruno-Odinukweze/PyWeb3D) - Exploring three.js with python syntax
+- [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kafka text user interface in style!
 - [sbdchd/flake8-pie](https://github.com/sbdchd/flake8-pie) - :pizza: A flake8 extension that implements misc. lints
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
@@ -3272,7 +3275,7 @@
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
 - [cognitivefactory/interactive-clustering-gui](https://github.com/cognitivefactory/interactive-clustering-gui) - An annotation tool for NLP data based on Interactive Clustering methodology.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
-- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Dockerized workspaces
+- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable dockerized workspaces
 - [pawamoy/duty](https://github.com/pawamoy/duty) - A simple task runner.
 - [0dminnimda/pynalyser](https://github.com/0dminnimda/pynalyser) - Static Python Code Analyzer
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
@@ -4368,7 +4371,7 @@
 
 ## terraform 
 
-- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Dockerized workspaces
+- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable dockerized workspaces
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 
