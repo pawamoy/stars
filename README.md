@@ -583,7 +583,7 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
@@ -799,6 +799,9 @@
 
 ## Python 
 
+- [eliasdorneles/usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal, powered by Unicode and https://textual.textualize.io/
+- [hynek/svcs](https://github.com/hynek/svcs) - A Lightweight Service Locator for Python
+- [facundobatista/pyempaq](https://github.com/facundobatista/pyempaq) - A simple but powerful Python packer to run any project with any virtualenv dependencies anywhwere.
 - [kieran-ryan/pyprojectsort](https://github.com/kieran-ryan/pyprojectsort) - Formatter for pyproject.toml files
 - [couling/MkdocstringsPythonGenerator](https://github.com/couling/MkdocstringsPythonGenerator) - Autogenerate Python reference documentation pages via Mkdocstrings
 - [monosans/pyromark](https://github.com/monosans/pyromark) - Blazingly fast Markdown parser for Python written in Rust.
@@ -836,7 +839,7 @@
 - [davep/tdim](https://github.com/davep/tdim) - A quick and dirty terminal dimension checker/seeker
 - [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
-- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint... in your terminal.
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [ojacques/mkdocs-git-committers-plugin-2](https://github.com/ojacques/mkdocs-git-committers-plugin-2) - MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!
@@ -852,7 +855,7 @@
 - [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [davep/textual-astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1383,7 +1386,7 @@
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
 - [smarie/python-pytest-harvest](https://github.com/smarie/python-pytest-harvest) - Store data created during your `pytest` tests execution, and retrieve it at the end of the session, e.g. for applicative benchmarking purposes.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
@@ -2286,7 +2289,7 @@
 - [hugot/bash-array-utils](https://github.com/hugot/bash-array-utils) - Utility functions  for common array operations in bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -2332,7 +2335,7 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
 - [Mosai/workshop](https://github.com/Mosai/workshop) - Tools that works on a lot of platforms.
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
