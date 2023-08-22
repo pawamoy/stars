@@ -101,7 +101,7 @@
 - [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [magicant/yash](https://github.com/magicant/yash) - Yet another shell (mirror of https://scm.osdn.net/gitroot/yash/yash.git)
+- [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -398,7 +398,7 @@
 - [pallamidessi/annoying.js](https://github.com/pallamidessi/annoying.js) - 
 - [ryan-roemer/sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
-- [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
+- [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Haskell 
@@ -799,6 +799,9 @@
 
 ## Python 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich top tool for monitoring MySQL in real time
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [h4sh5/pypi-auto-scanner](https://github.com/h4sh5/pypi-auto-scanner) - Automatically scan new pypi packages for potentially malicious code
 - [serge-sans-paille/beniget](https://github.com/serge-sans-paille/beniget) - Extract semantic information about static Python code
 - [serge-sans-paille/gast](https://github.com/serge-sans-paille/gast) - Python AST that abstracts the underlying Python version
@@ -834,7 +837,7 @@
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [KyleKing/mdformat-mkdocs](https://github.com/KyleKing/mdformat-mkdocs) - mdformat plugin for MkDocs
-- [tristanlatr/libstatic](https://github.com/tristanlatr/libstatic) - Static analysis library for Python
+- [tristanlatr/libstatic](https://github.com/tristanlatr/libstatic) - Simple static analysis library for Python
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [initialcommit-com/git-dummy](https://github.com/initialcommit-com/git-dummy) - Generate dummy Git repositories populated with the desired number of commits, branches, and structure.
@@ -1103,12 +1106,12 @@
 - [frostming/tokei-pie-cooker](https://github.com/frostming/tokei-pie-cooker) - Visualize your code statistics with Pie Chart
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) - A platform-independent file lock for Python.
+- [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [life4/deal](https://github.com/life4/deal) - Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [beartype/numerary](https://github.com/beartype/numerary) - A pure-Python codified rant aspiring to a world where numbers and types can work together.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
 - [FFY00/python-pyproject-metadata](https://github.com/FFY00/python-pyproject-metadata) - PEP 621 metadata parsing
-- [gaborbernat/pypi_changes](https://github.com/gaborbernat/pypi_changes) - 
+- [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes) - 
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [vpelletier/pprofile](https://github.com/vpelletier/pprofile) - Line-granularity, thread-aware deterministic and statistic pure-python profiler
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
@@ -1817,7 +1820,7 @@
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Mic92/python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [ssato/python-anyconfig](https://github.com/ssato/python-anyconfig) - Python library provides common APIs to load and dump configuration files in various formats
