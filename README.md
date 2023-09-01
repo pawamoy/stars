@@ -411,6 +411,7 @@
 
 ## Java 
 
+- [RaidAndFade/javadoc-json-doclet](https://github.com/RaidAndFade/javadoc-json-doclet) - Json Doclet for Javadoc (Turn things into json. Fully fleged using Gson)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -799,6 +800,12 @@
 
 ## Python 
 
+- [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
+- [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) - API to interact with the python pyproject.toml based projects
+- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
+- [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
+- [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
+- [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [dfee/forge](https://github.com/dfee/forge) - forge (python signatures) for fun and profit
 - [soxhub/mkdocs-plugin-commonmark](https://github.com/soxhub/mkdocs-plugin-commonmark) - MkDocs CommonMark Plugin
@@ -991,7 +998,6 @@
 - [up9inc/gopygo](https://github.com/up9inc/gopygo) - Pure Python Go parser, AST and unparser library
 - [gtsystem/lightkube](https://github.com/gtsystem/lightkube) - Modern lightweight kubernetes module for python
 - [k4yt3x/orbitaldump](https://github.com/k4yt3x/orbitaldump) - A simple multi-threaded distributed SSH brute-forcing tool written in Python
-- [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [mblayman/homeschool](https://github.com/mblayman/homeschool) - An app for homeschool planning
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
@@ -2280,7 +2286,7 @@
 - [zalgonoise/yojimbo](https://github.com/zalgonoise/yojimbo) - Yojimbo - Your-Os-Just-Interprets micro Bash Obfuscator
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -2375,6 +2381,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+- [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
