@@ -199,6 +199,7 @@
 
 ## CSS 
 
+- [swan-cern/mkdocs-swan](https://github.com/swan-cern/mkdocs-swan) - SWAN MkDocs theme
 - [alex-oleshkevich/starception](https://github.com/alex-oleshkevich/starception) - Beautiful exception page for Starlette apps.
 - [pradyunsg/lutra](https://github.com/pradyunsg/lutra) - Ooops, I wrote another Sphinx theme! [very WIP, do not use]
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
@@ -368,6 +369,7 @@
 
 ## HTML 
 
+- [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [benchmark-urbanism/yapper](https://github.com/benchmark-urbanism/yapper) - Yapper converts Python docstrings to astro files for use by the Astro static site generator.
@@ -581,6 +583,7 @@
 
 ## Jinja 
 
+- [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
 - [yajo/copierception](https://github.com/yajo/copierception) - A proof of concept for a copier template that generates copier templates
@@ -810,11 +813,16 @@
 
 ## Python 
 
+- [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels.
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit) - Scans Python packages for abi3 violations and inconsistencies
 - [scivision/linkchecker-markdown](https://github.com/scivision/linkchecker-markdown) - Python asyncio + aiohttp Markdown *.md  URL link checker: 10,000 files/second
-- [ptmcg/log_merger](https://github.com/ptmcg/log_merger) - TUI utility to view multiple log files with merged timeline
+- [ptmcg/logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline
 - [12rambau/pytest-copie](https://github.com/12rambau/pytest-copie) - The pytest plugin for your copier templates 📒
 - [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref) - Extension of mkdocstrings-python supporting relative cross-references
 - [thomascrha/textual-game-of-life](https://github.com/thomascrha/textual-game-of-life) - A implementation of Conway's game of life (cellular automata) in the terminal using textual.
@@ -988,7 +996,7 @@
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11's specializing, adaptive interpreter. :fire:
 - [vsoch/cssclean](https://github.com/vsoch/cssclean) - Remove un-used css styles
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
@@ -2159,6 +2167,7 @@
 
 ## Rust 
 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Yet another Python environment manager.
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
@@ -2389,6 +2398,7 @@
 
 ## TypeScript 
 
+- [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
 - [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
