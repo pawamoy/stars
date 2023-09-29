@@ -268,7 +268,7 @@
 ## api 
 
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -1000,6 +1000,7 @@
 
 ## documentation 
 
+- [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [EddyLuten/mkdocs-live-edit-plugin](https://github.com/EddyLuten/mkdocs-live-edit-plugin) - An MkDocs plugin that allows editing pages directly from the browser.
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
@@ -1294,6 +1295,7 @@
 
 ## golang 
 
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1378,6 +1380,7 @@
 
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
+- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust inspired by Cargo.
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
@@ -1425,7 +1428,6 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [sp1thas/pyskroutz](https://github.com/sp1thas/pyskroutz) - A Python client for Skroutz API
 - [Mte90/pydal](https://github.com/Mte90/pydal) - Remap your specific keyboard to execute custom scripts!
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -1455,6 +1457,8 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
+- [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2197,12 +2201,18 @@
 
 ## others 
 
+- [swan-cern/mkdocs-swan](https://github.com/swan-cern/mkdocs-swan) - SWAN MkDocs theme
+- [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
+- [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Yet another Python environment manager.
 - [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark) - A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)
 - [fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
 - [xatornet/perfect_dark](https://github.com/xatornet/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
 - [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels.
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
-- [ptmcg/log_merger](https://github.com/ptmcg/log_merger) - TUI utility to view multiple log files with merged timeline
+- [ptmcg/logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
 - [thomascrha/textual-game-of-life](https://github.com/thomascrha/textual-game-of-life) - A implementation of Conway's game of life (cellular automata) in the terminal using textual.
 - [EpicWink/python-docannometa](https://github.com/EpicWink/python-docannometa) - Document symbols via annotation metadata, as described by PEP 727
@@ -2661,7 +2671,6 @@
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [doom/nectarine](https://github.com/doom/nectarine) - Configuration loading made easy.
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
-- [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [paypal/openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
 - [wework/speccy](https://github.com/wework/speccy) - Well Spectually 🤓 Enforce quality rules on your OpenAPI 3.0.x specifications.
 - [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
@@ -3273,6 +3282,9 @@
 
 ## python 
 
+- [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
+- [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit) - Scans Python packages for abi3 violations and inconsistencies
 - [12rambau/pytest-copie](https://github.com/12rambau/pytest-copie) - The pytest plugin for your copier templates 📒
@@ -3348,7 +3360,7 @@
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
 - [furkanonder/karbon](https://github.com/furkanonder/karbon) - Turn mouse events into art!
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
 - [florimondmanca/asgi-htmx](https://github.com/florimondmanca/asgi-htmx) - HTMX integration for ASGI applications
 - [alan-turing-institute/distinctipy](https://github.com/alan-turing-institute/distinctipy) - A lightweight package for generating visually distinct colours.
@@ -3898,6 +3910,7 @@
 
 ## python3 
 
+- [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [h4sh5/pypi-auto-scanner](https://github.com/h4sh5/pypi-auto-scanner) - Automatically scan new pypi packages for potentially malicious code
 - [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
@@ -4004,6 +4017,7 @@
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## qt 
 
