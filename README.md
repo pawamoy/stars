@@ -310,7 +310,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
@@ -444,6 +444,7 @@
 
 ## JavaScript 
 
+- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
 - [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
 - [roipoussiere/what-the-flow](https://github.com/roipoussiere/what-the-flow) - A tool to create collaborative catalogs of human body movements for various activities.
