@@ -1314,7 +1314,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
@@ -1386,6 +1386,7 @@
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [devopshq/artifactory](https://github.com/devopshq/artifactory) - dohq-artifactory: a Python client for Artifactory
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
@@ -2201,6 +2202,7 @@
 
 ## others 
 
+- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [swan-cern/mkdocs-swan](https://github.com/swan-cern/mkdocs-swan) - SWAN MkDocs theme
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
@@ -4406,7 +4408,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
-- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
@@ -4467,7 +4469,6 @@
 
 ## testing 
 
-- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
