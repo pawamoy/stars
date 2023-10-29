@@ -43,6 +43,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [R](#r)
 - [Roff](#roff)
@@ -158,6 +159,7 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
@@ -324,7 +326,6 @@
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -690,7 +691,7 @@
 - [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
@@ -812,18 +813,30 @@
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [DrEmpiricism/Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
 
+## PureBasic 
+
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+
 ## Python 
 
+- [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
+- [alexmojaki/executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed
+- [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
+- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [JakubAndrysek/mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - 📇 The Mkdocs-Typedoc Plugin is designed to integrate TypeDoc documentation with your MkDocs project.
+- [tusharsadhwani/dunderhell](https://github.com/tusharsadhwani/dunderhell) - Turn all your Python code into dunders.
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
-- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your code
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python code
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [carljm/compgenerator](https://github.com/carljm/compgenerator) - Comprehension compilation fuzzer
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - An embeddable text editor with autocompletions
-- [billyeatcookies/Biscuit](https://github.com/billyeatcookies/Biscuit) - A text editor with extensions support, written in python
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - A lightweight text editor with extensions written in python
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -935,7 +948,7 @@
 - [mozman/svgwrite](https://github.com/mozman/svgwrite) - Python Package to write SVG files (UNMAINTAINED)
 - [cduck/drawsvg](https://github.com/cduck/drawsvg) - Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
 - [Sanster/tldream](https://github.com/Sanster/tldream) - A tiny little diffusion drawing app
-- [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Productivity tool for quickly creating python programs that parse command-line arguments. Stop writing argparse boilerplate code!
+- [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
@@ -1263,7 +1276,7 @@
 - [whoosh-community/whoosh](https://github.com/whoosh-community/whoosh) - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
-- [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
+- [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - CLI tool to convert JSON and JSON Lines to terminal, CSV, HTTP, and markdown tables
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [dcoles/snaketrace](https://github.com/dcoles/snaketrace) - An strace-like tool for Python audit events 🐍
@@ -1565,7 +1578,7 @@
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -2181,6 +2194,8 @@
 
 ## Rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
+- [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Yet another Python environment manager.
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
@@ -2190,7 +2205,7 @@
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
