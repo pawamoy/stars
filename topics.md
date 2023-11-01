@@ -428,7 +428,7 @@
 
 ## backend 
 
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 
 ## bash 
@@ -1412,7 +1412,7 @@
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -1424,7 +1424,6 @@
 - [mattermost/mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [WaylonWalker/markata](https://github.com/WaylonWalker/markata) - A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
@@ -2245,8 +2244,11 @@
 
 ## others 
 
+- [tconbeer/textual-fastdatatable](https://github.com/tconbeer/textual-fastdatatable) - A performance-focused reimplementation of Textual's DataTable widget, with a pluggable data storage backend.
+- [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
+- [zooba/reportabug](https://github.com/zooba/reportabug) - A Python tool for collecting information when reporting bugs.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [tusharsadhwani/dunderhell](https://github.com/tusharsadhwani/dunderhell) - Turn all your Python code into dunders.
+- [tusharsadhwani/dunderhell](https://github.com/tusharsadhwani/dunderhell) - Turn your Python code entirely into dunders.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
@@ -3013,7 +3015,7 @@
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [saitoha/PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
-- [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - Arcadyan ARV7519RW22-A-L T VR9 1.2 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
+- [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
 - [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc) - Python JSON-RPC Client Server Library With Additional Support for BaseHTTPServer, CherryPy And CGI
 - [joshmarshall/jsonrpclib](https://github.com/joshmarshall/jsonrpclib) - A Python JSON-RPC over HTTP that mirrors xmlrpclib syntax.
 - [aiiie/cram](https://github.com/aiiie/cram) - Functional tests for command line applications
@@ -3351,11 +3353,11 @@
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit) - Scans Python packages for abi3 violations and inconsistencies
 - [12rambau/pytest-copie](https://github.com/12rambau/pytest-copie) - The pytest plugin for your copier templates 📒
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules.
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref) - Extension of mkdocstrings-python supporting relative cross-references
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
-- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
+- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich terminal tool for monitoring MySQL in real-time
@@ -3398,7 +3400,7 @@
 - [frostming/fix-future-annotations](https://github.com/frostming/fix-future-annotations) - A CLI and pre-commit hook to fix future annotations
 - [chriskuehl/pygments-ansi-color](https://github.com/chriskuehl/pygments-ansi-color) - ANSI color-code highlighting for Pygments
 - [benchmark-urbanism/yapper](https://github.com/benchmark-urbanism/yapper) - Yapper converts Python docstrings to astro files for use by the Astro static site generator.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
@@ -3983,7 +3985,7 @@
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) - Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -4179,7 +4181,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
@@ -4660,6 +4662,7 @@
 
 ## web 
 
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [smarie/mkdocs-gallery](https://github.com/smarie/mkdocs-gallery) - Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx dependency !).
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
