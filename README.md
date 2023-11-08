@@ -50,6 +50,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Sass](#sass)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -370,6 +371,7 @@
 
 ## HTML 
 
+- [getsentry/loose-confederation](https://github.com/getsentry/loose-confederation) - Temporary venue for organizing with other Open Source SaaS companies
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
@@ -399,7 +401,6 @@
 - [karan/TPB](https://github.com/karan/TPB) - :cloud: Python API for ThePirateBay.
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
-- [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
@@ -507,7 +508,7 @@
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [colmsjo/github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -649,7 +650,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive developme
 - [Armael/papiers](https://github.com/Armael/papiers) - A tool to index your papers/interesting links/... and quickly search through them
 
@@ -819,6 +820,12 @@
 
 ## Python 
 
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [kumaraditya303/aioshutil](https://github.com/kumaraditya303/aioshutil) - Asynchronous version of functions of shutil module.
+- [crashvb/pytest-git-fixtures](https://github.com/crashvb/pytest-git-fixtures) - Pytest fixtures for testing with git.
+- [tlambert03/griffe-fieldz](https://github.com/tlambert03/griffe-fieldz) - Griffe extension to inject field metadata into mkdocstrings (supports dataclasses, pydantic, attrs, and more)
+- [davep/pispy](https://github.com/davep/pispy) - A terminal-based tool for looking up stuff in PyPi
+- [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [tconbeer/textual-fastdatatable](https://github.com/tconbeer/textual-fastdatatable) - A performance-focused reimplementation of Textual's DataTable widget, with a pluggable data storage backend.
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [zooba/reportabug](https://github.com/zooba/reportabug) - A Python tool for collecting information when reporting bugs.
@@ -1462,7 +1469,7 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [mkdocs-plugins/termynal](https://github.com/mkdocs-plugins/termynal) - Python markdown terminal. Built for mkdocs
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
@@ -2197,6 +2204,7 @@
 
 ## Rust 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Yet another Python environment manager.
@@ -2276,6 +2284,10 @@
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
+
+## SVG 
+
+- [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 
 ## Sass 
 
