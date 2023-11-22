@@ -43,7 +43,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [PureBasic](#purebasic)
 - [Python](#python)
 - [R](#r)
 - [Roff](#roff)
@@ -326,6 +325,7 @@
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -371,7 +371,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [getsentry/loose-confederation](https://github.com/getsentry/loose-confederation) - Temporary venue for organizing with other Open Source SaaS companies
+- [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL)
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
@@ -381,6 +381,7 @@
 - [mkdocstrings/vba](https://github.com/mkdocstrings/vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - An online tool to visualize recursive JS functions step-by-step as a tree.
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -586,7 +587,7 @@
 ## Jinja 
 
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
 - [yajo/copierception](https://github.com/yajo/copierception) - A proof of concept for a copier template that generates copier templates
 - [leroyvn/copier-pdm](https://github.com/leroyvn/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -813,12 +814,16 @@
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [DrEmpiricism/Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
 
-## PureBasic 
-
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-
 ## Python 
 
+- [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
+- [pdm-project/dep-logic](https://github.com/pdm-project/dep-logic) - Python dependency specifications supporting logical operations
+- [keewis/blackdoc](https://github.com/keewis/blackdoc) - run black on documentation code snippets
+- [pycompiled/compiled](https://github.com/pycompiled/compiled) - Compiled variants of the Python standard library.
+- [bdcht/grandalf](https://github.com/bdcht/grandalf) - graph and drawing algorithms framework
+- [mahrz24/netext](https://github.com/mahrz24/netext) - Netext is a graph (network) rendering library for the terminal.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
 - [aafigure/aafigure](https://github.com/aafigure/aafigure) - ASCII art figures can be parsed and output as SVG, PNG, JPEG, PDF and more. This project provides a python package and a command line script.
 - [mbarkhau/markdown-aafigure](https://github.com/mbarkhau/markdown-aafigure) - aafigure extension for Python Markdown
 - [juftin/lunchable](https://github.com/juftin/lunchable) - Python Client for the Lunch Money Developer API
@@ -856,7 +861,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - An embeddable text editor with autocompletions
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - A lightweight text editor with extensions written in python
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor with extensions for any language
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -1143,7 +1148,6 @@
 - [mkdocstrings/python-legacy](https://github.com/mkdocstrings/python-legacy) - A legacy Python handler for mkdocstrings.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [mkdocstrings/pytkdocs](https://github.com/mkdocstrings/pytkdocs) - Load Python objects documentation.
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [john-hen/demo-MkDocstrings](https://github.com/john-hen/demo-MkDocstrings) - Demo of API documentation using MkDocs and MkDocstrings
 - [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for automatically sorting python statements within a module
@@ -1254,7 +1258,7 @@
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Pydocspec is a object specification for representing API documentation of a collection of related python modules.
 - [it-novum/mkdocs-featherlight](https://github.com/it-novum/mkdocs-featherlight) - Featherlight Plugin for MkDocs
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
@@ -2453,6 +2457,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
