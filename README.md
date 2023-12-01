@@ -161,7 +161,6 @@
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
-- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -170,7 +169,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [FrictionalGames/AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
@@ -592,7 +591,7 @@
 - [yajo/copierception](https://github.com/yajo/copierception) - A proof of concept for a copier template that generates copier templates
 - [leroyvn/copier-pdm](https://github.com/leroyvn/copier-pdm) - Copier template for Python projects managed by PDM.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
-- [oprypin/py-library-template](https://github.com/oprypin/py-library-template) - 
+- [oprypin/py-project-template](https://github.com/oprypin/py-project-template) - 
 - [pdm-project/copier-pdm](https://github.com/pdm-project/copier-pdm) - Copier template for PDM projects
 
 ## Jupyter Notebook 
@@ -816,6 +815,7 @@
 
 ## Python 
 
+- [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [pdm-project/dep-logic](https://github.com/pdm-project/dep-logic) - Python dependency specifications supporting logical operations
 - [keewis/blackdoc](https://github.com/keewis/blackdoc) - run black on documentation code snippets
@@ -860,8 +860,8 @@
 - [carljm/compgenerator](https://github.com/carljm/compgenerator) - Comprehension compilation fuzzer
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
-- [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - An embeddable text editor with autocompletions
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor with extensions for any language
+- [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight optimal code editor for any language
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -2228,6 +2228,7 @@
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -2457,7 +2458,7 @@
 
 ## TypeScript 
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
@@ -2554,6 +2555,7 @@
 
 ## Vue 
 
+- [shi-yan/tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - visualize tree-sitter syntax tree
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
