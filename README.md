@@ -868,7 +868,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight optimal code editor for any language
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor for any language
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -917,7 +917,7 @@
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [FreedomBen/terminator](https://github.com/FreedomBen/terminator) - This is a branch of the official Terminator release 0.97
 - [wookayin/python-imgcat](https://github.com/wookayin/python-imgcat) - 🖼 imgcat in Python (for iTerm2)
-- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast HTML + JS + CSS minifier.
+- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
 - [Cottonwood-Technology/ValidX](https://github.com/Cottonwood-Technology/ValidX) - Fast, powerful, and flexible validator with sane syntax.
@@ -1013,7 +1013,7 @@
 - [Kludex/fastapix-project-simple](https://github.com/Kludex/fastapix-project-simple) - Template to start with FastAPI! 😎
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [furkanonder/objerve](https://github.com/furkanonder/objerve) - A tiny observer for the attributes of Python objects.
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kafka text user interface in style!
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a kafka text user interface that allows you to interact with kafka and consume topics from your terminal in style!
 - [sbdchd/flake8-pie](https://github.com/sbdchd/flake8-pie) - :pizza: A flake8 extension that implements misc. lints
 - [fal-ai/isolate](https://github.com/fal-ai/isolate) - 🛡️ Managed isolated environments for Python
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
@@ -1092,7 +1092,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [octadocs/flake8.codes](https://github.com/octadocs/flake8.codes) - A catalog of error codes for flake8 Python static analysis tool & a few of its plugins.
@@ -1452,7 +1452,7 @@
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [mondeja/http-request-codegen](https://github.com/mondeja/http-request-codegen) - Multilanguage HTTP requests code generator
-- [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - Provides GitHub like autolink references in Mkdocs.
+- [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
 - [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [cmitu/mkdocs-altlink-plugin](https://github.com/cmitu/mkdocs-altlink-plugin) - An MkDocs plugin that simplifies internal links creation
 - [Jackiexiao/mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
@@ -2231,7 +2231,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
