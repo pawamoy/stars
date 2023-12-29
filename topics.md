@@ -597,7 +597,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [Kludex/fastapix](https://github.com/Kludex/fastapix) - FastAPI X is a powerful CLI tool to help you! :rocket:
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kafka text user interface in style!
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a kafka text user interface that allows you to interact with kafka and consume topics from your terminal in style!
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [nickderobertis/flexlate](https://github.com/nickderobertis/flexlate) - A CLI tool for managing project generator templates such as Cookiecutter and Copier
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -1429,7 +1429,7 @@
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight optimal code editor for any language
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor for any language
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
@@ -1445,7 +1445,7 @@
 - [mattermost/mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [WaylonWalker/markata](https://github.com/WaylonWalker/markata) - A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
@@ -2332,8 +2332,8 @@
 - [pytest-dev/pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - 
 - [couling/MkdocstringsPythonGenerator](https://github.com/couling/MkdocstringsPythonGenerator) - Autogenerate Python reference documentation pages via Mkdocstrings
 - [FreedomBen/terminator](https://github.com/FreedomBen/terminator) - This is a branch of the official Terminator release 0.97
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
-- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast HTML + JS + CSS minifier.
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [erezsh/runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch
 - [MrCordeiro/parse2docs](https://github.com/MrCordeiro/parse2docs) - Generate usage documentation in Markdown format from Python scripts using argparse
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -2680,7 +2680,7 @@
 - [Ravn-Tech/HyperTag](https://github.com/Ravn-Tech/HyperTag) - NeoVerse/HyperTag - Intuitive Knowledge Management WebApp & CLI for Humans using Deep Learning & Tags
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [clarkduvall/serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
-- [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - Provides GitHub like autolink references in Mkdocs.
+- [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
 - [Jackiexiao/mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device Speech-to-Intent engine powered by deep learning
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
@@ -3429,7 +3429,7 @@
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python code
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight optimal code editor for any language
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor for any language
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
@@ -3490,7 +3490,7 @@
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) - Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [t3rn0/ast-comments](https://github.com/t3rn0/ast-comments) - Extension to the built-in ast module. Finds comments in source code and adds them to the parsed tree.
 - [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kafka text user interface in style!
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a kafka text user interface that allows you to interact with kafka and consume topics from your terminal in style!
 - [sbdchd/flake8-pie](https://github.com/sbdchd/flake8-pie) - :pizza: A flake8 extension that implements misc. lints
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [nickderobertis/flexlate](https://github.com/nickderobertis/flexlate) - A CLI tool for managing project generator templates such as Cookiecutter and Copier
@@ -3520,7 +3520,7 @@
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [RocketRace/custom-literals](https://github.com/RocketRace/custom-literals) - A library implementing C++'s custom literal suffixes using pure Python.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -4081,7 +4081,7 @@
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
 - [pandalearnstocode/buildamlapp](https://github.com/pandalearnstocode/buildamlapp) - Build a ML app
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [wemake-services/coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define!
@@ -4546,7 +4546,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
-- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight optimal code editor for any language
+- [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor for any language
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
