@@ -304,7 +304,7 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [mntnr/build-a-space](https://github.com/mntnr/build-a-space) - Automatically add community documentation to your repository
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
@@ -580,6 +580,7 @@
 
 ## cli 
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
@@ -1075,7 +1076,7 @@
 - [LukeCarrier/mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [zayd62/mkdocs-versioning](https://github.com/zayd62/mkdocs-versioning) - A tool that allows for versioning sites built with mkdocs
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -2076,7 +2077,7 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -2266,6 +2267,8 @@
 
 ## others 
 
+- [nikeee/setup-pandoc](https://github.com/nikeee/setup-pandoc) - 
+- [bswck/project](https://github.com/bswck/project) - Automatically detect backends & initialize virtual environments for your Python repo clones.
 - [noirbizarre/pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - Help generating docker images from PDM projects
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Mechanize the refactoring process to operate on a large scale.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
@@ -2332,7 +2335,7 @@
 - [pytest-dev/pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - 
 - [couling/MkdocstringsPythonGenerator](https://github.com/couling/MkdocstringsPythonGenerator) - Autogenerate Python reference documentation pages via Mkdocstrings
 - [FreedomBen/terminator](https://github.com/FreedomBen/terminator) - This is a branch of the official Terminator release 0.97
-- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [erezsh/runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch
 - [MrCordeiro/parse2docs](https://github.com/MrCordeiro/parse2docs) - Generate usage documentation in Markdown format from Python scripts using argparse
@@ -3887,7 +3890,7 @@
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [zayd62/mkdocs-versioning](https://github.com/zayd62/mkdocs-versioning) - A tool that allows for versioning sites built with mkdocs
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
@@ -4541,6 +4544,7 @@
 
 ## terminal 
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
