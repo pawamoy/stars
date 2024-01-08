@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices.
@@ -445,6 +446,7 @@
 
 ## JavaScript 
 
+- [nikeee/setup-pandoc](https://github.com/nikeee/setup-pandoc) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
@@ -815,6 +817,7 @@
 
 ## Python 
 
+- [bswck/project](https://github.com/bswck/project) - Automatically detect backends & initialize virtual environments for your Python repo clones.
 - [noirbizarre/pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - Help generating docker images from PDM projects
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Mechanize the refactoring process to operate on a large scale.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
@@ -1832,7 +1835,7 @@
 - [etano/graphscii](https://github.com/etano/graphscii) - Print ASCII graphs in the terminal.
 - [AlexandreKempf/automacdoc](https://github.com/AlexandreKempf/automacdoc) - Automatic generation of documentation for mkdocs
 - [zayd62/mkdocs-versioning](https://github.com/zayd62/mkdocs-versioning) - A tool that allows for versioning sites built with mkdocs
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [manuzhang/mkdocs-htmlproofer-plugin](https://github.com/manuzhang/mkdocs-htmlproofer-plugin) - A MkDocs plugin that validates URL in rendered html files
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
@@ -2231,7 +2234,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
-- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
@@ -2295,7 +2298,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [uptech/alt](https://github.com/uptech/alt) - Command line tool to find alternate files
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [softprops/cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
