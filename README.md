@@ -282,7 +282,6 @@
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -381,7 +380,6 @@
 - [mkdocstrings/vba](https://github.com/mkdocstrings/vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - An online tool to visualize recursive JS functions step-by-step as a tree.
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -761,7 +759,7 @@
 - [themanifest/package-management-glossary](https://github.com/themanifest/package-management-glossary) - A glossary of terms relating to package management
 - [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
 - [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -817,6 +815,13 @@
 
 ## Python 
 
+- [ihabunek/tooi](https://github.com/ihabunek/tooi) - 
+- [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - 
+- [JostTim/auto_fast_docs](https://github.com/JostTim/auto_fast_docs) - Generate static webside for your code documentation, with fast setup and no extra documentation effort. It is based on the great mkdocs, mkdocs-material and mkdocstrings packages
+- [andfoy/pywinpty](https://github.com/andfoy/pywinpty) - Pseudoterminals for Windows in Python
+- [tusharsadhwani/sanskrit](https://github.com/tusharsadhwani/sanskrit) - Write programs in the fastest language, as confirmed by NASA.
+- [pallets/markupsafe](https://github.com/pallets/markupsafe) - Safely add untrusted strings to HTML/XML markup.
+- [furkanonder/akarsu](https://github.com/furkanonder/akarsu) - New Generation Profiler based on PEP669
 - [bswck/project](https://github.com/bswck/project) - Automatically detect backends & initialize virtual environments for your Python repo clones.
 - [noirbizarre/pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - Help generating docker images from PDM projects
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Mechanize the refactoring process to operate on a large scale.
@@ -946,7 +951,7 @@
 - [initialcommit-com/git-dummy](https://github.com/initialcommit-com/git-dummy) - Generate dummy Git repositories populated with the desired number of commits, branches, and structure.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a creator platform for developers. Let's fix open source funding!
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [davep/tdim](https://github.com/davep/tdim) - A quick and dirty terminal dimension checker/seeker
@@ -1158,6 +1163,7 @@
 - [mkdocstrings/python-legacy](https://github.com/mkdocstrings/python-legacy) - A legacy Python handler for mkdocstrings.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [mkdocstrings/pytkdocs](https://github.com/mkdocstrings/pytkdocs) - Load Python objects documentation.
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [john-hen/demo-MkDocstrings](https://github.com/john-hen/demo-MkDocstrings) - Demo of API documentation using MkDocs and MkDocstrings
 - [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for automatically sorting python statements within a module
@@ -1174,6 +1180,7 @@
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests: https://gitlab.com/hackancuba/blake2signer
 - [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
@@ -2054,7 +2061,6 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [xsteadfastx/jinja2-slug](https://github.com/xsteadfastx/jinja2-slug) - 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [nedbat/django_coverage_plugin](https://github.com/nedbat/django_coverage_plugin) - A plugin for coverage.py to measure Django template execution
@@ -2298,6 +2304,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [uptech/alt](https://github.com/uptech/alt) - Command line tool to find alternate files
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [softprops/cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -2323,10 +2330,12 @@
 
 ## Scheme 
 
+- [hexdigest/go-enhanced-treesitter.nvim](https://github.com/hexdigest/go-enhanced-treesitter.nvim) - Improve default Go tree-sitter grammar using grammar injections
 - [neo4j-contrib/spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial ope
 
 ## Shell 
 
+- [pforret/mkdox](https://github.com/pforret/mkdox) - convenient Mkdocs Material projects via Docker
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -2404,7 +2413,7 @@
 - [hugot/bash-array-utils](https://github.com/hugot/bash-array-utils) - Utility functions  for common array operations in bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -2471,7 +2480,7 @@
 
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
