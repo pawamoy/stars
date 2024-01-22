@@ -73,6 +73,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
@@ -1168,6 +1169,10 @@
 - [maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner) - Braindump better.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+
 ## font 
 
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1431,6 +1436,7 @@
 
 ## hacktoberfest 
 
+- [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
@@ -1755,7 +1761,7 @@
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -2278,7 +2284,7 @@
 - [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - 
 - [hexdigest/go-enhanced-treesitter.nvim](https://github.com/hexdigest/go-enhanced-treesitter.nvim) - Improve default Go tree-sitter grammar using grammar injections
 - [tusharsadhwani/sanskrit](https://github.com/tusharsadhwani/sanskrit) - Write programs in the fastest language, as confirmed by NASA.
-- [pforret/mkdox](https://github.com/pforret/mkdox) - convenient Mkdocs Material projects via Docker
+- [pforret/mkdox](https://github.com/pforret/mkdox) - create and run Mkdocs Material websites using Docker image
 - [furkanonder/akarsu](https://github.com/furkanonder/akarsu) - New Generation Profiler based on PEP669
 - [nikeee/setup-pandoc](https://github.com/nikeee/setup-pandoc) - 
 - [bswck/project](https://github.com/bswck/project) - Automatically detect backends & initialize virtual environments for your Python repo clones.
@@ -3396,7 +3402,7 @@
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [TryCatchHCF/Cloakify](https://github.com/TryCatchHCF/Cloakify) - CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting C
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 
 ## programming 
 
@@ -3424,6 +3430,9 @@
 
 ## python 
 
+- [andrewp-as-is/public.py](https://github.com/andrewp-as-is/public.py) - :snake: replace '__all__' with '@public.add' decorator
+- [tombulled/export](https://github.com/tombulled/export) - Expose module functionality
+- [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
 - [andfoy/pywinpty](https://github.com/andfoy/pywinpty) - Pseudoterminals for Windows in Python
 - [pallets/markupsafe](https://github.com/pallets/markupsafe) - Safely add untrusted strings to HTML/XML markup.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -4384,7 +4393,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [TryCatchHCF/Cloakify](https://github.com/TryCatchHCF/Cloakify) - CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting C
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -4708,7 +4717,7 @@
 ## twitter 
 
 - [jrieke/year-on-github](https://github.com/jrieke/year-on-github) - 🐙 Share your Github stats for 2020 on Twitter
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 
 ## typescript 
 
