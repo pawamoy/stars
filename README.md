@@ -426,7 +426,7 @@
 - [RaidAndFade/javadoc-json-doclet](https://github.com/RaidAndFade/javadoc-json-doclet) - Json Doclet for Javadoc (Turn things into json. Fully fleged using Gson)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [raptor494/PyJava](https://github.com/raptor494/PyJava) - Use braces and semicolons in Python!
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
@@ -828,7 +828,7 @@
 - [bswck/project](https://github.com/bswck/project) - Automatically detect backends & initialize virtual environments for your Python repo clones.
 - [noirbizarre/pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - Help generating docker images from PDM projects
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Mechanize the refactoring process to operate on a large scale.
-- [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
+- [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types
 - [andriykohut/pdm-readiness](https://github.com/andriykohut/pdm-readiness) - A pdm plugin to check if your project dependencies support specific Python version.
 - [bswck/poetry-apps](https://github.com/bswck/poetry-apps) - A Poetry plugin that allows pipx to take precedence when installing CLI dependencies.
 - [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - 📝 A plugin for MkDocs that exports your pages as PDF documents.
@@ -1533,7 +1533,7 @@
 - [dropbox/pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder) - Runs tests multiple times to expose flakiness.
 - [box/flaky](https://github.com/box/flaky) - Plugin for nose or pytest that automatically reruns flaky tests.
 - [pytest-dev/pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
-- [jbasko/pytest-random-order](https://github.com/jbasko/pytest-random-order) - pytest plugin to randomise the order of tests with some control over the randomness
+- [pytest-dev/pytest-random-order](https://github.com/pytest-dev/pytest-random-order) - pytest plugin to randomise the order of tests with some control over the randomness
 - [udifuchs/pylint-silent](https://github.com/udifuchs/pylint-silent) - Automatically add code comments to silence the output of pylint.
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
 - [cs01/importation](https://github.com/cs01/importation) - automagically install missing Python packages 🛸
@@ -2497,7 +2497,7 @@
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
