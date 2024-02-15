@@ -85,6 +85,7 @@
 
 ## C 
 
+- [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark) - A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)
 - [fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
 - [xatornet/perfect_dark](https://github.com/xatornet/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
@@ -158,6 +159,9 @@
 
 ## C++ 
 
+- [willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
+- [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
+- [standardese/standardese](https://github.com/standardese/standardese) - A (work-in-progress) nextgen Doxygen for C++
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
@@ -806,6 +810,7 @@
 
 ## Perl 
 
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -818,6 +823,11 @@
 
 ## Python 
 
+- [bswck/mempip](https://github.com/bswck/mempip) - Install Python packages into volatile memory.
+- [has2k1/qrenderer](https://github.com/has2k1/qrenderer) - A Renderer for Quartodoc
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [vitsalis/PyCG](https://github.com/vitsalis/PyCG) - Static Python call graph generator
+- [davidfraser/pyan](https://github.com/davidfraser/pyan) - pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which functi
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [andrewp-as-is/public.py](https://github.com/andrewp-as-is/public.py) - :snake: replace '__all__' with '@public.add' decorator
@@ -837,6 +847,7 @@
 - [andriykohut/pdm-readiness](https://github.com/andriykohut/pdm-readiness) - A pdm plugin to check if your project dependencies support specific Python version.
 - [bswck/poetry-apps](https://github.com/bswck/poetry-apps) - A Poetry plugin that allows pipx to take precedence when installing CLI dependencies.
 - [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - 📝 A plugin for MkDocs that exports your pages as PDF documents.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [pdm-project/pdm-build-locked](https://github.com/pdm-project/pdm-build-locked) - pdm-build-locked is a pdm plugin to publish locked dependencies as optional-dependencies
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
@@ -1637,7 +1648,7 @@
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [RedisLabs/mkdocs-versions-menu](https://github.com/RedisLabs/mkdocs-versions-menu) - An MkDocs plugin that generates a versions menu for the mkdocs-material theme.
 - [dalf/pyhttp-benchmark](https://github.com/dalf/pyhttp-benchmark) - Micro-benchmarks of the Python http clients. Heavily inspired by httpxprof.
-- [andrew-d/python-multipart](https://github.com/andrew-d/python-multipart) - A streaming multipart parser for Python.
+- [Kludex/python-multipart](https://github.com/Kludex/python-multipart) - A streaming multipart parser for Python.
 - [google/pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
 - [ivankorobkov/python-inject](https://github.com/ivankorobkov/python-inject) - Python dependency injection
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -1691,7 +1702,7 @@
 - [asottile/astpretty](https://github.com/asottile/astpretty) - Pretty print the output of python stdlib `ast.parse`.
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [cmacmackin/markdown-include](https://github.com/cmacmackin/markdown-include) - Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents.
-- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - A documentation generation tool for MkDocs.
+- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - A plugin for MkDocs to generate API documentation
 - [mprivat/mkdocs-snippet-plugin](https://github.com/mprivat/mkdocs-snippet-plugin) - An mkdocs plugin that injects snippets from a file in a git repository
 - [sander76/mkdocs-abs-rel-plugin](https://github.com/sander76/mkdocs-abs-rel-plugin) - MkDocs plugin for converting absolute links to relative ones.
 - [jldiaz/mkdocs-plugin-tags](https://github.com/jldiaz/mkdocs-plugin-tags) - 
@@ -2094,7 +2105,7 @@
 - [juggernaut/nginx-flask-postgres-docker-compose-example](https://github.com/juggernaut/nginx-flask-postgres-docker-compose-example) - A working example of nginx+flask+postgres multi-container setup using Docker Compose
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [prahladyeri/hotspotd](https://github.com/prahladyeri/hotspotd) - Simple daemon to create a wifi hotspot on Linux
-- [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
+- [canonical/snapcraft](https://github.com/canonical/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [moxie0/sslstrip](https://github.com/moxie0/sslstrip) - A tool for exploiting Moxie Marlinspike's SSL "stripping" attack.
 - [NathanWailes/sens](https://github.com/NathanWailes/sens) - Information to be used to help raise money for the SENS Research Foundation.
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
@@ -2242,6 +2253,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -2487,9 +2499,8 @@
 ## TypeScript 
 
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
-- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
 - [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
