@@ -514,7 +514,6 @@
 - [userdashboard/dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
-- [colmsjo/github-issues-export](https://github.com/colmsjo/github-issues-export) - Export github issues to a CSV file (developed in NodeJS)
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
@@ -553,7 +552,7 @@
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [axross/tap-notify](https://github.com/axross/tap-notify) - :bell: the Notifier for OS X, Linux and Windows as TAP reporter
-- [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
+- [tape-testing/faucet](https://github.com/tape-testing/faucet) - human-readable TAP summarizer
 - [scottcorgan/tap-spec](https://github.com/scottcorgan/tap-spec) - Formatted TAP output like Mocha's spec reporter
 - [ArnaudRinquin/make2tap](https://github.com/ArnaudRinquin/make2tap) - Leverage TAP to transform your ugly make outputs into nice readable ones using any TAP reporter
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
@@ -823,6 +822,11 @@
 
 ## Python 
 
+- [kkinder/mehditor](https://github.com/kkinder/mehditor) - Modern but simple text editor
+- [uranusjr/simpleindex](https://github.com/uranusjr/simpleindex) - 
+- [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
+- [AnsBalin/skorche](https://github.com/AnsBalin/skorche) - Task orchestration for python
+- [chriskuehl/pypi-browser](https://github.com/chriskuehl/pypi-browser) - PyPI package browsing web application
 - [bswck/mempip](https://github.com/bswck/mempip) - Install Python packages into volatile memory.
 - [has2k1/qrenderer](https://github.com/has2k1/qrenderer) - A Renderer for Quartodoc
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -1517,7 +1521,7 @@
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
-- [mkdocs-plugins/termynal](https://github.com/mkdocs-plugins/termynal) - Python markdown terminal. Built for mkdocs
+- [termynal/termynal.py](https://github.com/termynal/termynal.py) - Python markdown terminal. Built for mkdocs
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -2235,7 +2239,7 @@
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [theunraveler/taskwarrior-web](https://github.com/theunraveler/taskwarrior-web) - A web interface for the Taskwarrior todo application. Because being a neckbeard is only fun sometimes.
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [tinted-theming/base16-builder-ruby](https://github.com/tinted-theming/base16-builder-ruby) - A Ruby implementation of a Base16 builder
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [librariesio/lib2pr](https://github.com/librariesio/lib2pr) - :truck: Create GitHub PRs from Libraries.io webhooks
@@ -2253,6 +2257,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
@@ -2498,6 +2503,8 @@
 
 ## TypeScript 
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
@@ -2563,7 +2570,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
+- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [LukasMarx/angular-push-notifications](https://github.com/LukasMarx/angular-push-notifications) - 
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
