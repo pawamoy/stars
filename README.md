@@ -163,7 +163,7 @@
 - [standardese/standardese](https://github.com/standardese/standardese) - A (work-in-progress) nextgen Doxygen for C++
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [matusnovak/doxybook2](https://github.com/matusnovak/doxybook2) - Doxygen XML to Markdown (or JSON)
@@ -406,7 +406,6 @@
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
 - [fightforthefuture/battleforthenet](https://github.com/fightforthefuture/battleforthenet) - 
@@ -432,7 +431,7 @@
 - [RaidAndFade/javadoc-json-doclet](https://github.com/RaidAndFade/javadoc-json-doclet) - Json Doclet for Javadoc (Turn things into json. Fully fleged using Gson)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [raptor494/PyJava](https://github.com/raptor494/PyJava) - Use braces and semicolons in Python!
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
@@ -440,6 +439,7 @@
 - [mashlol/notify](https://github.com/mashlol/notify) - Notify your devices from the terminal
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tomasbjerre/git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - Generate changelog, and/or next version, with, or without, conventional commits from a GIT repository
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
@@ -591,6 +591,7 @@
 
 ## Jinja 
 
+- [blakeNaccarato/copier-python](https://github.com/blakeNaccarato/copier-python) - Copier template for Python projects
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -2413,7 +2414,7 @@
 - [shellspec/shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
 - [zhdenny/PlexGuide.com-The-Awesome-Plex-Server](https://github.com/zhdenny/PlexGuide.com-The-Awesome-Plex-Server) - Welcome to PlexGuide.com! Deploy a multi-app supported Plex Server with an HD or GDrive (Unlimited Space) through UB16/18 - Ansible & Docker - Now with PGDrives & PGBlitz!
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [ko1nksm/ghostplay](https://github.com/ko1nksm/ghostplay) - Automatic terminal input tool - ghost types your script!
 - [flipee/pkgbuilds](https://github.com/flipee/pkgbuilds) - PKGBUILDs for the Arch User Repository
@@ -2524,6 +2525,7 @@
 
 ## TypeScript 
 
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
@@ -2548,7 +2550,7 @@
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-- [laem/futureco](https://github.com/laem/futureco) - Le wiki de l'impact climat de nos gestes du quotidien + une appli de cartes grand public sur https://cartes.app
+- [laem/futureco](https://github.com/laem/futureco) - 2 en 1 : une appli de cartes grand public, et le wiki de l'impact climat de nos gestes du quotidien sur https://futur.eco
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -2590,7 +2592,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
+- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [LukasMarx/angular-push-notifications](https://github.com/LukasMarx/angular-push-notifications) - 
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
