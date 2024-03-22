@@ -226,7 +226,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [notshridhar/chain-reaction-ai](https://github.com/notshridhar/chain-reaction-ai) - ai opponent for the game chain reaction
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -886,7 +886,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1268,7 +1268,7 @@
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [jrieke/year-on-github](https://github.com/jrieke/year-on-github) - 🐙 Share your Github stats for 2020 on Twitter
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [greenbone/autohooks](https://github.com/greenbone/autohooks) - Library for managing git hooks
@@ -1357,6 +1357,7 @@
 
 ## go 
 
+- [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1384,6 +1385,7 @@
 
 ## golang 
 
+- [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
@@ -1471,6 +1473,8 @@
 
 ## hacktoberfest 
 
+- [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
+- [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
@@ -1507,7 +1511,7 @@
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
-- [FFY00/python-pyproject-metadata](https://github.com/FFY00/python-pyproject-metadata) - PEP 621 metadata parsing
+- [pypa/python-pyproject-metadata](https://github.com/pypa/python-pyproject-metadata) - PEP 621 metadata parsing
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1539,7 +1543,7 @@
 - [pylint-dev/astroid](https://github.com/pylint-dev/astroid) - A common base representation of python source code for pylint and other projects
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [columbia-it/django-jsonapi-training](https://github.com/columbia-it/django-jsonapi-training) - Columbia University IT developer training on using Django, REST and {json:api}
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [0b01001001/spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2035,7 +2039,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [EthanRosenthal/nannernest](https://github.com/EthanRosenthal/nannernest) - Optimal peanut butter and banana sandwiches
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
@@ -2085,6 +2089,7 @@
 
 ## markdown 
 
+- [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [provinzkraut/AutoPyTabs](https://github.com/provinzkraut/AutoPyTabs) - Automatically generate code examples for different Python versions in mkdocs or Sphinx based documentations
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - 📝 A plugin for MkDocs that exports your pages as PDF documents.
@@ -2342,6 +2347,8 @@
 
 ## others 
 
+- [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
+- [pi0/config-dir](https://github.com/pi0/config-dir) - 📁  A proposal for the .config/ directory.
 - [falldeaf/termlauncher](https://github.com/falldeaf/termlauncher) - 
 - [jepler/textual-totp](https://github.com/jepler/textual-totp) - TOTP (authenticator) application using Python & Textual
 - [bluematt/textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A simple music player (MP3, etc.) using Textual.
@@ -3511,6 +3518,7 @@
 
 ## python 
 
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building HTML pages in pure Python.
 - [blakeNaccarato/copier-python](https://github.com/blakeNaccarato/copier-python) - Copier template for Python projects
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
@@ -3536,7 +3544,7 @@
 - [mahrz24/netext](https://github.com/mahrz24/netext) - Netext is a graph (network) rendering library for the terminal.
 - [aafigure/aafigure](https://github.com/aafigure/aafigure) - ASCII art figures can be parsed and output as SVG, PNG, JPEG, PDF and more. This project provides a python package and a command line script.
 - [juftin/lunchable](https://github.com/juftin/lunchable) - Python Client for the Lunch Money Developer API
-- [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting remote and local filesystems
+- [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
@@ -3723,7 +3731,7 @@
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [thoth-station/prescriptions](https://github.com/thoth-station/prescriptions) - ⚕️💊 Prescriptions to heal your applications and application dependencies 💊⚕️
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
-- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics.
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
@@ -3844,7 +3852,7 @@
 - [nicfit/Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
 - [termynal/termynal.py](https://github.com/termynal/termynal.py) - Python markdown terminal. Built for mkdocs
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [0b01001001/spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [pinetr2e/napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
@@ -4398,6 +4406,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
@@ -4461,7 +4470,7 @@
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests: https://gitlab.com/hackancuba/blake2signer
 - [Narasimha1997/py4jshell](https://github.com/Narasimha1997/py4jshell) - Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit cod
 - [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental binary transparency for pacman with sigstore and rekor
-- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [twu/skjold](https://github.com/twu/skjold) - Security audit Python project dependencies against security advisory databases.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -4903,6 +4912,7 @@
 
 ## vuejs 
 
+- [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 
@@ -4933,6 +4943,7 @@
 
 ## webapp 
 
+- [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
