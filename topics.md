@@ -453,7 +453,7 @@
 ## backend 
 
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 
 ## bash 
@@ -1485,7 +1485,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -1511,7 +1511,7 @@
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
-- [pypa/python-pyproject-metadata](https://github.com/pypa/python-pyproject-metadata) - PEP 621 metadata parsing
+- [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) - PEP 621 metadata parsing
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -2347,6 +2347,12 @@
 
 ## others 
 
+- [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
+- [m-vdb/pep440-version-utils](https://github.com/m-vdb/pep440-version-utils) - Utilities to deal with pep440 versioning
+- [carstencodes/pdm-bump](https://github.com/carstencodes/pdm-bump) - A small PEP440 compliant bump utility for the Python development master.
+- [thecodechef/pygments-style-extras](https://github.com/thecodechef/pygments-style-extras) - A Collection of Pygments Styles for Python
+- [youknowone/baembal](https://github.com/youknowone/baembal) - Boost ast.parse with RustPython-powered parser technology
+- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [pi0/config-dir](https://github.com/pi0/config-dir) - 📁  A proposal for the .config/ directory.
 - [falldeaf/termlauncher](https://github.com/falldeaf/termlauncher) - 
@@ -2410,7 +2416,6 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
-- [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [carljm/compgenerator](https://github.com/carljm/compgenerator) - Comprehension compilation fuzzer
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
@@ -2544,7 +2549,7 @@
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [FrancescoSaverioZuppichini/Modern-Python-Doc-Example](https://github.com/FrancescoSaverioZuppichini/Modern-Python-Doc-Example) - mkdocs + material + cool stuff
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11's specializing, adaptive interpreter. :fire:
+- [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython's specializing, adaptive interpreter. :fire:
 - [vsoch/cssclean](https://github.com/vsoch/cssclean) - Remove un-used css styles
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [fake-name/autoflake](https://github.com/fake-name/autoflake) - Removes unused imports and unused variables as reported by pyflakes
@@ -2668,7 +2673,7 @@
 - [python/bugs.python.org](https://github.com/python/bugs.python.org) - Meta-issue tracker for bugs.python.org
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [pycontribs/subprocess-tee](https://github.com/pycontribs/subprocess-tee) - A subprocess.run drop-in replacement that supports a tee mode, being able to display output in real time while still capturing it. No dependencies needed
-- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [boxed/hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest
 - [it-novum/mkdocs-featherlight](https://github.com/it-novum/mkdocs-featherlight) - Featherlight Plugin for MkDocs
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -3142,7 +3147,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
-- [sdispater/tomlkit](https://github.com/sdispater/tomlkit) - Style-preserving TOML library for Python
+- [python-poetry/tomlkit](https://github.com/python-poetry/tomlkit) - Style-preserving TOML library for Python
 - [AlbertoSabater/subtitle-synchronization](https://github.com/AlbertoSabater/subtitle-synchronization) - 
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [dgraph-io/pydgraph](https://github.com/dgraph-io/pydgraph) - Official Dgraph Python client
@@ -3518,7 +3523,7 @@
 
 ## python 
 
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building HTML pages in pure Python.
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [blakeNaccarato/copier-python](https://github.com/blakeNaccarato/copier-python) - Copier template for Python projects
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
@@ -3554,7 +3559,8 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
-- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python code
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
+- [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [billyeatcookies/cupcake](https://github.com/billyeatcookies/cupcake) - embeddable text editor with autocompletions
 - [billyeatcookies/biscuit](https://github.com/billyeatcookies/biscuit) - lightweight code editor for any language
@@ -3564,7 +3570,7 @@
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit) - Scans Python packages for abi3 violations and inconsistencies
 - [12rambau/pytest-copie](https://github.com/12rambau/pytest-copie) - The pytest plugin for your copier templates 📒
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle.
 - [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref) - Extension of mkdocstrings-python supporting relative cross-references
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
@@ -3611,7 +3617,7 @@
 - [frostming/fix-future-annotations](https://github.com/frostming/fix-future-annotations) - A CLI and pre-commit hook to fix future annotations
 - [chriskuehl/pygments-ansi-color](https://github.com/chriskuehl/pygments-ansi-color) - ANSI color-code highlighting for Pygments
 - [benchmark-urbanism/yapper](https://github.com/benchmark-urbanism/yapper) - Yapper converts Python docstrings to astro files for use by the Astro static site generator.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
@@ -4206,7 +4212,7 @@
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) - A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) - Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -4408,7 +4414,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
@@ -4789,7 +4795,8 @@
 
 ## testing 
 
-- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python code
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
+- [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
@@ -4920,7 +4927,7 @@
 
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [smarie/mkdocs-gallery](https://github.com/smarie/mkdocs-gallery) - Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx dependency !).
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
