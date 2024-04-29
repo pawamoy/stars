@@ -68,6 +68,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
 - [firefox](#firefox)
@@ -1166,6 +1167,11 @@
 - [tinted-theming/base16-builder-elixir](https://github.com/tinted-theming/base16-builder-elixir) - An Elixir implementation of a Base16 builder.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 
+## embedded 
+
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+
 ## emoji 
 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
@@ -1269,6 +1275,7 @@
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - lightweight code editor for any language
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -1409,7 +1416,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [mattermost/mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
+- [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1523,7 +1530,7 @@
 - [devopshq/artifactory](https://github.com/devopshq/artifactory) - dohq-artifactory: a Python client for Artifactory
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [mattermost/mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
+- [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [WaylonWalker/markata](https://github.com/WaylonWalker/markata) - A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -2214,7 +2221,7 @@
 ## monitoring 
 
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Echolocate your MySQL health with real-time monitoring in the terminal
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
@@ -2249,7 +2256,7 @@
 
 ## mysql 
 
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Echolocate your MySQL health with real-time monitoring in the terminal
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
@@ -3568,7 +3575,7 @@
 
 ## python 
 
-- [bswck/lazy_importing](https://github.com/bswck/lazy_importing) - Lazy imports in Python.
+- [bswck/lazy_importing](https://github.com/bswck/lazy_importing) - Super-easy lazy importing in pure Python.
 - [hukkin/mdformat-beautysh](https://github.com/hukkin/mdformat-beautysh) - Mdformat plugin to beautify Bash scripts
 - [hukkin/mdformat-black](https://github.com/hukkin/mdformat-black) - Mdformat plugin to Blacken Python code blocks
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
@@ -3629,7 +3636,7 @@
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Echolocate your MySQL health with real-time monitoring in the terminal
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [h4sh5/pypi-auto-scanner](https://github.com/h4sh5/pypi-auto-scanner) - Automatically scan new pypi packages for potentially malicious code
 - [eliasdorneles/usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal, powered by Unicode and https://textual.textualize.io/
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
