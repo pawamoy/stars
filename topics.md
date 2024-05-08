@@ -228,7 +228,7 @@
 ## ai 
 
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -582,7 +582,7 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
 
 ## chatgpt-api 
@@ -609,6 +609,8 @@
 
 ## cli 
 
+- [tiangolo/fastapi-cli](https://github.com/tiangolo/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
+- [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [nickolaj-jepsen/fnug](https://github.com/nickolaj-jepsen/fnug) - Fnug runs all your lints, tests and commands at once, in the terminal. With git integration and file watching
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -1079,6 +1081,7 @@
 
 ## documentation 
 
+- [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [provinzkraut/AutoPyTabs](https://github.com/provinzkraut/AutoPyTabs) - Automatically generate code examples for different Python versions in mkdocs or Sphinx based documentations
 - [standardese/standardese](https://github.com/standardese/standardese) - A (work-in-progress) nextgen Doxygen for C++
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
@@ -2174,7 +2177,7 @@
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [gisce/markdown-blockdiag](https://github.com/gisce/markdown-blockdiag) - blockdiag extension for Python Markdown
 - [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - A plugin for MkDocs to generate API documentation
-- [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to make test results report with Markdown table format.
+- [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to generate test outcomes reports with markdown table format.
 - [johnfraney/flake8-markdown](https://github.com/johnfraney/flake8-markdown) - Lints Python code blocks in Markdown files using flake8
 - [fcannizzaro/mkdocs-sequence-js-plugin](https://github.com/fcannizzaro/mkdocs-sequence-js-plugin) - MkDocs plugin to render sequence.js blocks
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -2293,7 +2296,7 @@
 
 ## nextjs 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
 ## nim 
@@ -2394,6 +2397,7 @@
 
 ## others 
 
+- [Carreau/intersphinx_registry](https://github.com/Carreau/intersphinx_registry) - 
 - [lkingsford/scrummd](https://github.com/lkingsford/scrummd) - 
 - [Freed-Wu/mdformat-ruff](https://github.com/Freed-Wu/mdformat-ruff) - Mdformat plugin to Blacken Python code blocks
 - [executablebooks/mdformat-plugin](https://github.com/executablebooks/mdformat-plugin) - A template for creating an mdformat parser extension plugin
@@ -2637,7 +2641,7 @@
 - [AlayaCare/git-black](https://github.com/AlayaCare/git-black) - Reformat your source without losing git's history
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
-- [markqvist/LXMF](https://github.com/markqvist/LXMF) - Lightweight Extensible Message Format for Reticulum
+- [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [sethmlarson/pypi-data](https://github.com/sethmlarson/pypi-data) - Data about packages and maintainers on PyPI
 - [ewjoachim/coverage-comment-action](https://github.com/ewjoachim/coverage-comment-action) - Publish diff coverage report as PR comment, and create a coverage badge to display on the Readme
@@ -3455,6 +3459,7 @@
 
 ## package-manager 
 
+- [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [frostming/onepm](https://github.com/frostming/onepm) - Picks the right package manager for you
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
@@ -3575,7 +3580,11 @@
 
 ## python 
 
-- [bswck/lazy_importing](https://github.com/bswck/lazy_importing) - Super-easy lazy importing in pure Python.
+- [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui) - build GUIs from type annotations
+- [pyapp-kit/in-n-out](https://github.com/pyapp-kit/in-n-out) - Python dependency injection you can taste
+- [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
+- [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
+- [bswck/slothy](https://github.com/bswck/slothy) - Super-easy lazy importing in pure Python.
 - [hukkin/mdformat-beautysh](https://github.com/hukkin/mdformat-beautysh) - Mdformat plugin to beautify Bash scripts
 - [hukkin/mdformat-black](https://github.com/hukkin/mdformat-black) - Mdformat plugin to Blacken Python code blocks
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
@@ -3617,7 +3626,7 @@
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
@@ -3652,13 +3661,13 @@
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [ddelange/pipgrip](https://github.com/ddelange/pipgrip) - Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
@@ -3993,7 +4002,7 @@
 - [pypa/installer](https://github.com/pypa/installer) - A low-level library for installing from a Python wheel distribution.
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [yiblet/inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [okunishinishi/python-stringcase](https://github.com/okunishinishi/python-stringcase) - String case converter for python.
 - [koxudaxi/poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
@@ -4402,7 +4411,7 @@
 
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
@@ -4478,7 +4487,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -4620,6 +4629,7 @@
 
 ## shell 
 
+- [shenv/shenv](https://github.com/shenv/shenv) - Simple shell version management
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
@@ -4774,7 +4784,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [davep/pispy](https://github.com/davep/pispy) - A terminal-based tool for looking up stuff in PyPI
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - lightweight code editor for any language
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -4871,6 +4881,7 @@
 
 ## testing 
 
+- [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
@@ -4925,7 +4936,7 @@
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [JakubAndrysek/mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - 📇 The Mkdocs-Typedoc Plugin is designed to integrate TypeDoc documentation with your MkDocs project.
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
