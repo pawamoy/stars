@@ -482,6 +482,7 @@
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
 - [fabmob/velolibre](https://github.com/fabmob/velolibre) - Construire un vélo open source
+- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [cnr-ibba/shiny-server](https://github.com/cnr-ibba/shiny-server) - Shiny Server @CNR-IBBA
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
@@ -678,6 +679,7 @@
 
 ## Others 
 
+- [coherent-oss/system](https://github.com/coherent-oss/system) - 
 - [hynek/setup-cached-uv](https://github.com/hynek/setup-cached-uv) - 
 - [pi0/config-dir](https://github.com/pi0/config-dir) - 📁  A proposal for the .config/ directory.
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
@@ -711,7 +713,6 @@
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) - Doc, wiki and organizational content for ClearlyDefined
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
@@ -838,6 +839,12 @@
 
 ## Python 
 
+- [coherent-oss/coherent.build](https://github.com/coherent-oss/coherent.build) - A zero-config Python project build backend
+- [15r10nk/lazy-imports-lite](https://github.com/15r10nk/lazy-imports-lite) - lazy-imports-lite changes the semantics of python imports and defers the import until it is used the first time like in PEP 690
+- [nasirhjafri/libyear](https://github.com/nasirhjafri/libyear) - A simple measure of software dependency freshness.
+- [bswck/brandy](https://github.com/bswck/brandy) - Framework for building bots empowering your web presence.
+- [aravinda0/qtile-bonsai](https://github.com/aravinda0/qtile-bonsai) - A flexible layout for the qtile tiling window manager that allows arbitrarily nestable tabs and splits
+- [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui) - build GUIs from type annotations
 - [pyapp-kit/in-n-out](https://github.com/pyapp-kit/in-n-out) - Python dependency injection you can taste
 - [Carreau/intersphinx_registry](https://github.com/Carreau/intersphinx_registry) - 
@@ -945,7 +952,7 @@
 - [tusharsadhwani/dunderhell](https://github.com/tusharsadhwani/dunderhell) - Turn your Python code entirely into dunders.
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [carljm/compgenerator](https://github.com/carljm/compgenerator) - Comprehension compilation fuzzer
@@ -1694,7 +1701,7 @@
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -2200,7 +2207,7 @@
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [mandeep/Mausoleum](https://github.com/mandeep/Mausoleum) - A GUI application, command line interface, and wrapper for Tomb
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -2419,6 +2426,7 @@
 
 ## Shell 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [shenv/shenv](https://github.com/shenv/shenv) - Simple shell version management
 - [targendaz2/bats-zsh](https://github.com/targendaz2/bats-zsh) - Wrapper enabling Bats to test Zsh scripts
 - [pforret/mkdox](https://github.com/pforret/mkdox) - create and run Mkdocs Material websites using Docker image
