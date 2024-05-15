@@ -64,6 +64,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -120,6 +121,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -228,7 +230,7 @@
 ## ai 
 
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -582,7 +584,7 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
 
 ## chatgpt-api 
@@ -672,7 +674,7 @@
 - [frostming/pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [psincraian/climoji](https://github.com/psincraian/climoji) - Climoji is an initiative to facilitate the use of the emojis from the command line
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
@@ -883,7 +885,7 @@
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
 - [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data [my modules]
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 
 ## data-analysis 
 
@@ -988,6 +990,7 @@
 
 ## discord 
 
+- [bswck/brandy](https://github.com/bswck/brandy) - Framework for building bots empowering your web presence.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -1138,6 +1141,17 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 
+## dotfiles 
+
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+- [IsaccBarker/Greatness](https://github.com/IsaccBarker/Greatness) - Acheive greatness!
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+
 ## dotnet 
 
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -1278,7 +1292,6 @@
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - lightweight code editor for any language
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -1468,7 +1481,7 @@
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [turbulette/turbulette](https://github.com/turbulette/turbulette) - 😴 Turbulette - A batteries-included framework to build high performance, fully async GraphQL APIs
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -1511,6 +1524,7 @@
 
 ## hacktoberfest 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
@@ -1604,7 +1618,7 @@
 - [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1956,6 +1970,7 @@
 
 ## linux 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
@@ -2047,6 +2062,16 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 
+## llm 
+
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
+- [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+
 ## localization 
 
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform
@@ -2097,6 +2122,7 @@
 
 ## macos 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -2397,6 +2423,12 @@
 
 ## others 
 
+- [coherent-oss/system](https://github.com/coherent-oss/system) - 
+- [coherent-oss/coherent.build](https://github.com/coherent-oss/coherent.build) - A zero-config Python project build backend
+- [15r10nk/lazy-imports-lite](https://github.com/15r10nk/lazy-imports-lite) - lazy-imports-lite changes the semantics of python imports and defers the import until it is used the first time like in PEP 690
+- [nasirhjafri/libyear](https://github.com/nasirhjafri/libyear) - A simple measure of software dependency freshness.
+- [aravinda0/qtile-bonsai](https://github.com/aravinda0/qtile-bonsai) - A flexible layout for the qtile tiling window manager that allows arbitrarily nestable tabs and splits
+- [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [Carreau/intersphinx_registry](https://github.com/Carreau/intersphinx_registry) - 
 - [lkingsford/scrummd](https://github.com/lkingsford/scrummd) - 
 - [Freed-Wu/mdformat-ruff](https://github.com/Freed-Wu/mdformat-ruff) - Mdformat plugin to Blacken Python code blocks
@@ -2404,7 +2436,6 @@
 - [KyleKing/mdformat-admon](https://github.com/KyleKing/mdformat-admon) - mdformat plugin for admonitions
 - [butler54/mdformat-frontmatter](https://github.com/butler54/mdformat-frontmatter) - mdformat plugin to ensure frontmatter is respected.
 - [oprypin/hatch-mkdocs](https://github.com/oprypin/hatch-mkdocs) - Hatch plugin to integrate MkDocs and infer dependencies into an env
-- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [hynek/setup-cached-uv](https://github.com/hynek/setup-cached-uv) - 
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
@@ -2455,7 +2486,6 @@
 - [shi-yan/tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - visualize tree-sitter syntax tree
 - [pdm-project/dep-logic](https://github.com/pdm-project/dep-logic) - Python dependency specifications supporting logical operations
 - [bdcht/grandalf](https://github.com/bdcht/grandalf) - graph and drawing algorithms framework
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mbarkhau/markdown-aafigure](https://github.com/mbarkhau/markdown-aafigure) - aafigure extension for Python Markdown
@@ -3626,7 +3656,7 @@
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
@@ -4231,7 +4261,7 @@
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
@@ -4784,7 +4814,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [davep/pispy](https://github.com/davep/pispy) - A terminal-based tool for looking up stuff in PyPI
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - lightweight code editor for any language
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -4896,7 +4926,7 @@
 - [newsuk/AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [pytest-dev/pytest-random-order](https://github.com/pytest-dev/pytest-random-order) - pytest plugin to randomise the order of tests with some control over the randomness
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx) - pytest fixture to mock HTTPX
@@ -4922,7 +4952,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 
 ## twitter 
@@ -5060,6 +5090,7 @@
 
 ## windows 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [andfoy/pywinpty](https://github.com/andfoy/pywinpty) - Pseudoterminals for Windows in Python
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
