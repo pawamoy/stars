@@ -839,7 +839,7 @@
 
 ## Python 
 
-- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
 - [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks.
 - [python-lsp/docstring-to-markdown](https://github.com/python-lsp/docstring-to-markdown) - On the fly conversion of Python docstrings to markdown
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
@@ -853,7 +853,7 @@
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui) - build GUIs from type annotations
 - [pyapp-kit/in-n-out](https://github.com/pyapp-kit/in-n-out) - Python dependency injection you can taste
-- [Carreau/intersphinx_registry](https://github.com/Carreau/intersphinx_registry) - 
+- [Quansight-Labs/intersphinx_registry](https://github.com/Quansight-Labs/intersphinx_registry) - 
 - [tiangolo/fastapi-cli](https://github.com/tiangolo/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 - [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
@@ -1354,7 +1354,7 @@
 - [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
 - [pycontribs/subprocess-tee](https://github.com/pycontribs/subprocess-tee) - A subprocess.run drop-in replacement that supports a tee mode, being able to display output in real time while still capturing it. No dependencies needed
 - [twisted/pydoctor](https://github.com/twisted/pydoctor) - This is pydoctor, an API documentation generator that works by static analysis.
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
 - [boxed/hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest
