@@ -281,7 +281,7 @@
 - [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
@@ -323,6 +323,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -440,7 +441,6 @@
 
 - [RaidAndFade/javadoc-json-doclet](https://github.com/RaidAndFade/javadoc-json-doclet) - Json Doclet for Javadoc (Turn things into json. Fully fleged using Gson)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -843,6 +843,8 @@
 
 ## Python 
 
+- [bittner/pyclean](https://github.com/bittner/pyclean) - Pure Python cross-platform pyclean. Clean up your Python bytecode.
+- [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨
 - [joelle-o-world/pattern-cutting](https://github.com/joelle-o-world/pattern-cutting) - pattern-cutting
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
@@ -885,7 +887,7 @@
 - [youknowone/baembal](https://github.com/youknowone/baembal) - Boost ast.parse with RustPython-powered parser technology
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
+- [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [falldeaf/termlauncher](https://github.com/falldeaf/termlauncher) - 
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
@@ -1142,7 +1144,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [MaxHalford/clavier](https://github.com/MaxHalford/clavier) - 🔤 Measure edit distance based on keyboard layout
 - [smarie/python-genbadge](https://github.com/smarie/python-genbadge) - A library to generate badges for typical checks (flake8, pytest, coverage, etc.)
-- [scientific-python/lazy_loader](https://github.com/scientific-python/lazy_loader) - Populate library namespace without incurring immediate import costs
+- [scientific-python/lazy-loader](https://github.com/scientific-python/lazy-loader) - Populate library namespace without incurring immediate import costs
 - [timgates42/meticulous](https://github.com/timgates42/meticulous) - Automate process of forking and running pyspelling on a repository to locate typos.
 - [pawamoy/duty](https://github.com/pawamoy/duty) - A simple task runner.
 - [0dminnimda/pynalyser](https://github.com/0dminnimda/pynalyser) - Static Python Code Analyzer
@@ -2154,7 +2156,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [peritus/bumpversion](https://github.com/peritus/bumpversion) - Version-bump your software with a single command
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [xsteadfastx/jinja2-slug](https://github.com/xsteadfastx/jinja2-slug) - 
@@ -2331,6 +2333,7 @@
 
 ## Rust 
 
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -2431,7 +2434,7 @@
 ## Sass 
 
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
-- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
+- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme from Read the Docs
 
 ## Scheme 
 
