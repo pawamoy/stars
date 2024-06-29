@@ -758,7 +758,7 @@
 - [omdbapi/OMDb-API](https://github.com/omdbapi/OMDb-API) - The Open Movie Database Bug Tracking
 - [anyenv/anyenv-install](https://github.com/anyenv/anyenv-install) - Default anyenv install manifests
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [pablogsal/python-horror-show](https://github.com/pablogsal/python-horror-show) - Strange and odd python snippets explained
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
@@ -843,6 +843,8 @@
 
 ## Python 
 
+- [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
+- [glennmatthews/markdown-version-annotations](https://github.com/glennmatthews/markdown-version-annotations) - MkDocs plugin to add custom admonitions for documenting version differences
 - [bittner/pyclean](https://github.com/bittner/pyclean) - Pure Python cross-platform pyclean. Clean up your Python bytecode.
 - [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨
 - [joelle-o-world/pattern-cutting](https://github.com/joelle-o-world/pattern-cutting) - pattern-cutting
@@ -975,7 +977,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable text editor with autocompletions
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Lightweight code editor for any language
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast, and extensible code editor with a growing community
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -986,6 +988,7 @@
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels.
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit) - Scans Python packages for abi3 violations and inconsistencies
@@ -1357,7 +1360,7 @@
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [ArneBachmann/tagsplorer](https://github.com/ArneBachmann/tagsplorer) - A quick and resource-efficient OS-independent tagging filetree extension tool and library
 - [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
-- [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics.
+- [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics - now with GPU support
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
 - [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
@@ -1587,7 +1590,7 @@
 - [berkerpeksag/astor](https://github.com/berkerpeksag/astor) - Python AST read/write
 - [davidenunes/mkgendocs](https://github.com/davidenunes/mkgendocs) - Markdown documentation generator from Google docstrings
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [nicfit/regarding](https://github.com/nicfit/regarding) - Create __about__.py files from `pyproject.toml`.
 - [nicfit/eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3
 - [nicfit/Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
@@ -2347,7 +2350,6 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -2361,7 +2363,7 @@
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [disrupted/blackd-client](https://github.com/disrupted/blackd-client) - ⬛ Faster Python code formatting using Black
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
@@ -2445,7 +2447,7 @@
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [shenv/shenv](https://github.com/shenv/shenv) - Simple shell version management
-- [targendaz2/bats-zsh](https://github.com/targendaz2/bats-zsh) - Wrapper enabling Bats to test Zsh scripts
+- [targendaz2/bats-zsh](https://github.com/targendaz2/bats-zsh) - Plugin enabling Bats to test Zsh scripts
 - [pforret/mkdox](https://github.com/pforret/mkdox) - create and run Mkdocs Material websites using Docker image
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
@@ -2618,7 +2620,7 @@
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-- [laem/futureco](https://github.com/laem/futureco) - 2 en 1 : une appli de cartes grand public, et le wiki de l'impact climat de nos gestes du quotidien sur https://futur.eco
+- [laem/cartes](https://github.com/laem/cartes) - L'appli Web de cartes grand public
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -2655,7 +2657,7 @@
 - [rsify/jay](https://github.com/rsify/jay) - 😎 Supercharged JavaScript REPL
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
