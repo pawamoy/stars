@@ -386,6 +386,8 @@
 
 ## HTML 
 
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
+- [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL)
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
@@ -843,6 +845,10 @@
 
 ## Python 
 
+- [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
+- [glyph/PINPal](https://github.com/glyph/PINPal) - random PIN code memorization helper
+- [glyph/Pomodouroboros](https://github.com/glyph/Pomodouroboros) - Pomodoro timer that acknowledges the inexorable, infinite passage of time
+- [glyph/tokenring](https://github.com/glyph/tokenring) - A backend for the `keyring` module which uses a hardware token to require user presence for any secret access, by encrypting your vault and passwords as Fernet tokens.
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
 - [glennmatthews/markdown-version-annotations](https://github.com/glennmatthews/markdown-version-annotations) - MkDocs plugin to add custom admonitions for documenting version differences
 - [bittner/pyclean](https://github.com/bittner/pyclean) - Pure Python cross-platform pyclean. Clean up your Python bytecode.
@@ -860,7 +866,7 @@
 - [15r10nk/lazy-imports-lite](https://github.com/15r10nk/lazy-imports-lite) - lazy-imports-lite changes the semantics of python imports and defers the import until it is used the first time like in PEP 690
 - [nasirhjafri/libyear](https://github.com/nasirhjafri/libyear) - A simple measure of software dependency freshness.
 - [bswck/brandy](https://github.com/bswck/brandy) - Framework for building bots empowering your web presence.
-- [aravinda0/qtile-bonsai](https://github.com/aravinda0/qtile-bonsai) - A flexible layout for the qtile tiling window manager that allows arbitrarily nestable tabs and splits
+- [aravinda0/qtile-bonsai](https://github.com/aravinda0/qtile-bonsai) - A flexible layout for the qtile tiling window manager that allows arbitrarily nestable tabs/splits and rearrangements
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui) - build GUIs from type annotations
 - [pyapp-kit/in-n-out](https://github.com/pyapp-kit/in-n-out) - Python dependency injection you can taste
@@ -977,7 +983,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable text editor with autocompletions
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast, and extensible code editor with a growing community
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast, and extensible code editor with a wide range of language support
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -1122,7 +1128,7 @@
 - [Kludex/fastapix-project-simple](https://github.com/Kludex/fastapix-project-simple) - Template to start with FastAPI! 😎
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [furkanonder/objerve](https://github.com/furkanonder/objerve) - A tiny observer for the attributes of Python objects.
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a kafka text user interface that allows you to interact with kafka and consume topics from your terminal in style!
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
 - [sbdchd/flake8-pie](https://github.com/sbdchd/flake8-pie) - :pizza: A flake8 extension that implements misc. lints
 - [fal-ai/isolate](https://github.com/fal-ai/isolate) - 🛡️ Managed isolated environments for Python
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
@@ -1153,7 +1159,7 @@
 - [0dminnimda/pynalyser](https://github.com/0dminnimda/pynalyser) - Static Python Code Analyzer
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [devopshq/artifactory](https://github.com/devopshq/artifactory) - dohq-artifactory: a Python client for Artifactory
-- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [frostming/onepm](https://github.com/frostming/onepm) - Picks the right package manager for you
 - [bambax/Remsi](https://github.com/bambax/Remsi) - Remove silence from video files with a 1-line ffmpeg command
 - [Kludex/no-optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]` 👀
@@ -2320,7 +2326,7 @@
 - [theunraveler/taskwarrior-web](https://github.com/theunraveler/taskwarrior-web) - A web interface for the Taskwarrior todo application. Because being a neckbeard is only fun sometimes.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [tinted-theming/base16-builder-ruby](https://github.com/tinted-theming/base16-builder-ruby) - A Ruby implementation of a Base16 builder
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [librariesio/lib2pr](https://github.com/librariesio/lib2pr) - :truck: Create GitHub PRs from Libraries.io webhooks
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
