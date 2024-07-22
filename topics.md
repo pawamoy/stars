@@ -1579,7 +1579,7 @@
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable text editor with autocompletions
+- [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - A code editor that can be embedded in Python applications, with syntax highlighting, autocompletions, minimap, and many more editing features
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast, and extensible code editor with a wide range of language support
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
@@ -2472,6 +2472,7 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
 - [mlprt/griffe-inherited-method-crossrefs](https://github.com/mlprt/griffe-inherited-method-crossrefs) - Griffe extension to replace docstrings of inherited methods with cross-references to parent
@@ -2929,7 +2930,7 @@
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) - Automatically link across pages in MkDocs.
-- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [lyz-code/mkdocs-newsletter](https://github.com/lyz-code/mkdocs-newsletter) - Automatically create newsletters from the changes in a mkdocs repository
 - [koaning/clumper](https://github.com/koaning/clumper) - A small python library that can clump lists of data together.
 - [Tecnativa/versort](https://github.com/Tecnativa/versort) - Version sorter utility
@@ -2995,7 +2996,7 @@
 - [tqdm/py-make](https://github.com/tqdm/py-make) - Make implemented in pure Python
 - [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings
 - [conda-forge/mkdocstrings-feedstock](https://github.com/conda-forge/mkdocstrings-feedstock) - A conda-smithy repository for mkdocstrings.
-- [squidfunk/mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning) - An example of versioning with Material for MkDocs
+- [mkdocs-material/example-versioning](https://github.com/mkdocs-material/example-versioning) - An example of versioning with Material for MkDocs
 - [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
 - [michalc/treelock](https://github.com/michalc/treelock) - Fast read/write sub-tree locking for asyncio Python
 - [michalc/fifolock](https://github.com/michalc/fifolock) - A flexible low-level tool to make synchronisation primitives in asyncio Python
@@ -3133,7 +3134,7 @@
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [aio-libs/aioneo4j](https://github.com/aio-libs/aioneo4j) - asyncio client for neo4j
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
-- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [rSkogeby/dockerized-fastapi-redis-rq-task-queue](https://github.com/rSkogeby/dockerized-fastapi-redis-rq-task-queue) - 
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
@@ -3669,7 +3670,7 @@
 
 ## publishing 
 
-- [mkusz/mkdocs-publisher](https://github.com/mkusz/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
+- [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## python 
@@ -3732,7 +3733,7 @@
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
-- [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable text editor with autocompletions
+- [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - A code editor that can be embedded in Python applications, with syntax highlighting, autocompletions, minimap, and many more editing features
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast, and extensible code editor with a wide range of language support
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
