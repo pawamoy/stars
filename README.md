@@ -847,6 +847,9 @@
 
 ## Python 
 
+- [grantjenks/py-tree-sitter-languages](https://github.com/grantjenks/py-tree-sitter-languages) - Binary Python wheels for all tree sitter languages.
+- [jonghwanhyeon/griffe-generics](https://github.com/jonghwanhyeon/griffe-generics) - A Griffe extension that resolves generic type parameters as bound types in subclasses
+- [costantinoai/mkdocs-task-collector](https://github.com/costantinoai/mkdocs-task-collector) - mkdocs plugin to generate a comprehensive and organized task list, making it easier to manage and track tasks, notes, and placeholders within your documentation.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
@@ -953,7 +956,7 @@
 - [pycompiled/compiled](https://github.com/pycompiled/compiled) - Compiled variants of the Python standard library.
 - [bdcht/grandalf](https://github.com/bdcht/grandalf) - graph and drawing algorithms framework
 - [mahrz24/netext](https://github.com/mahrz24/netext) - Netext is a graph (network) rendering library for the terminal.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [aafigure/aafigure](https://github.com/aafigure/aafigure) - ASCII art figures can be parsed and output as SVG, PNG, JPEG, PDF and more. This project provides a python package and a command line script.
@@ -1270,7 +1273,7 @@
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [ctalkington/python-sonarr](https://github.com/ctalkington/python-sonarr) - DEPRECATED Asynchronous Python client for the Sonarr API
-- [hynek/prometheus-async](https://github.com/hynek/prometheus-async) - Async helpers for prometheus_client.
+- [hynek/prometheus-async](https://github.com/hynek/prometheus-async) - Async Python helpers for the official prometheus-client.
 - [lyz-code/yamlfix](https://github.com/lyz-code/yamlfix) - A simple opinionated yaml formatter that keeps your comments!
 - [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
@@ -1401,7 +1404,6 @@
 - [coady/placeholder](https://github.com/coady/placeholder) - Operator overloading for fast anonymous functions.
 - [builtree/handwrite](https://github.com/builtree/handwrite) - Handwrite generates a custom font based on your handwriting sample.
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
-- [serverdensity/python-daemon](https://github.com/serverdensity/python-daemon) - Python daemonizer for Unix, Linux and OS X
 - [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right
 - [akoumjian/python-safety-vuln](https://github.com/akoumjian/python-safety-vuln) - Circumvent any python package scanner installed to the same python environment.
 - [twu/skjold](https://github.com/twu/skjold) - Security audit Python project dependencies against security advisory databases.
@@ -2460,6 +2462,7 @@
 
 ## Shell 
 
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [shenv/shenv](https://github.com/shenv/shenv) - Simple shell version management
 - [targendaz2/bats-zsh](https://github.com/targendaz2/bats-zsh) - Plugin enabling Bats to test Zsh scripts
