@@ -100,7 +100,7 @@
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plug-in for WhatsApp Web.
 - [j3parker/hijack](https://github.com/j3parker/hijack) - Intercept stdout/stderr/stdin of interactive programs... for evil
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
@@ -1118,7 +1118,7 @@
 - [chriskuehl/pygments-ansi-color](https://github.com/chriskuehl/pygments-ansi-color) - ANSI color-code highlighting for Pygments
 - [mitosch/textual-terminal](https://github.com/mitosch/textual-terminal) - A terminal emulator widget for Textual.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
-- [vispy/GSP](https://github.com/vispy/GSP) - Graphic Server Protocol
+- [vispy/GSP-archive](https://github.com/vispy/GSP-archive) - Graphic Server Protocol
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
 - [frostming/pdm-vscode](https://github.com/frostming/pdm-vscode) - DEPRECATED: A PDM plugin that autogenerates workspace vscode settings for you
 - [franzhaas/pdm-collect-dependencies](https://github.com/franzhaas/pdm-collect-dependencies) - 
@@ -1972,7 +1972,7 @@
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [MagicStack/httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
