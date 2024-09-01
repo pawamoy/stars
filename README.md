@@ -555,6 +555,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
@@ -1000,7 +1001,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - A code editor that can be embedded in Python applications, with syntax highlighting, autocompletions, minimap, and many more editing features
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, snappy code editor with extensions, written in Python!
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast code editor with extensions
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -2693,7 +2694,6 @@
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [LukasMarx/angular-push-notifications](https://github.com/LukasMarx/angular-push-notifications) - 
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
