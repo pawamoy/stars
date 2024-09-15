@@ -303,6 +303,7 @@
 
 ## api 
 
+- [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
@@ -361,6 +362,7 @@
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
+- [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
@@ -391,7 +393,7 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. Grist Spreadsheet: https://docs.getgrist.com/gSscJkc5Rb1R/
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
@@ -438,7 +440,7 @@
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. Grist Spreadsheet: https://docs.getgrist.com/gSscJkc5Rb1R/
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
@@ -1117,6 +1119,7 @@
 ## docker 
 
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
+- [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -1424,6 +1427,7 @@
 
 ## github 
 
+- [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cheeaun/repokemon](https://github.com/cheeaun/repokemon) - Showcase of GitHub repos with Pokémon names
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -1701,7 +1705,7 @@
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -1987,7 +1991,7 @@
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - CLI tool to convert JSON and JSON Lines to terminal, CSV, HTTP, and markdown tables
 - [abersheeran/rpc.py](https://github.com/abersheeran/rpc.py) - A fast and powerful RPC framework based on ASGI/WSGI.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
-- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [jacebrowning/datafiles](https://github.com/jacebrowning/datafiles) - A file-based ORM for Python dataclasses.
@@ -2257,6 +2261,7 @@
 
 ## markdown 
 
+- [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [pa-decarvalho/mkdocs-asciinema-player](https://github.com/pa-decarvalho/mkdocs-asciinema-player) - Mkdocs Plugin to include asciinema player in your documentation.
 - [jackdewinter/pymarkdown](https://github.com/jackdewinter/pymarkdown) - 
@@ -2529,6 +2534,9 @@
 
 ## others 
 
+- [RichieUltimate/ultimate-trial](https://github.com/RichieUltimate/ultimate-trial) - 
+- [collective-funds/guidelines](https://github.com/collective-funds/guidelines) - The Collective Funds Guidelines provides a framework for use of open source funds.
+- [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [mgedmin/objgraph](https://github.com/mgedmin/objgraph) - Visually explore Python object graphs
 - [polarsource/polar-python](https://github.com/polarsource/polar-python) - Polar SDK for Python
 - [koaning/uvtrick](https://github.com/koaning/uvtrick) - A fun party trick to run Python code from another venv into this one.
@@ -2766,6 +2774,7 @@
 - [Kludex/kwonly-transformer](https://github.com/Kludex/kwonly-transformer) - We don't like positional args, we like keyword only args! 🎉
 - [roipoussiere/what-the-flow](https://github.com/roipoussiere/what-the-flow) - A tool to create collaborative catalogs of human body movements for various activities.
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
+- [furkanonder/karbon](https://github.com/furkanonder/karbon) - Turn mouse events into art!
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [FrancescoSaverioZuppichini/Modern-Python-Doc-Example](https://github.com/FrancescoSaverioZuppichini/Modern-Python-Doc-Example) - mkdocs + material + cool stuff
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
@@ -3456,7 +3465,6 @@
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [librariesio/lib2pr](https://github.com/librariesio/lib2pr) - :truck: Create GitHub PRs from Libraries.io webhooks
-- [tlevine/urchin](https://github.com/tlevine/urchin) - Shell tests
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [jolicode/JoliCi](https://github.com/jolicode/JoliCi) - :white_check_mark: JoliCi - Run your TravisCi builds locally
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -3883,7 +3891,6 @@
 - [devopshq/artifactory](https://github.com/devopshq/artifactory) - dohq-artifactory: a Python client for Artifactory
 - [frostming/onepm](https://github.com/frostming/onepm) - Picks the right package manager for you
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
-- [furkanonder/karbon](https://github.com/furkanonder/karbon) - Turn mouse events into art!
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
