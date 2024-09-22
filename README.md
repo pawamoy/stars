@@ -326,6 +326,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -607,7 +608,7 @@
 
 ## Jinja 
 
-- [blakeNaccarato/copier-python](https://github.com/blakeNaccarato/copier-python) - Copier template for Python projects
+- [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle.
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -703,7 +704,6 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [pandalearnstocode/buildamlapp](https://github.com/pandalearnstocode/buildamlapp) - Build a ML app
 - [pypa/advisory-database](https://github.com/pypa/advisory-database) - Advisory database for Python packages published on pypi.org
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [scarmuega/choose-your-side](https://github.com/scarmuega/choose-your-side) - Example of how to use Theme-dependent images in your README
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
@@ -724,7 +724,7 @@
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. Grist Spreadsheet: https://docs.getgrist.com/gSscJkc5Rb1R/
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
@@ -967,7 +967,7 @@
 - [pycompiled/compiled](https://github.com/pycompiled/compiled) - Compiled variants of the Python standard library.
 - [bdcht/grandalf](https://github.com/bdcht/grandalf) - graph and drawing algorithms framework
 - [mahrz24/netext](https://github.com/mahrz24/netext) - Netext is a graph (network) rendering library for the terminal.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [aafigure/aafigure](https://github.com/aafigure/aafigure) - ASCII art figures can be parsed and output as SVG, PNG, JPEG, PDF and more. This project provides a python package and a command line script.
@@ -1058,7 +1058,7 @@
 - [wookayin/python-imgcat](https://github.com/wookayin/python-imgcat) - 🖼 imgcat in Python (for iTerm2)
 - [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
-- [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
+- [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [Cottonwood-Technology/ValidX](https://github.com/Cottonwood-Technology/ValidX) - Fast, powerful, and flexible validator with sane syntax.
 - [wyfo/apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation using Python typing.
 - [erezsh/runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch
@@ -2668,7 +2668,6 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -2734,6 +2733,7 @@
 ## Vue 
 
 - [shi-yan/tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - visualize tree-sitter syntax tree
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
