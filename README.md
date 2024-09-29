@@ -326,7 +326,6 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -1348,7 +1347,7 @@
 - [beartype/numerary](https://github.com/beartype/numerary) - A pure-Python codified rant aspiring to a world where numbers and types can work together.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
 - [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) - PEP 621 metadata parsing
-- [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes) - 
+- [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes) - Check what PyPI dependencies changed and when.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [vpelletier/pprofile](https://github.com/vpelletier/pprofile) - Line-granularity, thread-aware deterministic and statistic pure-python profiler
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
@@ -2409,7 +2408,7 @@
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental binary transparency for pacman with sigstore and rekor
+- [kpcyrd/pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans) - Experimental pacman integration for Reproducible Builds and Binary Transparency (with sigstore/rekor)
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world's fastest CRDT. WIP.
@@ -2668,6 +2667,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [cs01/python-packaging-tools](https://github.com/cs01/python-packaging-tools) - A big, interactive table of package management tools in the Python ecosystem
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
