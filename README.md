@@ -845,6 +845,8 @@
 
 ## Python 
 
+- [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
+- [15r10nk/codecrumbs](https://github.com/15r10nk/codecrumbs) - deprecate and refactor code across library boundaries
 - [fralau/mkdocs-test](https://github.com/fralau/mkdocs-test) - A framework for testing MkDocs projects
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
@@ -887,7 +889,6 @@
 - [coherent-oss/coherent.build](https://github.com/coherent-oss/coherent.build) - A zero-config Python project build backend
 - [15r10nk/lazy-imports-lite](https://github.com/15r10nk/lazy-imports-lite) - lazy-imports-lite changes the semantics of python imports and defers the import until it is used the first time like in PEP 690
 - [nasirhjafri/libyear](https://github.com/nasirhjafri/libyear) - A simple measure of software dependency freshness.
-- [bswck/brandy](https://github.com/bswck/brandy) - Framework for building bots empowering your web presence.
 - [aravinda0/qtile-bonsai](https://github.com/aravinda0/qtile-bonsai) - A flexible layout for the qtile tiling window manager that allows arbitrarily nestable tabs/splits and rearrangements
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui) - build GUIs from type annotations
@@ -896,7 +897,7 @@
 - [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 - [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
-- [bswck/slothy](https://github.com/bswck/slothy) - Super-easy lazy importing in pure Python.
+- [bswck/injection](https://github.com/bswck/injection) - Create Python variables on the fly.
 - [lkingsford/scrummd](https://github.com/lkingsford/scrummd) - 
 - [Freed-Wu/mdformat-ruff](https://github.com/Freed-Wu/mdformat-ruff) - Mdformat plugin to Blacken Python code blocks
 - [executablebooks/mdformat-plugin](https://github.com/executablebooks/mdformat-plugin) - A template for creating an mdformat parser extension plugin
@@ -934,7 +935,6 @@
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
 - [AnsBalin/skorche](https://github.com/AnsBalin/skorche) - Task orchestration for python
 - [chriskuehl/pypi-browser](https://github.com/chriskuehl/pypi-browser) - PyPI package browsing web application
-- [bswck/mempip](https://github.com/bswck/mempip) - Install Python packages into volatile memory.
 - [has2k1/qrenderer](https://github.com/has2k1/qrenderer) - A Renderer for Quartodoc
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG) - Static Python call graph generator
@@ -955,7 +955,6 @@
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Refactoring at scale.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [andriykohut/pdm-readiness](https://github.com/andriykohut/pdm-readiness) - A pdm plugin to check if your project dependencies support specific Python version.
-- [bswck/poetry-apps](https://github.com/bswck/poetry-apps) - A Poetry plugin that allows pipx to take precedence when installing CLI dependencies.
 - [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages or entire documentation as PDF documents.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [pdm-project/pdm-build-locked](https://github.com/pdm-project/pdm-build-locked) - pdm-build-locked is a pdm plugin to publish locked dependencies as optional-dependencies
@@ -1220,7 +1219,7 @@
 - [aroberge/ideas](https://github.com/aroberge/ideas) - Easy creation of custom import hooks to experiment on alternatives to Python's syntax; see https://aroberge.github.io/ideas/docs/html/
 - [jjhelmus/give-me-python](https://github.com/jjhelmus/give-me-python) - CPython that can be installed using pip
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [up9inc/gopygo](https://github.com/up9inc/gopygo) - Pure Python Go parser, AST and unparser library
 - [gtsystem/lightkube](https://github.com/gtsystem/lightkube) - Modern lightweight kubernetes module for python
 - [k4yt3x/orbitaldump](https://github.com/k4yt3x/orbitaldump) - A simple multi-threaded distributed SSH brute-forcing tool written in Python
@@ -1627,7 +1626,7 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [termynal/termynal.py](https://github.com/termynal/termynal.py) - Python markdown terminal. Built for mkdocs
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
@@ -1842,7 +1841,6 @@
 - [prompt-toolkit/pypager](https://github.com/prompt-toolkit/pypager) - A $PAGER in pure Python, similar to "less".
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [althonos/fs.sshfs](https://github.com/althonos/fs.sshfs) - Pyfilesystem2 over SSH using paramiko
 - [jifunks/botany](https://github.com/jifunks/botany) - command line virtual plant buddy
 - [cjolowicz/hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
@@ -2363,6 +2361,7 @@
 
 ## Rust 
 
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
@@ -2383,7 +2382,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -2425,6 +2424,7 @@
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
