@@ -205,6 +205,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
+- [sublime-text](#sublime-text)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -488,7 +489,7 @@
 ## bash 
 
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [hukkin/mdformat-beautysh](https://github.com/hukkin/mdformat-beautysh) - Mdformat plugin to beautify Bash scripts
 - [targendaz2/bats-zsh](https://github.com/targendaz2/bats-zsh) - Plugin enabling Bats to test Zsh scripts
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
@@ -566,7 +567,7 @@
 
 ## bootstrap 
 
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the Python data ecosystem.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -660,6 +661,7 @@
 
 ## cli 
 
+- [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [dnlzrgz/memotica](https://github.com/dnlzrgz/memotica) - An easy, fast, and minimalist space repetition application for the terminal.
@@ -728,7 +730,7 @@
 - [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [frostming/pycomplete](https://github.com/frostming/pycomplete) - A Python library to generate static completion scripts for your CLI app
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
+- [purarue/shortcuts](https://github.com/purarue/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [psincraian/climoji](https://github.com/psincraian/climoji) - Climoji is an initiative to facilitate the use of the emojis from the command line
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -957,7 +959,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
-- [seanbreckenridge/HPI](https://github.com/seanbreckenridge/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data [my modules]
+- [purarue/HPI](https://github.com/purarue/HPI) - Human Programming Interface - a way to unify, access and interact with all of my personal data [my modules]
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 
 ## data-analysis 
@@ -1172,7 +1174,7 @@
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [JostTim/auto_fast_docs](https://github.com/JostTim/auto_fast_docs) - Generate static webside for your code documentation, with fast setup and no extra documentation effort. It is based on the great mkdocs, mkdocs-material and mkdocstrings packages
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
-- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages or entire documentation as PDF documents.
+- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages and/or entire documentation as PDF documents.
 - [keewis/blackdoc](https://github.com/keewis/blackdoc) - run black on documentation code snippets
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
@@ -1225,7 +1227,7 @@
 
 ## dotfiles 
 
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [IsaccBarker/Greatness](https://github.com/IsaccBarker/Greatness) - Acheive greatness!
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -1374,7 +1376,7 @@
 
 ## git 
 
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
@@ -1622,7 +1624,7 @@
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - A code editor that can be embedded in Python applications, with syntax highlighting, autocompletions, minimap, and many more editing features
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast code editor with extensions
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Aesthetic, lightweight code editor with extension support
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
@@ -1747,7 +1749,6 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1789,7 +1790,6 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [VIDA-NYU/reprozip](https://github.com/VIDA-NYU/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [neo4j-contrib/django-neomodel](https://github.com/neo4j-contrib/django-neomodel) - Neomodel plugin for Django
 
@@ -2264,6 +2264,7 @@
 
 ## markdown 
 
+- [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [pa-decarvalho/mkdocs-asciinema-player](https://github.com/pa-decarvalho/mkdocs-asciinema-player) - Mkdocs Plugin to include asciinema player in your documentation.
@@ -2276,7 +2277,7 @@
 - [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [provinzkraut/AutoPyTabs](https://github.com/provinzkraut/AutoPyTabs) - Automatically generate code examples for different Python versions in mkdocs or Sphinx based documentations
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
-- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages or entire documentation as PDF documents.
+- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) - ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages and/or entire documentation as PDF documents.
 - [scivision/linkchecker-markdown](https://github.com/scivision/linkchecker-markdown) - Python asyncio + aiohttp Markdown *.md  URL link checker: 10,000 files/second
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2546,6 +2547,9 @@
 
 ## others 
 
+- [willmcgugan/terminal-tree](https://github.com/willmcgugan/terminal-tree) - 
+- [asherban/mkdocstrings-doxygen](https://github.com/asherban/mkdocstrings-doxygen) - An mkdocstrings language handler for doxygen supported languages
+- [Hyuto/mkdocstrings-javascript](https://github.com/Hyuto/mkdocstrings-javascript) - Javascript language doc generator for mkdocstrings.
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [fralau/mkdocs-test](https://github.com/fralau/mkdocs-test) - A framework for testing MkDocs projects
 - [RichieUltimate/ultimate-trial](https://github.com/RichieUltimate/ultimate-trial) - 
@@ -3104,8 +3108,8 @@
 - [staticshock/colored-traceback.py](https://github.com/staticshock/colored-traceback.py) - Automatically color Python's uncaught exception tracebacks
 - [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
 - [Instagram/Fixit](https://github.com/Instagram/Fixit) - Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.
-- [seanbreckenridge/reddit-wallpaper-scraper](https://github.com/seanbreckenridge/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
-- [seanbreckenridge/steamscraper](https://github.com/seanbreckenridge/steamscraper) - Scrapes personal game/achievement data from steams website
+- [purarue/reddit-wallpaper-scraper](https://github.com/purarue/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
+- [purarue/steamscraper](https://github.com/purarue/steamscraper) - Scrapes personal game/achievement data from steams website
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [hakancelikdev/unimport](https://github.com/hakancelikdev/unimport) - :rocket: The ultimate linter and formatter for removing unused import statements in your code.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
@@ -3383,7 +3387,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [python-poetry/tomlkit](https://github.com/python-poetry/tomlkit) - Style-preserving TOML library for Python
 - [AlbertoSabater/subtitle-synchronization](https://github.com/AlbertoSabater/subtitle-synchronization) - 
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
@@ -3622,7 +3626,7 @@
 - [krisfields/django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [vvangelovski/django-audit-log](https://github.com/vvangelovski/django-audit-log) - Audit log for your Django models
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
-- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+- [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [harenome/dotfiles](https://github.com/harenome/dotfiles) - 
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 
@@ -3825,7 +3829,7 @@
 - [15r10nk/pysource-minimize](https://github.com/15r10nk/pysource-minimize) - minimize python source code to find bugs more easily
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - A code editor that can be embedded in Python applications, with syntax highlighting, autocompletions, minimap, and many more editing features
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast code editor with extensions
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Aesthetic, lightweight code editor with extension support
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
@@ -4078,7 +4082,7 @@
 - [textstat/textstat](https://github.com/textstat/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [vmagamedov/grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio
-- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
+- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [jeanralphaviles/comment_parser](https://github.com/jeanralphaviles/comment_parser) - Python module to extract comments from source code files of various types.
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -4856,7 +4860,7 @@
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
-- [seanbreckenridge/shortcuts](https://github.com/seanbreckenridge/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
+- [purarue/shortcuts](https://github.com/purarue/shortcuts) - creates arbitrary shell scripts from a configuration file; shortcuts
 - [shellspec/shellmetrics](https://github.com/shellspec/shellmetrics) - Cyclomatic Complexity Analyzer for bash, mksh, zsh and POSIX shells
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -4952,6 +4956,10 @@
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 
+## sublime-text 
+
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Aesthetic, lightweight code editor with extension support
+
 ## swift 
 
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
@@ -5003,7 +5011,7 @@
 - [davep/pispy](https://github.com/davep/pispy) - A terminal-based tool for looking up stuff in PyPI
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - A lightweight, fast code editor with extensions
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Aesthetic, lightweight code editor with extension support
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
