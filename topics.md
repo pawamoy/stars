@@ -226,7 +226,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -253,6 +252,7 @@
 
 ## ai 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -2377,7 +2377,7 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [gisce/markdown-blockdiag](https://github.com/gisce/markdown-blockdiag) - blockdiag extension for Python Markdown
-- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - A powerful MkDocs plugin for automatic API documentation generation from Python docstrings
+- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - MkDocs plugin for automatic API documentation generation from Python docstrings
 - [thombashi/pytest-md-report](https://github.com/thombashi/pytest-md-report) - A pytest plugin to generate test outcomes reports with markdown table format.
 - [johnfraney/flake8-markdown](https://github.com/johnfraney/flake8-markdown) - Lints Python code blocks in Markdown files using flake8
 - [fcannizzaro/mkdocs-sequence-js-plugin](https://github.com/fcannizzaro/mkdocs-sequence-js-plugin) - MkDocs plugin to render sequence.js blocks
@@ -2587,6 +2587,7 @@
 
 ## openai 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -2619,7 +2620,7 @@
 
 ## others 
 
-- [codespin-ai/codebox-js](https://github.com/codespin-ai/codebox-js) - Codebox in JS
+- [codespin-ai/codebox](https://github.com/codespin-ai/codebox) - Codebox in JS
 - [rexlunae/python-ast-rs](https://github.com/rexlunae/python-ast-rs) - A Rust library for accessing a Python AST using the Python ast library.
 - [mammothb/mkdocstrings-graphql](https://github.com/mammothb/mkdocstrings-graphql) - 
 - [Kamilcuk/mkdocstrings-sh](https://github.com/Kamilcuk/mkdocstrings-sh) - 
@@ -2840,7 +2841,6 @@
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
-- [davep/textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [lyz-code/pass-collaborate](https://github.com/lyz-code/pass-collaborate) - A `pass` extension that helps collectives manage the access to their passwords.
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [cduck/hyperbolic](https://github.com/cduck/hyperbolic) - A Python 3 library for constructing and drawing hyperbolic geometry
@@ -3486,6 +3486,7 @@
 - [asciimoo/coa](https://github.com/asciimoo/coa) - Local CI tool
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [cykerway/jinja-cli](https://github.com/cykerway/jinja-cli) - a command line interface to jinja;
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -3869,6 +3870,7 @@
 
 ## python 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [micrologai/microlog](https://github.com/micrologai/microlog) - Microlog - A continuous profiler/logger for Python with microscopically small recordings, no overhead, and super-fast rendering using PyScript
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
@@ -3990,6 +3992,7 @@
 - [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
+- [davep/textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
@@ -4590,6 +4593,7 @@
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [davep/textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [dynamic-graphics-inc/dgpy-libs](https://github.com/dynamic-graphics-inc/dgpy-libs) - Dynamic Graphics Python libraries/modules
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -5134,6 +5138,7 @@
 
 ## terminal 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -5161,6 +5166,7 @@
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [davep/textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [Textualize/textualize-see](https://github.com/Textualize/textualize-see) - A file opener for the terminal
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -5336,11 +5342,6 @@
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [mikeslattery/tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-
-## ui-design 
-
-- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
-- [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 
 ## unity 
 
