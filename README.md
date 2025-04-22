@@ -499,7 +499,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [newsuk/AyeSpy](https://github.com/newsuk/AyeSpy) - A performant visual regression testing tool
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thmsrmbld/miniterm](https://github.com/thmsrmbld/miniterm) - Miniterm is an in-browser terminal emulator designed to be used as a portfolio for lazy developers.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [paypal/openapilint](https://github.com/paypal/openapilint) - Node.js linter for OpenAPI specs
@@ -650,6 +649,7 @@
 ## MDX 
 
 - [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -858,6 +858,7 @@
 
 ## Python 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [mammothb/mkdocstrings-graphql](https://github.com/mammothb/mkdocstrings-graphql) - 
 - [Kamilcuk/mkdocstrings-sh](https://github.com/Kamilcuk/mkdocstrings-sh) - 
 - [micrologai/microlog](https://github.com/micrologai/microlog) - Microlog - A continuous profiler/logger for Python with microscopically small recordings, no overhead, and super-fast rendering using PyScript
@@ -1858,7 +1859,7 @@
 - [asottile/astpretty](https://github.com/asottile/astpretty) - Pretty print the output of python stdlib `ast.parse`.
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [cmacmackin/markdown-include](https://github.com/cmacmackin/markdown-include) - Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents.
-- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - A powerful MkDocs plugin for automatic API documentation generation from Python docstrings
+- [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - MkDocs plugin for automatic API documentation generation from Python docstrings
 - [mprivat/mkdocs-snippet-plugin](https://github.com/mprivat/mkdocs-snippet-plugin) - An mkdocs plugin that injects snippets from a file in a git repository
 - [sander76/mkdocs-abs-rel-plugin](https://github.com/sander76/mkdocs-abs-rel-plugin) - MkDocs plugin for converting absolute links to relative ones.
 - [jldiaz/mkdocs-plugin-tags](https://github.com/jldiaz/mkdocs-plugin-tags) - 
@@ -2685,7 +2686,7 @@
 
 ## TypeScript 
 
-- [codespin-ai/codebox-js](https://github.com/codespin-ai/codebox-js) - Codebox in JS
+- [codespin-ai/codebox](https://github.com/codespin-ai/codebox) - Codebox in JS
 - [tomw1808/mkdocs-shadcn](https://github.com/tomw1808/mkdocs-shadcn) - MkDocs in NextJs
 - [krish-adi/llmstxt-site](https://github.com/krish-adi/llmstxt-site) - directory of llms.txt file in the wild
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
