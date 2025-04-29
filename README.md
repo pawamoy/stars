@@ -611,6 +611,7 @@
 
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
 - [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
+- [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - 
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python Project Template for Long-Term Maintainability
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -648,7 +649,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -999,7 +1000,6 @@
 - [andrewpetrochenkov/public.py](https://github.com/andrewpetrochenkov/public.py) - :snake: replace '__all__' with '@public.add' decorator
 - [tombulled/export](https://github.com/tombulled/export) - Expose module functionality
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
-- [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - 
 - [JostTim/auto_fast_docs](https://github.com/JostTim/auto_fast_docs) - Generate static webside for your code documentation, with fast setup and no extra documentation effort. It is based on the great mkdocs, mkdocs-material and mkdocstrings packages
 - [andfoy/pywinpty](https://github.com/andfoy/pywinpty) - Pseudoterminals for Windows in Python
 - [tusharsadhwani/sanskrit](https://github.com/tusharsadhwani/sanskrit) - Write programs in the fastest language, as confirmed by NASA.
@@ -1106,7 +1106,6 @@
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [FreedomBen/terminator](https://github.com/FreedomBen/terminator) - This is a branch of the official Terminator release 0.97
 - [wookayin/python-imgcat](https://github.com/wookayin/python-imgcat) - 🖼 imgcat in Python (for iTerm2)
-- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [Cottonwood-Technology/ValidX](https://github.com/Cottonwood-Technology/ValidX) - Fast, powerful, and flexible validator with sane syntax.
@@ -2446,6 +2445,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [monosans/mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
