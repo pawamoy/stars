@@ -149,7 +149,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [openresty/echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## C# # 
 
@@ -209,6 +209,7 @@
 
 ## CSS 
 
+- [asiffer/mkdocs-shadcn](https://github.com/asiffer/mkdocs-shadcn) - Documentation that also shines
 - [pa-decarvalho/mkdocs-asciinema-player](https://github.com/pa-decarvalho/mkdocs-asciinema-player) - Mkdocs Plugin to include asciinema player in your documentation.
 - [thecodechef/pygments-style-extras](https://github.com/thecodechef/pygments-style-extras) - A Collection of Pygments Styles for Python
 - [cheeaun/repokemon](https://github.com/cheeaun/repokemon) - Showcase of GitHub repos with Pokémon names
@@ -283,11 +284,11 @@
 
 ## Go 
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -340,7 +341,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [traefik/structor](https://github.com/traefik/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
@@ -370,7 +371,7 @@
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
@@ -466,6 +467,7 @@
 ## JavaScript 
 
 - [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add "Ask AI" button into your website
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
 - [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
@@ -542,7 +544,7 @@
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [lukechilds/thanks](https://github.com/lukechilds/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) - Clean your useless GitHub forks
 - [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid) - Map a BitTorrent peer ID to a human-readable client name and version
 - [clabby/popcorn-cli](https://github.com/clabby/popcorn-cli) - Popcorn Time for the command line.
@@ -611,7 +613,7 @@
 
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
 - [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
-- [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - 
+- [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - A Twincat handler for mkdocstrings.
 - [georgedouzas/copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox) - Copier template for Python projects managed by PDM with the help of Nox.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python Project Template for Long-Term Maintainability
 - [pawamoy/copier-pdm](https://github.com/pawamoy/copier-pdm) - Copier template for Python projects managed by PDM.
@@ -633,6 +635,7 @@
 
 ## Kotlin 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [JetBrains/projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
 - [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
 - [koxudaxi/poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
@@ -649,7 +652,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -693,6 +696,7 @@
 
 ## Others 
 
+- [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
 - [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation
 - [krm01/oot-indigo-mod](https://github.com/krm01/oot-indigo-mod) - Patch file release repo for OOT Indigo mod.
@@ -859,11 +863,17 @@
 
 ## Python 
 
+- [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
+- [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
+- [Changaco/python-memory-inventory](https://github.com/Changaco/python-memory-inventory) - A Python module that collects and outputs statistics on global objects.
+- [idlesign/mkdocs-apidescribed-plugin](https://github.com/idlesign/mkdocs-apidescribed-plugin) - mkdocs plugin to generate API documentation for Python programs
+- [aperoc/toolkami](https://github.com/aperoc/toolkami) - Minimal AI agent framework that just works with only seven tools.
+- [JelleZijlstra/pycroscope](https://github.com/JelleZijlstra/pycroscope) - A Python type checker
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [mammothb/mkdocstrings-graphql](https://github.com/mammothb/mkdocstrings-graphql) - 
 - [Kamilcuk/mkdocstrings-sh](https://github.com/Kamilcuk/mkdocstrings-sh) - 
 - [micrologai/microlog](https://github.com/micrologai/microlog) - Microlog - A continuous profiler/logger for Python with microscopically small recordings, no overhead, and super-fast rendering using PyScript
-- [ehmatthes/py-bugger](https://github.com/ehmatthes/py-bugger) - Practice debugging, by intentionally introducing bugs into an existing codebase.
+- [ehmatthes/py-bugger](https://github.com/ehmatthes/py-bugger) - An intentional way to practice debugging in Python.
 - [marimo-team/mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - mkdocs plugin for reactive and interactive docs with marimo
 - [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
 - [tk0miya/diff-highlight](https://github.com/tk0miya/diff-highlight) - 
@@ -883,7 +893,6 @@
 - [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities
 - [terrelln/mkdocstrings-zstd](https://github.com/terrelln/mkdocstrings-zstd) - Custom mkdocstrings handler for Zstd headers
 - [climate-resource/mkdocstrings-python-accessors](https://github.com/climate-resource/mkdocstrings-python-accessors) - Support for documenting accessors with mkdocstrings.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [Kl0ven/mkdocs-material-adr](https://github.com/Kl0ven/mkdocs-material-adr) - ADR for MkDocs's Material Theme
 - [pawamoy/mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) - MkDocs plugin to generate an /llms.txt file (https://llmstxt.org/).
 - [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown
@@ -1058,7 +1067,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable feature-rich code editor widget for tkinter, with syntax highlighting, completions, minimap and more
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Lightweight super code editor with extensions
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Fast, Extensible, Multi-language IDE with AI Assistant
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -1153,7 +1162,7 @@
 - [agmmnn/textual-filedrop](https://github.com/agmmnn/textual-filedrop) - FileDrop widget for Textual, easily drag and drop files into your terminal apps.
 - [davep/textual-astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1442,7 +1451,7 @@
 - [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics - now with GPU support
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
-- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
+- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of RegEx.
 - [pycontribs/subprocess-tee](https://github.com/pycontribs/subprocess-tee) - A subprocess.run drop-in replacement that supports a tee mode, being able to display output in real time while still capturing it. No dependencies needed
 - [twisted/pydoctor](https://github.com/twisted/pydoctor) - This is pydoctor, an API documentation generator that works by static analysis.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
@@ -1648,7 +1657,7 @@
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
@@ -1794,7 +1803,7 @@
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [vesoft-inc/nebula-python](https://github.com/vesoft-inc/nebula-python) - Client API of Nebula Graph in Python
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -1836,7 +1845,7 @@
 - [jeffshek/betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
 - [psincraian/pepy](https://github.com/psincraian/pepy) - pepy is a site to get statistics information about any Python package.
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [emehrkay/neoasynchttpy](https://github.com/emehrkay/neoasynchttpy) - Super simple async HTTP client for Neo4j
 - [gisce/markdown-blockdiag](https://github.com/gisce/markdown-blockdiag) - blockdiag extension for Python Markdown
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
@@ -2371,7 +2380,7 @@
 - [edcrewe/django-csvimport](https://github.com/edcrewe/django-csvimport) - A generic CSV import tool for django models, imports run via admin upload logging model or custom command
 - [krisfields/django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [vvangelovski/django-audit-log](https://github.com/vvangelovski/django-audit-log) - Audit log for your Django models
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 - [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
@@ -2414,6 +2423,7 @@
 
 ## Rust 
 
+- [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) - 
 - [rexlunae/python-ast-rs](https://github.com/rexlunae/python-ast-rs) - A Rust library for accessing a Python AST using the Python ast library.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [lmmx/htmd](https://github.com/lmmx/htmd) - Python bindings for the htmd Rust library, a fast HTML to Markdown converter
@@ -2542,6 +2552,7 @@
 ## Shell 
 
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - 
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -2686,6 +2697,7 @@
 
 ## TypeScript 
 
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [codespin-ai/codebox](https://github.com/codespin-ai/codebox) - Codebox in JS
 - [tomw1808/mkdocs-shadcn](https://github.com/tomw1808/mkdocs-shadcn) - MkDocs in NextJs
 - [krish-adi/llmstxt-site](https://github.com/krish-adi/llmstxt-site) - directory of llms.txt file in the wild
@@ -2697,7 +2709,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
@@ -2718,7 +2730,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -2802,7 +2814,6 @@
 
 ## Vue 
 
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [shi-yan/tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - visualize tree-sitter syntax tree
 - [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
