@@ -699,6 +699,7 @@
 - [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
 - [krish-adi/llmstxt-site](https://github.com/krish-adi/llmstxt-site) - directory of llms.txt file in the wild
 - [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation
+- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [krm01/oot-indigo-mod](https://github.com/krm01/oot-indigo-mod) - Patch file release repo for OOT Indigo mod.
 - [15r10nk/project-ideas](https://github.com/15r10nk/project-ideas) - Collection of some of my project ideas
 - [asherban/mkdocstrings-doxygen](https://github.com/asherban/mkdocstrings-doxygen) - An mkdocstrings language handler for doxygen supported languages
@@ -830,7 +831,7 @@
 - [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 
@@ -877,7 +878,7 @@
 - [marimo-team/mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - mkdocs plugin for reactive and interactive docs with marimo
 - [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
 - [tk0miya/diff-highlight](https://github.com/tk0miya/diff-highlight) - 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [pawamoy/mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) - MkDocs plugin to integrate your coverage HTML report into your site.
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
@@ -900,7 +901,7 @@
 - [jogehl/mkdocstrings-extensions-simple-config-builder](https://github.com/jogehl/mkdocstrings-extensions-simple-config-builder) - Mkdocstring plugin for the simple_config_builder package.
 - [jmlopez-rod/mkdocstrings-m_cli](https://github.com/jmlopez-rod/mkdocstrings-m_cli) - A Python handler for mkdocstrings.
 - [watermarkhu/mkdocstrings-matlab](https://github.com/watermarkhu/mkdocstrings-matlab) - 📘 A MATLAB handler for mkdocstrings, automatic documentation from sources
-- [funtally/http-claws](https://github.com/funtally/http-claws) - Memorize HTTP codes with an interactive http.cat game
+- [bswck/http-claws](https://github.com/bswck/http-claws) - Memorize HTTP codes with an interactive http.cat game
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [potassco/mkdoclingo](https://github.com/potassco/mkdoclingo) - Mkdocs plugin for automatic documentation in clingo
 - [Zatfer17/tui-network](https://github.com/Zatfer17/tui-network) - 
@@ -1067,7 +1068,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable feature-rich code editor widget for tkinter, with syntax highlighting, completions, minimap and more
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Fast, Extensible, Native IDE with Agents🔥Size &lt;20 MB.
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Fast, Extensible, Native IDE with Agents🔥&lt;20 MB in Size
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -1464,7 +1465,7 @@
 - [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Pydocspec is a object specification for representing API documentation of a collection of related python modules.
-- [it-novum/mkdocs-featherlight](https://github.com/it-novum/mkdocs-featherlight) - Featherlight Plugin for MkDocs
+- [openITCOCKPIT/mkdocs-featherlight](https://github.com/openITCOCKPIT/mkdocs-featherlight) - Featherlight Plugin for MkDocs
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
 - [CodeWithSwastik/vscode.py](https://github.com/CodeWithSwastik/vscode.py) - Create VSCode Extensions with python
@@ -1602,7 +1603,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [youngquan/pip-download](https://github.com/youngquan/pip-download) - A wrapper for pip download in offline scenario.
-- [jnoortheen/arger](https://github.com/jnoortheen/arger) - Create argparser automatically from py3.9+ annotations :snake:.
+- [jnoortheen/arger](https://github.com/jnoortheen/arger) - Tiny library to create argparse.ArgumentParser automatically from annotations :snake:.
 - [simonpercivall/astunparse](https://github.com/simonpercivall/astunparse) - An AST unparser for Python
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
@@ -2110,7 +2111,7 @@
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Mic92/python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [ssato/python-anyconfig](https://github.com/ssato/python-anyconfig) - Python library provides common APIs to load and dump configuration files in various formats
@@ -2158,7 +2159,6 @@
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [Pierre-Sassoulas/django-zxcvbn-password-validator](https://github.com/Pierre-Sassoulas/django-zxcvbn-password-validator) - A translatable password validator for django, based on zxcvbn-python and available with pip.
 - [hypermodeinc/pydgraph](https://github.com/hypermodeinc/pydgraph) - Official Dgraph Python client
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [BusesCanFly/rpi-hunter](https://github.com/BusesCanFly/rpi-hunter) - Auto discover and exploit LAN raspberry pi's
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -2555,7 +2555,6 @@
 
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - 
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -2777,6 +2776,7 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
