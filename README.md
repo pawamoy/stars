@@ -160,6 +160,7 @@
 
 ## C++ 
 
+- [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs) - MrDocs: A Clang/LLVM tool for building reference documentation from C++ code and javadoc comments.
 - [lawmurray/doxide](https://github.com/lawmurray/doxide) - Modern documentation for modern C++. Configure with YAML, output Markdown, post-process with Material for MkDocs.
@@ -170,7 +171,6 @@
 - [standardese/standardese](https://github.com/standardese/standardese) - A (work-in-progress) nextgen Doxygen for C++
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
-- [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -296,6 +296,7 @@
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices.
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
@@ -345,7 +346,7 @@
 - [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [traefik/structor](https://github.com/traefik/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
-- [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -392,6 +393,7 @@
 
 ## HTML 
 
+- [jaseg/wsdiff](https://github.com/jaseg/wsdiff) - wsdiff: Produce pretty, single-file HTML-formatted diffs with a css-only adaptive inline/side-by-side layout
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL)
@@ -403,6 +405,7 @@
 - [mkdocstrings/vba](https://github.com/mkdocstrings/vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - An online tool to visualize recursive JS functions step-by-step as a tree.
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -436,6 +439,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
@@ -478,7 +482,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
 - [njourdane/what-the-flow](https://github.com/njourdane/what-the-flow) - A tool to create collaborative catalogs of human body movements for various activities.
 - [boytchev/mannequin.js](https://github.com/boytchev/mannequin.js) - A simple model of articulated human figure
@@ -635,7 +638,6 @@
 
 ## Kotlin 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [JetBrains/projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
 - [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
 - [koxudaxi/poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
@@ -738,11 +740,11 @@
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [unixorn/works-with-home-assistant](https://github.com/unixorn/works-with-home-assistant) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
+- [unixorn/home-assistant-compatibility-guide](https://github.com/unixorn/home-assistant-compatibility-guide) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
 - [koaning/calmcode-feedback](https://github.com/koaning/calmcode-feedback) - A repo to collect issues with calmcode.io
 - [davidenunes/tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
@@ -864,6 +866,18 @@
 
 ## Python 
 
+- [insolor/mkdocstrings-zig](https://github.com/insolor/mkdocstrings-zig) - mkdocstrings handler for zig language (work in progress)
+- [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
+- [noklam/mkdocs-llmstxt-md](https://github.com/noklam/mkdocs-llmstxt-md) - mkdocs plugins for creating LLMs friendly llms.txt and llms-full.txt
+- [geoffrey-a-reed/minimal](https://github.com/geoffrey-a-reed/minimal) - A minimal Python package.
+- [jaywhj/mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates) - A new generation MkDocs plugin for displaying exact creation time, last update time, authors, email of documents
+- [esafak/nim_mkdocstrings](https://github.com/esafak/nim_mkdocstrings) - A Python handler for mkdocstrings.
+- [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
+- [lnoor/sphinx-jsonschema](https://github.com/lnoor/sphinx-jsonschema) - A Sphinx extension to display a JSON Schema
+- [jasiollo/mkdocstrings-handler-go](https://github.com/jasiollo/mkdocstrings-handler-go) - prototype for Warsaw University of Technology project
+- [Mirascope/api2mdx](https://github.com/Mirascope/api2mdx) - Uses griffe to generate mdx docs for python apis
+- [JelleZijlstra/unsoundness](https://github.com/JelleZijlstra/unsoundness) - Collecting examples of unsoundness in the Python type system
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [Changaco/python-memory-inventory](https://github.com/Changaco/python-memory-inventory) - A Python module that collects and outputs statistics on global objects.
@@ -915,6 +929,7 @@
 - [Hyuto/mkdocstrings-javascript](https://github.com/Hyuto/mkdocstrings-javascript) - Javascript language doc generator for mkdocstrings.
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [15r10nk/codecrumbs](https://github.com/15r10nk/codecrumbs) - deprecate and refactor code across library boundaries
+- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
 - [fralau/mkdocs-test](https://github.com/fralau/mkdocs-test) - A framework for testing MkDocs projects
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
@@ -982,7 +997,7 @@
 - [m-vdb/pep440-version-utils](https://github.com/m-vdb/pep440-version-utils) - Utilities to deal with pep440 versioning
 - [carstencodes/pdm-bump](https://github.com/carstencodes/pdm-bump) - A small PEP440 compliant bump utility for the Python development master.
 - [youknowone/baembal](https://github.com/youknowone/baembal) - Boost ast.parse with RustPython-powered parser technology
-- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
+- [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [falldeaf/termlauncher](https://github.com/falldeaf/termlauncher) - 
@@ -1068,7 +1083,7 @@
 - [15r10nk/pysource-codegen](https://github.com/15r10nk/pysource-codegen) - generate random python code to test linter/formatter/and other tools
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable feature-rich code editor widget for tkinter, with syntax highlighting, completions, minimap and more
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Fast, Extensible, Native IDE with Agents🔥&lt;20 MB in Size
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Fast, Extensible, Native IDE with Agents &lt;20 MB in Size
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [mkdocs-publisher/mkdocs-publisher](https://github.com/mkdocs-publisher/mkdocs-publisher) - Publisher for MkDocs - a set of plugins for content creators
@@ -1089,6 +1104,7 @@
 - [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref) - Extension of mkdocstrings-python supporting relative cross-references
 - [thomascrha/textual-game-of-life](https://github.com/thomascrha/textual-game-of-life) - A implementation of Conway's game of life (cellular automata) in the terminal using textual.
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
+- [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [EpicWink/python-docannometa](https://github.com/EpicWink/python-docannometa) - Document symbols via annotation metadata, as described by PEP 727
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
 - [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) - API to interact with the python pyproject.toml based projects
@@ -1352,7 +1368,6 @@
 - [mkdocstrings/python-legacy](https://github.com/mkdocstrings/python-legacy) - A legacy Python handler for mkdocstrings.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [mkdocstrings/pytkdocs](https://github.com/mkdocstrings/pytkdocs) - Load Python objects documentation.
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [john-hen/demo-MkDocstrings](https://github.com/john-hen/demo-MkDocstrings) - Demo of API documentation using MkDocs and MkDocstrings
 - [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for automatically sorting python statements within a module
@@ -1389,7 +1404,7 @@
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [lietu/shylock](https://github.com/lietu/shylock) - Distributed async locks on Python
-- [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple and fast Python RPC framework
+- [Ananto30/zero](https://github.com/Ananto30/zero) - ⚡ Zero - A Lightweight Python RPC Framework
 - [posita/dyce](https://github.com/posita/dyce) - Simple Python tools for exploring dice outcomes and other finite discrete probabilities
 - [emcd/python-lockup](https://github.com/emcd/python-lockup) - Immutable and concealed attributes for Python classes, modules, and namespaces.
 - [MartinThoma/flake8-simplify](https://github.com/MartinThoma/flake8-simplify) - ❄ A flake8 plugin that helps you to simplify code
@@ -1592,7 +1607,7 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [textstat/textstat](https://github.com/textstat/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
-- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 - [vmagamedov/grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [jeanralphaviles/comment_parser](https://github.com/jeanralphaviles/comment_parser) - Python module to extract comments from source code files of various types.
@@ -2014,7 +2029,7 @@
 - [Pebaz/nimporter](https://github.com/Pebaz/nimporter) - Compile Nim Extensions for Python On Import!
 - [celiao/rtsimple](https://github.com/celiao/rtsimple) - A wrapper for the Rotten Tomatoes API v1.0.
 - [p-ouellette/mkdocs-autoreflinks-plugin](https://github.com/p-ouellette/mkdocs-autoreflinks-plugin) - An MkDocs plugin that auto-links heading references
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
@@ -2400,7 +2415,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -2424,6 +2439,7 @@
 
 ## Rust 
 
+- [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
 - [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) - 
 - [rexlunae/python-ast-rs](https://github.com/rexlunae/python-ast-rs) - A Rust library for accessing a Python AST using the Python ast library.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -2436,7 +2452,6 @@
 - [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the uv package manager
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [RustPython/rustpython-ast-pyo3](https://github.com/RustPython/rustpython-ast-pyo3) - 
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -2553,7 +2568,6 @@
 
 ## Shell 
 
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - 
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
