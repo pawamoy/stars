@@ -394,6 +394,7 @@
 
 ## HTML 
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [jaseg/wsdiff](https://github.com/jaseg/wsdiff) - wsdiff: Produce pretty, single-file HTML-formatted diffs with a css-only adaptive inline/side-by-side layout
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
@@ -450,6 +451,7 @@
 
 ## Java 
 
+- [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
 - [RaidAndFade/javadoc-json-doclet](https://github.com/RaidAndFade/javadoc-json-doclet) - Json Doclet for Javadoc (Turn things into json. Fully fleged using Gson)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
@@ -657,7 +659,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -1063,7 +1065,7 @@
 - [mbarkhau/markdown-aafigure](https://github.com/mbarkhau/markdown-aafigure) - aafigure extension for Python Markdown
 - [juftin/lunchable](https://github.com/juftin/lunchable) - Python Client for the Lunch Money Developer API
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [simple-repository/simple-repository-browser](https://github.com/simple-repository/simple-repository-browser) - A web interface to browse and search packages in any simple package repository (PEP-503), inspired by PyPI / warehouse
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1683,7 +1685,7 @@
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
@@ -2448,6 +2450,7 @@
 
 ## Rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [parsiya/knee-deep-tree-sitter](https://github.com/parsiya/knee-deep-tree-sitter) - Code for "Knee Deep in tree-sitter" blog posts.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
@@ -2581,6 +2584,7 @@
 
 ## Shell 
 
+- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
 - [jkool702/timep](https://github.com/jkool702/timep) - `timep` is an efficient and accurate state-of-the-art trap-based profiler and flamegraph generator for bash code. `timep` does much more than "providing per-command execution times" -- it maps the ful
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - 
