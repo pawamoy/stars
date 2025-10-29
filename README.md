@@ -221,7 +221,6 @@
 - [gitparade-com/basher.it](https://github.com/gitparade-com/basher.it) - bash package manager - install/uninstall/update/discover
 - [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [aperezhortal/flake8-dashboard](https://github.com/aperezhortal/flake8-dashboard) - A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.
-- [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [mkdocs/mkdocs-bootswatch](https://github.com/mkdocs/mkdocs-bootswatch) - MkDocs Bootswatch Themes
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [bashtage/sphinx-material](https://github.com/bashtage/sphinx-material) - A material-based, responsive theme inspired by mkdocs-material
@@ -257,6 +256,7 @@
 
 ## Dockerfile 
 
+- [carderne/postmodern-python](https://github.com/carderne/postmodern-python) - A very simple template for productive Python
 - [AshleyYakeley/stable-diffusion-rocm](https://github.com/AshleyYakeley/stable-diffusion-rocm) - 
 - [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -290,6 +290,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
@@ -381,7 +382,7 @@
 - [src-d/go-license-detector](https://github.com/src-d/go-license-detector) - Reliable project licenses detector.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [pengwynn/flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -659,7 +660,6 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -732,7 +732,7 @@
 - [scarmuega/choose-your-side](https://github.com/scarmuega/choose-your-side) - Example of how to use Theme-dependent images in your README
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
-- [adang1345/PythonWindows](https://github.com/adang1345/PythonWindows) - Unofficial Python installers for Windows
+- [adang1345/PythonWindows](https://github.com/adang1345/PythonWindows) - Unofficial Python security updates for Windows
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
@@ -873,6 +873,8 @@
 
 ## Python 
 
+- [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
+- [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
 - [jivanyatra/zalgolib](https://github.com/jivanyatra/zalgolib) - Tools for working with Zalgo-style text.
 - [zzstoatzz/mdxify](https://github.com/zzstoatzz/mdxify) - Generate MDX API documentation from Python modules
 - [will-langdale/griffonner](https://github.com/will-langdale/griffonner) - A templating tool for Griffe.
@@ -896,7 +898,7 @@
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [Changaco/python-memory-inventory](https://github.com/Changaco/python-memory-inventory) - A Python module that collects and outputs statistics on global objects.
 - [idlesign/mkdocs-apidescribed-plugin](https://github.com/idlesign/mkdocs-apidescribed-plugin) - mkdocs plugin to generate API documentation for Python programs
-- [aperoc/toolkami](https://github.com/aperoc/toolkami) - Minimal AI agent framework that just works with only seven tools.
+- [aperoc/toolkami](https://github.com/aperoc/toolkami) - Simple Agents Made Easy
 - [JelleZijlstra/pycroscope](https://github.com/JelleZijlstra/pycroscope) - A Python type checker
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [mammothb/mkdocstrings-graphql](https://github.com/mammothb/mkdocstrings-graphql) - 
@@ -1163,7 +1165,7 @@
 - [PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
-- [KyleKing/mdformat-mkdocs](https://github.com/KyleKing/mdformat-mkdocs) - mdformat plugin for MkDocs
+- [KyleKing/mdformat-mkdocs](https://github.com/KyleKing/mdformat-mkdocs) - mdformat plugin for MkDocs (mkdocs-material in particular)
 - [tristanlatr/libstatic](https://github.com/tristanlatr/libstatic) - Simple static analysis library for Python
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
@@ -1281,7 +1283,7 @@
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython's specializing, adaptive interpreter. :fire:
 - [vsoch/cssclean](https://github.com/vsoch/cssclean) - Remove un-used css styles
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
@@ -1715,7 +1717,7 @@
 - [sdispater/pastel](https://github.com/sdispater/pastel) - Bring colors to your terminal
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [smarie/python-pytest-cases](https://github.com/smarie/python-pytest-cases) - Separate test code from test cases in pytest.
 - [smarie/python-pytest-harvest](https://github.com/smarie/python-pytest-harvest) - Store data created during your `pytest` tests execution, and retrieve it at the end of the session, e.g. for applicative benchmarking purposes.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
@@ -1815,7 +1817,7 @@
 - [mach1el/pyddos](https://github.com/mach1el/pyddos) - DDOS python script
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
-- [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
+- [python-grimp/grimp](https://github.com/python-grimp/grimp) - Builds a graph of a Python project's internal dependencies.
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [EthanRosenthal/nannernest](https://github.com/EthanRosenthal/nannernest) - Optimal peanut butter and banana sandwiches
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2185,7 +2187,7 @@
 - [AlbertoSabater/subtitle-synchronization](https://github.com/AlbertoSabater/subtitle-synchronization) - 
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [Pierre-Sassoulas/django-zxcvbn-password-validator](https://github.com/Pierre-Sassoulas/django-zxcvbn-password-validator) - A translatable password validator for django, based on zxcvbn-python and available with pip.
-- [hypermodeinc/pydgraph](https://github.com/hypermodeinc/pydgraph) - Official Dgraph Python client
+- [dgraph-io/pydgraph](https://github.com/dgraph-io/pydgraph) - Official Dgraph Python client
 - [BusesCanFly/rpi-hunter](https://github.com/BusesCanFly/rpi-hunter) - Auto discover and exploit LAN raspberry pi's
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -2455,7 +2457,7 @@
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [Archimidis/radicle-ci](https://github.com/Archimidis/radicle-ci) - 
-- [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
+- [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter and Formatter written in Rust
 - [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) - 
 - [rexlunae/python-ast-rs](https://github.com/rexlunae/python-ast-rs) - A Rust library for accessing a Python AST using the Python ast library.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -2562,6 +2564,7 @@
 
 ## SCSS 
 
+- [semver/semver.org](https://github.com/semver/semver.org) - Semantic Versioning spec and website
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
@@ -2730,6 +2733,8 @@
 
 ## TypeScript 
 
+- [JamesIves/github-sponsors-readme-action](https://github.com/JamesIves/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks
+- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [cytechmobile/radicle-vscode-extension](https://github.com/cytechmobile/radicle-vscode-extension) - A VS Code extension bringing support for the Radicle network to your IDE.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
@@ -2743,7 +2748,6 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
@@ -2759,6 +2763,7 @@
 - [magnusviri/InvokeAI](https://github.com/magnusviri/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. T
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
