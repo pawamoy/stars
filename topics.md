@@ -2267,7 +2267,7 @@
 
 ## jupyter-notebook 
 
-- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Relocated to https://tangled.org/cduck.me/drawsvg/  Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
+- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Moving to https://tangled.org/cduck.me/drawsvg/  Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## kali-linux 
@@ -5709,7 +5709,7 @@
 - [PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
-- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Relocated to https://tangled.org/cduck.me/drawsvg/  Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
+- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Moving to https://tangled.org/cduck.me/drawsvg/  Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
