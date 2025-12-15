@@ -55,7 +55,6 @@
 - [Sass](#sass)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -211,6 +210,7 @@
 ## CSS 
 
 - [asiffer/mkdocs-shadcn](https://github.com/asiffer/mkdocs-shadcn) - Documentation that also shines
+- [johnslavik/http-claws](https://github.com/johnslavik/http-claws) - Memorize HTTP codes with an interactive http.cat game
 - [pa-decarvalho/mkdocs-asciinema-player](https://github.com/pa-decarvalho/mkdocs-asciinema-player) - Mkdocs Plugin to include asciinema player in your documentation.
 - [thecodechef/pygments-style-extras](https://github.com/thecodechef/pygments-style-extras) - A Collection of Pygments Styles for Python
 - [cheeaun/repokemon](https://github.com/cheeaun/repokemon) - Showcase of GitHub repos with Pokémon names
@@ -485,7 +485,6 @@
 - [ericsoco/d3-force-cluster](https://github.com/ericsoco/d3-force-cluster) - cluster force module for d3.v4 `forceSimulation`
 - [nikeee/setup-pandoc](https://github.com/nikeee/setup-pandoc) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
 - [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
@@ -1288,7 +1287,7 @@
 - [fake-name/autoflake](https://github.com/fake-name/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [quentinsf/dewildcard](https://github.com/quentinsf/dewildcard) - Expand wildcard imports in Python code
 - [icfly2/neographviz](https://github.com/icfly2/neographviz) - A draw function for neo4j graphs, usable as app or in jupyter notebooks.
-- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry.
 - [AnH0ang/mkdocs-matplotlib](https://github.com/AnH0ang/mkdocs-matplotlib) - A mkdocs plugin to automatically render matplotlib figure in your documenation
 - [florimondmanca/asgi-htmx](https://github.com/florimondmanca/asgi-htmx) - HTMX integration for ASGI applications
 - [astrofrog/psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process :chart_with_upwards_trend:
@@ -1474,7 +1473,6 @@
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
-- [ArneBachmann/tagsplorer](https://github.com/ArneBachmann/tagsplorer) - A quick and resource-efficient OS-independent tagging filetree extension tool and library
 - [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [loiccoyle/phomo](https://github.com/loiccoyle/phomo) - 📷 Python package and CLI utility to create photo mosaics - now with GPU support
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
@@ -1520,7 +1518,7 @@
 - [soulless-viewer/mkdocs-video](https://github.com/soulless-viewer/mkdocs-video) - MkDocs Video plugin
 - [ksindi/implements](https://github.com/ksindi/implements) - :snake: Pythonic interfaces using decorators
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [branchvincent/pdm-publish](https://github.com/branchvincent/pdm-publish) - 📦 A PDM plugin to publish to PyPI
+- [branchv/pdm-publish](https://github.com/branchv/pdm-publish) - 📦 A PDM plugin to publish to PyPI
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
@@ -2731,10 +2729,6 @@
 - [cloudflare/semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 - [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 
-## Svelte 
-
-- [johnslavik/http-claws](https://github.com/johnslavik/http-claws) - Memorize HTTP codes with an interactive http.cat game
-
 ## TeX 
 
 - [PolyPasswordHasher/PolyPasswordHasher](https://github.com/PolyPasswordHasher/PolyPasswordHasher) - A Password hash storage scheme that prevents an attacker from cracking passwords individually and efficiently.
@@ -2759,6 +2753,7 @@
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
 - [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
@@ -2865,7 +2860,7 @@
 
 ## Zig 
 
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 ## reStructuredText 
 
