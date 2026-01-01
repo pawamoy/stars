@@ -293,7 +293,7 @@
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native IDE with Agents and Extensions &lt;20 MB in Size
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native Code Editor with Agents and Extensions &lt;20 MB in Size
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -810,7 +810,7 @@
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [yashlamba/handwrite](https://github.com/yashlamba/handwrite) - Handwrite generates a custom font based on your handwriting sample.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [kellyjonbrazil/jtbl](https://github.com/kellyjonbrazil/jtbl) - CLI tool to convert JSON and JSON Lines to terminal, CSV, HTTP, and markdown tables
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
@@ -1880,7 +1880,7 @@
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable feature-rich code editor widget for tkinter, with syntax highlighting, completions, minimap and more
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native IDE with Agents and Extensions &lt;20 MB in Size
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native Code Editor with Agents and Extensions &lt;20 MB in Size
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
@@ -1920,7 +1920,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [unixorn/home-assistant-compatibility-guide](https://github.com/unixorn/home-assistant-compatibility-guide) - Equipment and software that works with Home Assistant. And stuff that didn't so we can avoid it.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -4453,7 +4453,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
-- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
@@ -4920,7 +4920,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [dry-python/lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
-- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
+- [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [lensvol/pybetter](https://github.com/lensvol/pybetter) - Tool for fixing trivial problems with your code.
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
