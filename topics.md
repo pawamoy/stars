@@ -35,7 +35,6 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
-- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -156,6 +155,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -212,7 +212,6 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
-- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -293,7 +292,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [theletterf/impersonaid](https://github.com/theletterf/impersonaid) - Test your documentation against LLM-powered user personas
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native Code Editor with Agents and Extensions &lt;20 MB in Size
@@ -309,7 +308,7 @@
 
 ## ai-agents 
 
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add "Ask AI" button into your website
+- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 
 ## algorithm 
 
@@ -423,6 +422,7 @@
 
 ## artificial-intelligence 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [magnusviri/InvokeAI](https://github.com/magnusviri/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. T
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -511,6 +511,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -622,7 +623,6 @@
 - [wagoodman/bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [oscarmcm/pyenv-chooser](https://github.com/oscarmcm/pyenv-chooser) - Allow pyenv to select the python version from the program name.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [TjWallas/bash-cookiecutter](https://github.com/TjWallas/bash-cookiecutter) - A cookiecutter template for writing safe bash scripts
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -708,9 +708,7 @@
 
 ## chatbot 
 
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add "Ask AI" button into your website
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
@@ -724,10 +722,6 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
-
-## chatgpt-api 
-
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome 
 
@@ -892,7 +886,6 @@
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [tinted-theming/base16-builder-elixir](https://github.com/tinted-theming/base16-builder-elixir) - An Elixir implementation of a Base16 builder.
 - [tinted-theming/base16-builder-ruby](https://github.com/tinted-theming/base16-builder-ruby) - A Ruby implementation of a Base16 builder
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
@@ -1016,12 +1009,11 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 
 ## compiler 
 
@@ -1343,7 +1335,6 @@
 
 ## docker 
 
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
 - [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -1726,6 +1717,7 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1745,7 +1737,7 @@
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
 ## golang 
@@ -1792,7 +1784,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 
 ## good-first-issue 
 
@@ -2309,7 +2301,6 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -2451,12 +2442,12 @@
 
 - [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add "Ask AI" button into your website
+- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -2494,6 +2485,7 @@
 ## machine-learning 
 
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -2543,15 +2535,19 @@
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
-- [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
+
+## malware 
+
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
 ## markdown 
 
@@ -2749,7 +2745,7 @@
 ## nextjs 
 
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -2826,6 +2822,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2846,8 +2843,8 @@
 
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
@@ -2974,7 +2971,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
-- [MatthewLeoLaporte/griffe-inherited-method-crossrefs](https://github.com/MatthewLeoLaporte/griffe-inherited-method-crossrefs) - Griffe extension to replace docstrings of inherited methods with cross-references to parent
+- [i-m-mll/griffe-inherited-method-crossrefs](https://github.com/i-m-mll/griffe-inherited-method-crossrefs) - Griffe extension to replace docstrings of inherited methods with cross-references to parent
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
 - [glyph/PINPal](https://github.com/glyph/PINPal) - random PIN code memorization helper
 - [glyph/Pomodouroboros](https://github.com/glyph/Pomodouroboros) - Pomodoro timer that acknowledges the inexorable, infinite passage of time
@@ -3201,7 +3198,6 @@
 - [Carreau/frappuccino](https://github.com/Carreau/frappuccino) - Freeze your API
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
 - [pypa/advisory-database](https://github.com/pypa/advisory-database) - Advisory database for Python packages published on pypi.org
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [tarcisioe/summon](https://github.com/tarcisioe/summon) - A type-hint complant, pluggable, python task runner.
 - [CZ-NIC/envelope](https://github.com/CZ-NIC/envelope) - Insert a message and attachments and send e-mail / sign / encrypt contents by a single line.
 - [amogorkon/justuse](https://github.com/amogorkon/justuse) - Just use() code from anywhere - a functional import alternative with advanced features like inline version checks, autoreload, module globals injection before import and more.
@@ -3288,8 +3284,8 @@
 - [harlowja/fasteners](https://github.com/harlowja/fasteners) - A python package that provides useful locks.
 - [sleuth-io/code-video-generator](https://github.com/sleuth-io/code-video-generator) - Generates code walkthrough videos using Manim
 - [Julian/regret](https://github.com/Julian/regret) - You made a thing, but now you wish it'd go away... Deprecations, a love story.
-- [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
-- [sauravmishra1017/Parseltongue](https://github.com/sauravmishra1017/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
+- [YelpArchive/gprof2dot](https://github.com/YelpArchive/gprof2dot) - Converts profiling output to a dot graph.
+- [soysaurav/Parseltongue](https://github.com/soysaurav/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme) - A vscode theme generated with pywal color palette
@@ -3725,7 +3721,7 @@
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [rlgomes/pocha](https://github.com/rlgomes/pocha) - pocha - mocha for python
 - [althonos/jinja2-fsloader](https://github.com/althonos/jinja2-fsloader) - A Jinja2 template loader using PyFilesystem2.
 - [macroxue/keyboard-diy](https://github.com/macroxue/keyboard-diy) - DIY 60% split keyboard, 3D-printed and hand-wired
@@ -3889,7 +3885,7 @@
 - [moxie0/sslstrip](https://github.com/moxie0/sslstrip) - A tool for exploiting Moxie Marlinspike's SSL "stripping" attack.
 - [NathanWailes/sens](https://github.com/NathanWailes/sens) - Information to be used to help raise money for the SENS Research Foundation.
 - [maximecb/Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Randomly generated Turing machines draw images and animations on a 2D canvas.
-- [Yelp/requirements-tools](https://github.com/Yelp/requirements-tools) - requirements-tools contains scripts for working with Python requirements, primarily in applications.
+- [YelpArchive/requirements-tools](https://github.com/YelpArchive/requirements-tools) - requirements-tools contains scripts for working with Python requirements, primarily in applications.
 - [synw/django-graphql-utils](https://github.com/synw/django-graphql-utils) - Utilities for working with Graphql in Django
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [fightforthefuture/battleforthenet-widget](https://github.com/fightforthefuture/battleforthenet-widget) - Embed this widget on your site and help save net neutrality!
@@ -4164,6 +4160,7 @@
 
 ## prompt-engineering 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
 
 ## publishing 
@@ -4827,7 +4824,6 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -5016,11 +5012,6 @@
 
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 
-## rag 
-
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add "Ask AI" button into your website
-
 ## rails 
 
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -5184,7 +5175,6 @@
 - [camdencheek/fre](https://github.com/camdencheek/fre) - Command line frecency tracking
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
-- [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [softprops/cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
@@ -5276,7 +5266,6 @@
 ## self-hosted 
 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy)
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
@@ -5371,7 +5360,6 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [infertux/sysechk](https://github.com/infertux/sysechk) - System Security Checker is a bundle of small shell scripts to assess your computer security.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -5576,7 +5564,7 @@
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
@@ -5712,6 +5700,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [JakubAndrysek/mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - 📇 The MkDocs-Typedoc Plugin is a MkDocs plugin that allows you to include TypeDoc documentation in your MkDocs site.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -5787,7 +5776,6 @@
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide) - Workshop on how to use Vim Plugins.
@@ -5986,7 +5974,6 @@
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
