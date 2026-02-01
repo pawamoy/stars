@@ -1065,7 +1065,6 @@
 - [mahrz24/netext](https://github.com/mahrz24/netext) - Netext is a graph (network) rendering library for the terminal.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [aafigure/aafigure](https://github.com/aafigure/aafigure) - ASCII art figures can be parsed and output as SVG, PNG, JPEG, PDF and more. This project provides a python package and a command line script.
 - [mbarkhau/markdown-aafigure](https://github.com/mbarkhau/markdown-aafigure) - aafigure extension for Python Markdown
 - [juftin/lunchable](https://github.com/juftin/lunchable) - Python Client for the Lunch Money Developer API
@@ -2275,7 +2274,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [peritus/bumpversion](https://github.com/peritus/bumpversion) - Version-bump your software with a single command
 - [ridi/django-shard-library](https://github.com/ridi/django-shard-library) - 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [CleanCut/green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [xsteadfastx/jinja2-slug](https://github.com/xsteadfastx/jinja2-slug) - 
@@ -2754,8 +2753,9 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [michaelcpuckett/ap-groups](https://github.com/michaelcpuckett/ap-groups) - Groups for the Fediverse
 - [ts-graphviz/setup-graphviz](https://github.com/ts-graphviz/setup-graphviz) - ▶️ GitHub Action to set up Graphviz cross-platform(Linux, macOS, Windows).
@@ -2815,7 +2815,7 @@
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
