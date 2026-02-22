@@ -9,7 +9,6 @@
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
 - [Blade](#blade)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -85,12 +84,9 @@
 
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-
 ## C 
 
+- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark) - A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)
@@ -627,6 +623,7 @@
 
 ## Jinja 
 
+- [ritwiktiwari/copier-astral](https://github.com/ritwiktiwari/copier-astral) - Fast Python project template with Astral's toolchain (uv, ruff, ty) + pytest, MkDocs, Typer, GitHub Actions, Docker
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
 - [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
 - [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - A Twincat handler for mkdocstrings.
@@ -651,6 +648,7 @@
 
 ## Kotlin 
 
+- [stoatchat/for-android](https://github.com/stoatchat/for-android) - Stoat for Android — App and internal API library
 - [JetBrains/projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
 - [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
 - [koxudaxi/poetry-pycharm-plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) - A PyCharm plugin for poetry
@@ -708,6 +706,7 @@
 
 ## Others 
 
+- [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies) - A list of policies by different open source projects about how to engage with AI-generated contributions.
 - [pydev-guide/pydev-guide.github.io](https://github.com/pydev-guide/pydev-guide.github.io) - Guide to python package development for scientists
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
@@ -881,6 +880,20 @@
 
 ## Python 
 
+- [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
+- [mkdocstrings/griffe-tui](https://github.com/mkdocstrings/griffe-tui) - A textual user interface for Griffe.
+- [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
+- [mkdocstrings/griffe-runtime-objects](https://github.com/mkdocstrings/griffe-runtime-objects) - Make runtime objects available through `extra`.
+- [mkdocstrings/griffe-public-wildcard-imports](https://github.com/mkdocstrings/griffe-public-wildcard-imports) - Mark wildcard imported objects as public.
+- [mkdocstrings/griffe-public-redundant-aliases](https://github.com/mkdocstrings/griffe-public-redundant-aliases) - Mark objects imported with redundant aliases as public.
+- [mkdocstrings/griffe-autodocstringstyle](https://github.com/mkdocstrings/griffe-autodocstringstyle) - Set docstring style to 'auto' for external packages.
+- [mkdocstrings/griffe-warnings-deprecated](https://github.com/mkdocstrings/griffe-warnings-deprecated) - Griffe extension for `@warnings.deprecated` (PEP 702).
+- [mkdocstrings/griffe-pydantic](https://github.com/mkdocstrings/griffe-pydantic) - Griffe extension for Pydantic.
+- [mkdocstrings/griffe-typingdoc](https://github.com/mkdocstrings/griffe-typingdoc) - Griffe extension for `annotated-doc` (originally PEP 727)
+- [mkdocstrings/griffe-inherited-docstrings](https://github.com/mkdocstrings/griffe-inherited-docstrings) - Griffe extension for inheriting docstrings.
+- [mkdocstrings/griffe-sphinx](https://github.com/mkdocstrings/griffe-sphinx) - Parse Sphinx-comments above attributes as docstrings.
+- [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
+- [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
 - [femtomc/inshallah](https://github.com/femtomc/inshallah) - everyone is making the same thing and nothing matters anymore (no one cares about your orchestrator)
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
@@ -2108,7 +2121,7 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [zachwill/moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
-- [srstevenson/xdg-base-dirs](https://github.com/srstevenson/xdg-base-dirs) - Python module for accessing XDG Base Directory paths, simplifying handling of user cache, configuration, and data files.
+- [srstevenson/xdg-base-dirs](https://github.com/srstevenson/xdg-base-dirs) - Python module for accessing XDG Base Directory paths, simplifying handling of user cache, configuration, and data files
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [iCHAIT/moviemon](https://github.com/iCHAIT/moviemon) - :movie_camera: Everything about your movies within the command line.
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
@@ -2746,6 +2759,8 @@
 
 ## TypeScript 
 
+- [stoatchat/for-desktop](https://github.com/stoatchat/for-desktop) - Stoat for Desktop – application for Windows, macOS, and Linux
+- [stoatchat/for-web](https://github.com/stoatchat/for-web) - Stoat for Web – browser app for Stoat
 - [JamesIves/github-sponsors-readme-action](https://github.com/JamesIves/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [cytechmobile/radicle-vscode-extension](https://github.com/cytechmobile/radicle-vscode-extension) - A VS Code extension bringing support for the Radicle network to your IDE.
@@ -2825,6 +2840,7 @@
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
