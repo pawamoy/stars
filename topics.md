@@ -337,6 +337,7 @@
 
 ## android 
 
+- [stoatchat/for-android](https://github.com/stoatchat/for-android) - Stoat for Android — App and internal API library
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -370,6 +371,7 @@
 
 ## api 
 
+- [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [idlesign/mkdocs-apidescribed-plugin](https://github.com/idlesign/mkdocs-apidescribed-plugin) - mkdocs plugin to generate API documentation for Python programs
 - [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
@@ -745,6 +747,7 @@
 
 ## cli 
 
+- [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [queelius/crier](https://github.com/queelius/crier) - Cross-post your content to dev.to, Hashnode, Medium, Bluesky, Mastodon, and more
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -1380,6 +1383,8 @@
 
 ## documentation 
 
+- [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
+- [mkdocstrings/griffe-typingdoc](https://github.com/mkdocstrings/griffe-typingdoc) - Griffe extension for `annotated-doc` (originally PEP 727)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -2554,6 +2559,7 @@
 
 ## markdown 
 
+- [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -2879,6 +2885,16 @@
 
 ## others 
 
+- [mkdocstrings/griffe-runtime-objects](https://github.com/mkdocstrings/griffe-runtime-objects) - Make runtime objects available through `extra`.
+- [mkdocstrings/griffe-public-wildcard-imports](https://github.com/mkdocstrings/griffe-public-wildcard-imports) - Mark wildcard imported objects as public.
+- [mkdocstrings/griffe-public-redundant-aliases](https://github.com/mkdocstrings/griffe-public-redundant-aliases) - Mark objects imported with redundant aliases as public.
+- [mkdocstrings/griffe-autodocstringstyle](https://github.com/mkdocstrings/griffe-autodocstringstyle) - Set docstring style to 'auto' for external packages.
+- [mkdocstrings/griffe-pydantic](https://github.com/mkdocstrings/griffe-pydantic) - Griffe extension for Pydantic.
+- [mkdocstrings/griffe-inherited-docstrings](https://github.com/mkdocstrings/griffe-inherited-docstrings) - Griffe extension for inheriting docstrings.
+- [stoatchat/for-desktop](https://github.com/stoatchat/for-desktop) - Stoat for Desktop – application for Windows, macOS, and Linux
+- [stoatchat/for-web](https://github.com/stoatchat/for-web) - Stoat for Web – browser app for Stoat
+- [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies) - A list of policies by different open source projects about how to engage with AI-generated contributions.
+- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [femtomc/inshallah](https://github.com/femtomc/inshallah) - everyone is making the same thing and nothing matters anymore (no one cares about your orchestrator)
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
@@ -3685,7 +3701,7 @@
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [omdbapi/OMDb-API](https://github.com/omdbapi/OMDb-API) - The Open Movie Database Bug Tracking
 - [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) - Pure python implementation of identifying files based off their magic numbers
-- [srstevenson/xdg-base-dirs](https://github.com/srstevenson/xdg-base-dirs) - Python module for accessing XDG Base Directory paths, simplifying handling of user cache, configuration, and data files.
+- [srstevenson/xdg-base-dirs](https://github.com/srstevenson/xdg-base-dirs) - Python module for accessing XDG Base Directory paths, simplifying handling of user cache, configuration, and data files
 - [mayankchd/movie](https://github.com/mayankchd/movie) - A CLI for getting information about movies and comparing two movies
 - [timothycrosley/pdocs](https://github.com/timothycrosley/pdocs) - A simple program and library to auto generate API documentation for Python modules.
 - [erichulser/mkdocs_autodoc](https://github.com/erichulser/mkdocs_autodoc) - 
@@ -4176,6 +4192,12 @@
 
 ## python 
 
+- [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
+- [mkdocstrings/griffe-warnings-deprecated](https://github.com/mkdocstrings/griffe-warnings-deprecated) - Griffe extension for `@warnings.deprecated` (PEP 702).
+- [mkdocstrings/griffe-sphinx](https://github.com/mkdocstrings/griffe-sphinx) - Parse Sphinx-comments above attributes as docstrings.
+- [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
+- [ritwiktiwari/copier-astral](https://github.com/ritwiktiwari/copier-astral) - Fast Python project template with Astral's toolchain (uv, ruff, ty) + pytest, MkDocs, Typer, GitHub Actions, Docker
+- [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [queelius/crier](https://github.com/queelius/crier) - Cross-post your content to dev.to, Hashnode, Medium, Bluesky, Mastodon, and more
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
@@ -5470,6 +5492,8 @@
 
 ## terminal 
 
+- [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
+- [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -5640,6 +5664,9 @@
 
 ## tui 
 
+- [mkdocstrings/griffe-tui](https://github.com/mkdocstrings/griffe-tui) - A textual user interface for Griffe.
+- [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
+- [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
