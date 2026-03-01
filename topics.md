@@ -292,7 +292,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [theletterf/impersonaid](https://github.com/theletterf/impersonaid) - Test your documentation against LLM-powered user personas
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - Native Code Editor with Agents and Extensions &lt;20 MB in Size
@@ -308,7 +308,6 @@
 
 ## ai-agents 
 
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 
 ## algorithm 
@@ -372,7 +371,6 @@
 ## api 
 
 - [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [idlesign/mkdocs-apidescribed-plugin](https://github.com/idlesign/mkdocs-apidescribed-plugin) - mkdocs plugin to generate API documentation for Python programs
 - [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
@@ -425,7 +423,7 @@
 
 ## artificial-intelligence 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [magnusviri/InvokeAI](https://github.com/magnusviri/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. T
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -515,7 +513,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -712,7 +710,6 @@
 
 ## chatbot 
 
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
@@ -721,7 +718,7 @@
 
 ## chatgpt 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
@@ -1365,7 +1362,6 @@
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/
@@ -1733,7 +1729,6 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1779,7 +1774,6 @@
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
 - [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [OpenPeeDeeP/xdg](https://github.com/OpenPeeDeeP/xdg) - A cross platform package that follows the XDG Standard
@@ -1999,7 +1993,6 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2300,7 +2293,6 @@
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
@@ -2450,12 +2442,11 @@
 
 - [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -2493,7 +2484,7 @@
 ## machine-learning 
 
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -2655,6 +2646,7 @@
 
 ## mcp 
 
+- [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -2754,7 +2746,7 @@
 ## nextjs 
 
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -2831,7 +2823,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2853,7 +2845,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bot running in AWS Lambda
@@ -2885,6 +2877,10 @@
 
 ## others 
 
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
+- [davidbrochart/textual-editor](https://github.com/davidbrochart/textual-editor) - 
+- [oedokumaci/python-production-template](https://github.com/oedokumaci/python-production-template) - AI-native Copier template for production-ready Python projects
+- [oedokumaci/dead-mans-switch](https://github.com/oedokumaci/dead-mans-switch) - A free, private, and efficient dead man's switch emailer
 - [mkdocstrings/griffe-runtime-objects](https://github.com/mkdocstrings/griffe-runtime-objects) - Make runtime objects available through `extra`.
 - [mkdocstrings/griffe-public-wildcard-imports](https://github.com/mkdocstrings/griffe-public-wildcard-imports) - Mark wildcard imported objects as public.
 - [mkdocstrings/griffe-public-redundant-aliases](https://github.com/mkdocstrings/griffe-public-redundant-aliases) - Mark objects imported with redundant aliases as public.
@@ -3451,7 +3447,7 @@
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [doom/pychu](https://github.com/doom/pychu) - Layered configuration loading built on Pydantic.
 - [thatch/old-pypi-projects-json](https://github.com/thatch/old-pypi-projects-json) - Copies of json metadata for projects that are no longer on pypi
-- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
+- [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [Akianonymus/parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) - MkDocs plugin to allow clickable sections that lead to an index page
@@ -4182,7 +4178,7 @@
 
 ## prompt-engineering 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
 
 ## publishing 
@@ -4192,6 +4188,7 @@
 
 ## python 
 
+- [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
 - [mkdocstrings/griffe-warnings-deprecated](https://github.com/mkdocstrings/griffe-warnings-deprecated) - Griffe extension for `@warnings.deprecated` (PEP 702).
 - [mkdocstrings/griffe-sphinx](https://github.com/mkdocstrings/griffe-sphinx) - Parse Sphinx-comments above attributes as docstrings.
@@ -4204,7 +4201,6 @@
 - [zzstoatzz/mdxify](https://github.com/zzstoatzz/mdxify) - Generate MDX API documentation from Python modules
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [gleb-sevruk/pycrunch-trace](https://github.com/gleb-sevruk/pycrunch-trace) - Time Travel Debugging for Python
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [NiklasRosenstein/slap](https://github.com/NiklasRosenstein/slap) - Slap is a CLI to assist in the process for developing and releasing Python packages.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [micrologai/microlog](https://github.com/micrologai/microlog) - Microlog - A continuous profiler/logger for Python with microscopically small recordings, no overhead, and super-fast rendering using PyScript
@@ -5246,7 +5242,6 @@
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -5285,7 +5280,6 @@
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
@@ -5664,6 +5658,7 @@
 
 ## tui 
 
+- [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [mkdocstrings/griffe-tui](https://github.com/mkdocstrings/griffe-tui) - A textual user interface for Griffe.
 - [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
 - [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
@@ -5734,7 +5729,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [JakubAndrysek/mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - 📇 The MkDocs-Typedoc Plugin is a MkDocs plugin that allows you to include TypeDoc documentation in your MkDocs site.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
