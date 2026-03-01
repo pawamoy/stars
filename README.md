@@ -358,7 +358,6 @@
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -404,7 +403,7 @@
 - [jaseg/wsdiff](https://github.com/jaseg/wsdiff) - wsdiff: Produce pretty, single-file HTML-formatted diffs with a css-only adaptive inline/side-by-side layout
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL)
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
@@ -483,7 +482,6 @@
 
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [theletterf/impersonaid](https://github.com/theletterf/impersonaid) - Test your documentation against LLM-powered user personas
-- [Gurubase/gurubase-widget](https://github.com/Gurubase/gurubase-widget) - Add Gurubase "Ask AI" button (Web Widget) into your website
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
 - [MkDocsEditor/MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
@@ -623,6 +621,7 @@
 
 ## Jinja 
 
+- [oedokumaci/python-production-template](https://github.com/oedokumaci/python-production-template) - AI-native Copier template for production-ready Python projects
 - [ritwiktiwari/copier-astral](https://github.com/ritwiktiwari/copier-astral) - Fast Python project template with Astral's toolchain (uv, ruff, ty) + pytest, MkDocs, Typer, GitHub Actions, Docker
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
 - [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
@@ -670,6 +669,7 @@
 ## Makefile 
 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -827,7 +827,6 @@
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vintasoftware/python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sublimemarch/so-you-just-learned](https://github.com/sublimemarch/so-you-just-learned) - So, you just learned that there are problems in the tech industry. What now?
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
@@ -880,6 +879,9 @@
 
 ## Python 
 
+- [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
+- [davidbrochart/textual-editor](https://github.com/davidbrochart/textual-editor) - 
+- [oedokumaci/dead-mans-switch](https://github.com/oedokumaci/dead-mans-switch) - A free, private, and efficient dead man's switch emailer
 - [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
 - [mkdocstrings/griffe-tui](https://github.com/mkdocstrings/griffe-tui) - A textual user interface for Griffe.
 - [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
@@ -909,7 +911,6 @@
 - [zzstoatzz/mdxify](https://github.com/zzstoatzz/mdxify) - Generate MDX API documentation from Python modules
 - [will-langdale/griffonner](https://github.com/will-langdale/griffonner) - A templating tool for Griffe.
 - [gleb-sevruk/pycrunch-trace](https://github.com/gleb-sevruk/pycrunch-trace) - Time Travel Debugging for Python
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [pawamoy/mkdocs-spellcheck](https://github.com/pawamoy/mkdocs-spellcheck) - A spell checker plugin for MkDocs.
 - [NiklasRosenstein/slap](https://github.com/NiklasRosenstein/slap) - Slap is a CLI to assist in the process for developing and releasing Python packages.
 - [insolor/mkdocstrings-zig](https://github.com/insolor/mkdocstrings-zig) - mkdocstrings handler for zig language (work in progress)
@@ -1714,7 +1715,7 @@
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [doom/pychu](https://github.com/doom/pychu) - Layered configuration loading built on Pydantic.
-- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
+- [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) - MkDocs plugin to allow clickable sections that lead to an index page
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
@@ -2759,6 +2760,7 @@
 
 ## TypeScript 
 
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [stoatchat/for-desktop](https://github.com/stoatchat/for-desktop) - Stoat for Desktop – application for Windows, macOS, and Linux
 - [stoatchat/for-web](https://github.com/stoatchat/for-web) - Stoat for Web – browser app for Stoat
 - [JamesIves/github-sponsors-readme-action](https://github.com/JamesIves/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks
