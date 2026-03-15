@@ -316,7 +316,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -365,7 +365,7 @@
 - [OpenPeeDeeP/xdg](https://github.com/OpenPeeDeeP/xdg) - A cross platform package that follows the XDG Standard
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [asciimoo/coa](https://github.com/asciimoo/coa) - Local CI tool
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -400,6 +400,7 @@
 
 ## HTML 
 
+- [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [jaseg/wsdiff](https://github.com/jaseg/wsdiff) - wsdiff: Produce pretty, single-file HTML-formatted diffs with a css-only adaptive inline/side-by-side layout
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
@@ -443,7 +444,6 @@
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [pallamidessi/annoying.js](https://github.com/pallamidessi/annoying.js) - 
 - [ryan-roemer/sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -616,6 +616,7 @@
 - [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [Pylons/deform](https://github.com/Pylons/deform) - A Python HTML form library.
 - [fusionbox/django-widgy](https://github.com/fusionbox/django-widgy) - A CMS framework for Django built on a heterogenous tree editor.
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
@@ -707,6 +708,7 @@
 
 ## Others 
 
+- [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies) - A list of policies by different open source projects about how to engage with AI-generated contributions.
 - [pydev-guide/pydev-guide.github.io](https://github.com/pydev-guide/pydev-guide.github.io) - Guide to python package development for scientists
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
@@ -785,7 +787,6 @@
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
-- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [flying-sheep/awesome-python-packaging](https://github.com/flying-sheep/awesome-python-packaging) - An awesome list for python package development
 - [staltz/comver](https://github.com/staltz/comver) - MIGRATED TO https://gitlab.com/staltz/comver
 - [ukncsc/zero-trust-architecture](https://github.com/ukncsc/zero-trust-architecture) - Principles to help you design and deploy a zero trust architecture
@@ -880,7 +881,7 @@
 
 ## Python 
 
-- [jakob1379/zensical-code-references](https://github.com/jakob1379/zensical-code-references) - 
+- [jakob1379/pymdown-symbolic-snippets](https://github.com/jakob1379/pymdown-symbolic-snippets) - 
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [holdenweb/textual-wtf](https://github.com/holdenweb/textual-wtf) - A versatile forms library for textual
@@ -1478,7 +1479,7 @@
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [Colin-b/keepachangelog](https://github.com/Colin-b/keepachangelog) - Convert keep a changelog markdown file into python dict
-- [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍
+- [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍 https://github.com/johnthagen/python-blueprint
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [dbatten5/phylm](https://github.com/dbatten5/phylm) - Python package to aggregate useful data around films
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
@@ -1542,7 +1543,7 @@
 - [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)
 - [vladisa88/fastapi-ormar-utilities](https://github.com/vladisa88/fastapi-ormar-utilities) - Small package for making views in FastAPI cleaner
 - [Kludex/flake8-fastapi](https://github.com/Kludex/flake8-fastapi) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓
-- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Python library and CLI tool to check if a file is binary or text. Zero dependencies, uses a trained classifier instead of chardet
+- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Binary file detection that actually works. 131 extensions, 55 magic-byte signatures, a trained decision tree, and zero dependencies.
 - [hukkin/tomli](https://github.com/hukkin/tomli) - A lil' TOML parser
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -1596,7 +1597,7 @@
 - [repo-helper/whey](https://github.com/repo-helper/whey) - A simple Python wheel builder for simple projects.
 - [g6123/mkdocs-yaarg-plugin](https://github.com/g6123/mkdocs-yaarg-plugin) - Yet Another API Reference Generator plugin for MKDocs.
 - [LedgerProject/GeneCoop](https://github.com/LedgerProject/GeneCoop) - Repository for the GeneCoop Project
-- [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
+- [apache/casbin-pycasbin](https://github.com/apache/casbin-pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
@@ -1988,7 +1989,7 @@
 - [Mergifyio/git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull requests via command line
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [rsokl/custom_inherit](https://github.com/rsokl/custom_inherit) - A Python package that provides tools for inheriting docstrings in customizable ways.
-- [readthedocs/sphinx-autoapi](https://github.com/readthedocs/sphinx-autoapi) - A new approach to API documentation in Sphinx.
+- [readthedocs/sphinx-autoapi](https://github.com/readthedocs/sphinx-autoapi) - A Sphinx extension for generating API documentation without importing the API.
 - [johnfraney/flake8-markdown](https://github.com/johnfraney/flake8-markdown) - Lints Python code blocks in Markdown files using flake8
 - [tych0/xcffib](https://github.com/tych0/xcffib) - xcffib is the XCB binding for Python
 - [kevlened/pytest-parallel](https://github.com/kevlened/pytest-parallel) - A pytest plugin for parallel and concurrent testing
@@ -2070,7 +2071,7 @@
 - [Pebaz/nimporter](https://github.com/Pebaz/nimporter) - Compile Nim Extensions for Python On Import!
 - [celiao/rtsimple](https://github.com/celiao/rtsimple) - A wrapper for the Rotten Tomatoes API v1.0.
 - [p-ouellette/mkdocs-autoreflinks-plugin](https://github.com/p-ouellette/mkdocs-autoreflinks-plugin) - An MkDocs plugin that auto-links heading references
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
@@ -2089,6 +2090,7 @@
 - [manuzhang/mkdocs-htmlproofer-plugin](https://github.com/manuzhang/mkdocs-htmlproofer-plugin) - A MkDocs plugin that validates URL in rendered html files
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [benjaoming/pytosquatting](https://github.com/benjaoming/pytosquatting) - 
 - [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
@@ -2531,7 +2533,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
@@ -2765,6 +2767,7 @@
 
 ## TypeScript 
 
+- [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [stoatchat/for-desktop](https://github.com/stoatchat/for-desktop) - Stoat for Desktop – application for Windows, macOS, and Linux
 - [stoatchat/for-web](https://github.com/stoatchat/for-web) - Stoat for Web – browser app for Stoat
@@ -2843,7 +2846,7 @@
 - [sfeir-open-source/sfeir-school-angular](https://github.com/sfeir-open-source/sfeir-school-angular) - Repository for Sfeir School Angular
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
 - [adesgautam/dj-angular](https://github.com/adesgautam/dj-angular) - Integrating Django and Angular
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
