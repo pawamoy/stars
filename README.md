@@ -626,7 +626,6 @@
 - [oedokumaci/python-production-template](https://github.com/oedokumaci/python-production-template) - AI-native Copier template for production-ready Python projects
 - [ritwiktiwari/copier-astral](https://github.com/ritwiktiwari/copier-astral) - Fast Python project template with Astral's toolchain (uv, ruff, ty) + pytest, MkDocs, Typer, GitHub Actions, Docker
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
-- [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
 - [drehstromer/mkdocstrings-twincat](https://github.com/drehstromer/mkdocstrings-twincat) - A Twincat handler for mkdocstrings.
 - [georgedouzas/copier-modern-python](https://github.com/georgedouzas/copier-modern-python) - Copier template for modern Python projects.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python Project Template for Long-Term Maintainability
@@ -677,7 +676,7 @@
 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Mustache 
 
@@ -867,7 +866,7 @@
 
 ## Perl 
 
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -881,6 +880,9 @@
 
 ## Python 
 
+- [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
+- [henryiii/flake8-lazy](https://github.com/henryiii/flake8-lazy) - Detect modules that can be lazy imported in Python 3.15+
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager.
 - [jakob1379/pymdown-symbolic-snippets](https://github.com/jakob1379/pymdown-symbolic-snippets) - 
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
@@ -1040,7 +1042,7 @@
 - [hukkin/mdformat-web](https://github.com/hukkin/mdformat-web) - Mdformat plugin to format JS, CSS, HTML and XML code blocks
 - [hukkin/mdformat-tables](https://github.com/hukkin/mdformat-tables) - An mdformat plugin for rendering tables
 - [butler54/mdformat-frontmatter](https://github.com/butler54/mdformat-frontmatter) - mdformat plugin to ensure frontmatter is respected.
-- [oprypin/hatch-mkdocs](https://github.com/oprypin/hatch-mkdocs) - Hatch plugin to integrate MkDocs and infer dependencies into an env
+- [ProperDocs/hatch-properdocs](https://github.com/ProperDocs/hatch-properdocs) - Hatch plugin to integrate ProperDocs and infer dependencies into an env
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
@@ -1050,6 +1052,7 @@
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
+- [softboiler/copier-pipeline](https://github.com/softboiler/copier-pipeline) - Copier template for research data pipelines
 - [falldeaf/termlauncher](https://github.com/falldeaf/termlauncher) - 
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
@@ -1209,7 +1212,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [davep/tdim](https://github.com/davep/tdim) - A quick and dirty terminal dimension checker/seeker
 - [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
-- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
+- [osprey-oss/deptry](https://github.com/osprey-oss/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
@@ -1380,7 +1383,7 @@
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [disrupted/subclean](https://github.com/disrupted/subclean) - 🧙📖 Simple CLI to instantly enhance your movie & TV show subtitles
 - [radish-bdd/radish](https://github.com/radish-bdd/radish) - Behavior Driven Development tooling for Python. The root from red to green.
-- [seperman/deepdiff](https://github.com/seperman/deepdiff) - DeepDiff: Deep Difference and search of any Python object/data. DeepHash: Hash of any object based on its contents. Delta: Use deltas to reconstruct objects by adding deltas together.
+- [qlustered/deepdiff](https://github.com/qlustered/deepdiff) - DeepDiff: Deep Difference and search of any Python object/data. DeepHash: Hash of any object based on its contents. Delta: Use deltas to reconstruct objects by adding deltas together.
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [apparebit/konsole](https://github.com/apparebit/konsole) - Readable, pleasing console output for Python
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
@@ -2481,6 +2484,7 @@
 
 ## Rust 
 
+- [kurama/dealve-tui](https://github.com/kurama/dealve-tui) - Delve into game deals from your terminal 👾
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [zensical/mono](https://github.com/zensical/mono) - Mono repository automation toolkit
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
