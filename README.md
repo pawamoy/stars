@@ -309,7 +309,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [filiptronicek/gh-sponsors-api](https://github.com/filiptronicek/gh-sponsors-api) - A REST API for GitHub Sponsors
 - [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
@@ -669,7 +669,6 @@
 ## Makefile 
 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -827,6 +826,7 @@
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vintasoftware/python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sublimemarch/so-you-just-learned](https://github.com/sublimemarch/so-you-just-learned) - So, you just learned that there are problems in the tech industry. What now?
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
@@ -880,6 +880,7 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
@@ -1398,7 +1399,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs) - Hatch plugin for versioning with your preferred VCS
 - [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
-- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
+- [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [wemake-services/coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define!
 - [pydanny/cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
 - [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
