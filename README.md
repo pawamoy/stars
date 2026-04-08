@@ -8,7 +8,6 @@
 - [Assembly](#assembly)
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -21,6 +20,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -80,10 +80,6 @@
 
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
-
 ## C 
 
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
@@ -107,14 +103,14 @@
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
+- [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump, similar to hexyl and xxd.
 - [python/typed_ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [sharpbracket/redshift](https://github.com/sharpbracket/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [kai-kj/TerminalMediaViewer](https://github.com/kai-kj/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
@@ -281,6 +277,10 @@
 
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## Gherkin 
 
@@ -546,6 +546,7 @@
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [userdashboard/dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -880,6 +881,8 @@
 
 ## Python 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [lmmx/trusty-pub](https://github.com/lmmx/trusty-pub) - Indexing support for Trusted Publishing on PyPI
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
@@ -1716,7 +1719,7 @@
 - [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
 - [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [cmitu/mkdocs-altlink-plugin](https://github.com/cmitu/mkdocs-altlink-plugin) - An MkDocs plugin that simplifies internal links creation
-- [Jackiexiao/mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+- [makerjackie/mkdocs-roamlinks-plugin](https://github.com/makerjackie/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [Picovoice/rhino](https://github.com/Picovoice/rhino) - On-device Speech-to-Intent engine powered by deep learning
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
@@ -1872,7 +1875,6 @@
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
-- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [taskipy/taskipy](https://github.com/taskipy/taskipy) - the complementary task runner for python
 - [psincraian/climoji](https://github.com/psincraian/climoji) - Climoji is an initiative to facilitate the use of the emojis from the command line
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
@@ -2495,7 +2497,7 @@
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [parsiya/knee-deep-tree-sitter](https://github.com/parsiya/knee-deep-tree-sitter) - Code for "Knee Deep in tree-sitter" blog posts.
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [Archimidis/radicle-ci](https://github.com/Archimidis/radicle-ci) - 
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -2568,11 +2570,11 @@
 - [olivia-banks/greatness](https://github.com/olivia-banks/greatness) - Acheive greatness!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ruscur/snowpatch](https://github.com/ruscur/snowpatch) - Enabling continuous integration for patch-based development workflows.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
