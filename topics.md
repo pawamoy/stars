@@ -760,6 +760,7 @@
 
 ## cli 
 
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
@@ -2987,6 +2988,7 @@
 
 ## others 
 
+- [mtsokol/mkdocs-command-generator](https://github.com/mtsokol/mkdocs-command-generator) - 
 - [lmmx/trusty-pub](https://github.com/lmmx/trusty-pub) - Indexing support for Trusted Publishing on PyPI
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [kurama/dealve-tui](https://github.com/kurama/dealve-tui) - Delve into game deals from your terminal 👾
@@ -3479,7 +3481,7 @@
 - [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and D
 - [dvrpc/network-routing](https://github.com/dvrpc/network-routing) - Python package to create and analyze routable networks
 - [j3parker/hijack](https://github.com/j3parker/hijack) - Intercept stdout/stderr/stdin of interactive programs... for evil
-- [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
+- [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - ProperDocs plugin to allow placing mkdocs.yml in the same directory as documentation
 - [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
 - [LedgerProject/GeneCoop](https://github.com/LedgerProject/GeneCoop) - Repository for the GeneCoop Project
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes
@@ -4290,6 +4292,7 @@
 
 ## python 
 
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
@@ -5602,6 +5605,7 @@
 
 ## terminal 
 
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager.
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
@@ -5776,6 +5780,7 @@
 
 ## tui 
 
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager.
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
