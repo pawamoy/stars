@@ -309,6 +309,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [filiptronicek/gh-sponsors-api](https://github.com/filiptronicek/gh-sponsors-api) - A REST API for GitHub Sponsors
 - [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
@@ -479,6 +480,7 @@
 
 ## JavaScript 
 
+- [koaning/wigglystuff](https://github.com/koaning/wigglystuff) - A collection of creative AnyWidgets for Python notebook environments
 - [theletterf/impersonaid](https://github.com/theletterf/impersonaid) - Test your documentation against LLM-powered user personas
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
@@ -533,7 +535,6 @@
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [rllola/Documentation](https://github.com/rllola/Documentation) - ZeroNet Documentation
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1342,7 +1343,6 @@
 - [Carreau/frappuccino](https://github.com/Carreau/frappuccino) - Freeze your API
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [alan-turing-institute/distinctipy](https://github.com/alan-turing-institute/distinctipy) - A lightweight package for generating visually distinct colours.
 - [tarcisioe/summon](https://github.com/tarcisioe/summon) - A type-hint complant, pluggable, python task runner.
 - [CZ-NIC/envelope](https://github.com/CZ-NIC/envelope) - Insert a message and attachments and send e-mail / sign / encrypt contents by a single line.
@@ -2062,6 +2062,7 @@
 - [ambv/bitrot](https://github.com/ambv/bitrot) - Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.
 - [lucashadfield/speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [trengrj/recent](https://github.com/trengrj/recent) - log bash history to an sqlite database
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - FastAPI CRUD
 - [LukeCarrier/mkdocs-drawio-exporter](https://github.com/LukeCarrier/mkdocs-drawio-exporter) - Exports your Draw.io diagrams at build time for easier embedding into your documentation
 - [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client) - FastAPI client generator
