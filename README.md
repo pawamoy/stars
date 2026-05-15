@@ -882,6 +882,7 @@
 
 ## Python 
 
+- [amol-/workdash](https://github.com/amol-/workdash) - Central dashboard to coordinate development work
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [mtsokol/mkdocs-command-generator](https://github.com/mtsokol/mkdocs-command-generator) - 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -914,7 +915,6 @@
 - [mkdocstrings/griffe-sphinx](https://github.com/mkdocstrings/griffe-sphinx) - Parse Sphinx-comments above attributes as docstrings.
 - [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
 - [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
-- [femtomc/inshallah](https://github.com/femtomc/inshallah) - everyone is making the same thing and nothing matters anymore (no one cares about your orchestrator)
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [daizutabi/astdoc](https://github.com/daizutabi/astdoc) - A lightweight Python library for parsing and analyzing abstract syntax trees (AST) and extracting docstring information.
@@ -954,7 +954,7 @@
 - [micrologai/microlog](https://github.com/micrologai/microlog) - Microlog - A continuous profiler/logger for Python with microscopically small recordings, no overhead, and super-fast rendering using PyScript
 - [ehmatthes/py-bugger](https://github.com/ehmatthes/py-bugger) - An intentional way to practice debugging in Python.
 - [marimo-team/mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - mkdocs plugin for reactive and interactive docs with marimo
-- [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
+- [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API (unmaintained)
 - [tk0miya/diff-highlight](https://github.com/tk0miya/diff-highlight) - 
 - [lmmx/htmd](https://github.com/lmmx/htmd) - Python bindings for the htmd Rust library, a fast HTML to Markdown converter
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
