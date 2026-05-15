@@ -390,7 +390,7 @@
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [mkdocstrings/griffe2md](https://github.com/mkdocstrings/griffe2md) - Output API docs to Markdown using Griffe.
 - [idlesign/mkdocs-apidescribed-plugin](https://github.com/idlesign/mkdocs-apidescribed-plugin) - mkdocs plugin to generate API documentation for Python programs
-- [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API
+- [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API (unmaintained)
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
@@ -2993,6 +2993,7 @@
 
 ## others 
 
+- [amol-/workdash](https://github.com/amol-/workdash) - Central dashboard to coordinate development work
 - [koaning/wigglystuff](https://github.com/koaning/wigglystuff) - A collection of creative AnyWidgets for Python notebook environments
 - [mtsokol/mkdocs-command-generator](https://github.com/mtsokol/mkdocs-command-generator) - 
 - [lmmx/trusty-pub](https://github.com/lmmx/trusty-pub) - Indexing support for Trusted Publishing on PyPI
@@ -3015,7 +3016,6 @@
 - [stoatchat/for-web](https://github.com/stoatchat/for-web) - Stoat for Web – browser app for Stoat
 - [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies) - A list of policies by different open source projects about how to engage with AI-generated contributions.
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
-- [femtomc/inshallah](https://github.com/femtomc/inshallah) - everyone is making the same thing and nothing matters anymore (no one cares about your orchestrator)
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [daizutabi/astdoc](https://github.com/daizutabi/astdoc) - A lightweight Python library for parsing and analyzing abstract syntax trees (AST) and extracting docstring information.
