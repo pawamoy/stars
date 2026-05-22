@@ -3480,7 +3480,7 @@
 - [ilevkivskyi/com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python
 - [pyupio/safety-db](https://github.com/pyupio/safety-db) - A curated database of insecure Python packages
 - [oprypin/py-project-template](https://github.com/oprypin/py-project-template) - 
-- [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
+- [aio-libs-abandoned/async-timeout](https://github.com/aio-libs-abandoned/async-timeout) - asyncio-compatible timeout class
 - [flacjacket/pywayland](https://github.com/flacjacket/pywayland) - Python bindings for the libwayland library
 - [flathub/net.stabyourself.nottetris2](https://github.com/flathub/net.stabyourself.nottetris2) - 
 - [DavHau/pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Dependency DB for python packages on pypi
