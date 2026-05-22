@@ -1592,7 +1592,7 @@
 - [ilevkivskyi/com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python
 - [pyupio/safety-db](https://github.com/pyupio/safety-db) - A curated database of insecure Python packages
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
-- [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
+- [aio-libs-abandoned/async-timeout](https://github.com/aio-libs-abandoned/async-timeout) - asyncio-compatible timeout class
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [cognitivefactory/interactive-clustering](https://github.com/cognitivefactory/interactive-clustering) - Python package used to apply NLP interactive clustering methods.
 - [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the Python data ecosystem.
