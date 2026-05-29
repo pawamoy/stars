@@ -86,7 +86,7 @@
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - Audio device and application capture for OBS Studio using PipeWire
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark) - A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)
-- [fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
+- [perfect-dark-pc-port/perfect_dark](https://github.com/perfect-dark-pc-port/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
 - [xatornet/perfect_dark](https://github.com/xatornet/perfect_dark) - work in progress port of n64decomp/perfect_dark to modern platforms
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -262,7 +262,7 @@
 - [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings
 - [Wonderfall/docker-isso](https://github.com/Wonderfall/docker-isso) - 
-- [athackst/dockerfiles](https://github.com/athackst/dockerfiles) - Dockerfiles I use for development
+- [althack/dockerfiles](https://github.com/althack/dockerfiles) - Dockerfiles I use for development
 - [appleboy/gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/
@@ -893,7 +893,7 @@
 - [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
 - [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [henryiii/flake8-lazy](https://github.com/henryiii/flake8-lazy) - Detect modules that can be lazy imported in Python 3.15+
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager.
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [jakob1379/pymdown-symbolic-snippets](https://github.com/jakob1379/pymdown-symbolic-snippets) - 
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
