@@ -224,6 +224,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -324,7 +325,7 @@
 
 ## ai-agents 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -461,7 +462,6 @@
 - [lnxpy/pyaction](https://github.com/lnxpy/pyaction) - :octocat: Create GitHub Actions Using Python
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
@@ -826,7 +826,6 @@
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-- [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
 - [pyprojectx/pyprojectx](https://github.com/pyprojectx/pyprojectx) - All-Inclusive Python Projects
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
@@ -1053,7 +1052,7 @@
 
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [Pebaz/nimporter](https://github.com/Pebaz/nimporter) - Compile Nim Extensions for Python On Import!
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1269,7 +1268,7 @@
 
 ## developer-tools 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -1722,7 +1721,7 @@
 
 ## git 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1842,7 +1841,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
+- [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store fingerprints and retrieve them
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -1888,7 +1887,7 @@
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
-- [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store songs fingerprints and retrieve them
+- [sfluor/musig](https://github.com/sfluor/musig) - A shazam like tool to store fingerprints and retrieve them
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pomerium/awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -3037,7 +3036,6 @@
 - [jivanyatra/zalgolib](https://github.com/jivanyatra/zalgolib) - Tools for working with Zalgo-style text.
 - [will-langdale/griffonner](https://github.com/will-langdale/griffonner) - A templating tool for Griffe.
 - [pawamoy/mkdocs-spellcheck](https://github.com/pawamoy/mkdocs-spellcheck) - A spell checker plugin for MkDocs.
-- [cytechmobile/radicle-vscode-extension](https://github.com/cytechmobile/radicle-vscode-extension) - A VS Code extension bringing support for the Radicle network to your IDE.
 - [Archimidis/radicle-ci](https://github.com/Archimidis/radicle-ci) - 
 - [noklam/mkdocs-llmstxt-md](https://github.com/noklam/mkdocs-llmstxt-md) - mkdocs plugins for creating LLMs friendly llms.txt and llms-full.txt
 - [geoffrey-a-reed/minimal](https://github.com/geoffrey-a-reed/minimal) - A minimal Python package.
@@ -4268,7 +4266,7 @@
 
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [pandalearnstocode/buildamlapp](https://github.com/pandalearnstocode/buildamlapp) - Build a ML app
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dictation-toolbox/Caster](https://github.com/dictation-toolbox/Caster) - Dragonfly-Based Voice Programming and Accessibility Toolkit
@@ -4586,7 +4584,7 @@
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
 - [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of RegEx.
 - [twisted/pydoctor](https://github.com/twisted/pydoctor) - This is pydoctor, an API documentation generator that works by static analysis.
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
 - [boxed/hammett](https://github.com/boxed/hammett) - Fast python test runner, compatible with a subset of pytest
@@ -5069,7 +5067,6 @@
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [wemake-services/coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define!
-- [FollowTheProcess/pytoil](https://github.com/FollowTheProcess/pytoil) - CLI to take the toil out of software development :robot:
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [HacKanCuBa/blake2signer](https://github.com/HacKanCuBa/blake2signer) - Using Blake2 in keyed hashing mode to sign and verify data. THIS IS JUST A MIRROR, go to Gitlab for issues and merge requests: https://gitlab.com/hackancuba/blake2signer
@@ -5211,6 +5208,12 @@
 - [jexp/neo4j-3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph) - Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+
+## redteam 
+
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## redux 
 
@@ -5862,7 +5865,8 @@
 
 ## typescript 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
+- [maninak/radicle-vscode-extension](https://github.com/maninak/radicle-vscode-extension) - A VS Code extension bringing support for the Radicle network to your IDE.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
