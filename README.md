@@ -378,7 +378,7 @@
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -435,6 +435,7 @@
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
@@ -980,7 +981,7 @@
 - [jmlopez-rod/mkdocstrings-m_cli](https://github.com/jmlopez-rod/mkdocstrings-m_cli) - A Python handler for mkdocstrings.
 - [watermarkhu/mkdocstrings-matlab](https://github.com/watermarkhu/mkdocstrings-matlab) - 📘 A MATLAB handler for mkdocstrings, automatic documentation from sources
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
-- [potassco/clindocs](https://github.com/potassco/clindocs) - Mkdocs plugin for automatic documentation in clingo
+- [potassco/clindocs](https://github.com/potassco/clindocs) - 📚 Mkdocs plugin for automatic documentation in clingo
 - [Zatfer17/tui-network](https://github.com/Zatfer17/tui-network) - 
 - [arxlang/astx](https://github.com/arxlang/astx) - 
 - [fbraem/griffe-fastapi](https://github.com/fbraem/griffe-fastapi) - Griffe extension for FastAPI
@@ -1257,7 +1258,7 @@
 - [Sanster/tldream](https://github.com/Sanster/tldream) - A tiny little diffusion drawing app
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
-- [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
+- [tqdm/shtab](https://github.com/tqdm/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [jkwill87/teletype](https://github.com/jkwill87/teletype) - high-level cross-platform tty library
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [pdm-project/pdm-expansions](https://github.com/pdm-project/pdm-expansions) - What does PDM stand for?
@@ -1503,7 +1504,7 @@
 - [juancarlospaco/thatlib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python
 - [soysaurav/Parseltongue](https://github.com/soysaurav/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
-- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy🍻
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [MrSenko/coverage-jinja-plugin](https://github.com/MrSenko/coverage-jinja-plugin) - A coverage.py plugin to measure the coverage of Jinja2 templates
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2242,7 +2243,6 @@
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 - [649/Crashcast-Exploit](https://github.com/649/Crashcast-Exploit) - This tool allows you mass play any YouTube video, terminate apps and rename Chromecast device(s) obtained from Shodan.io
 - [saitoha/PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
-- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc) - Python JSON-RPC Client Server Library With Additional Support for BaseHTTPServer, CherryPy And CGI
@@ -2780,6 +2780,7 @@
 
 ## TypeScript 
 
+- [eduwass/monotheme](https://github.com/eduwass/monotheme) - One source of truth theme projected into every tool's native format, switched with one live-reloading command.
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
