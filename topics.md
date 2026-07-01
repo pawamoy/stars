@@ -3218,7 +3218,7 @@
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [swan-cern/mkdocs-swan](https://github.com/swan-cern/mkdocs-swan) - SWAN MkDocs theme
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark) - A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)
