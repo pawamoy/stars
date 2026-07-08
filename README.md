@@ -400,6 +400,7 @@
 
 ## HTML 
 
+- [fr33n0w/rBrowser](https://github.com/fr33n0w/rBrowser) - Reticulum Nomadnet Standalone Browser
 - [15r10nk/pypi-version-info](https://github.com/15r10nk/pypi-version-info) - tool which reads the pypi version info of all versions of a given package
 - [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -882,6 +883,10 @@
 
 ## Python 
 
+- [Roy-Kid/mkdocstrings-cpp](https://github.com/Roy-Kid/mkdocstrings-cpp) - 
+- [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
+- [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
+- [Quad4-Software/pip-rns](https://github.com/Quad4-Software/pip-rns) - Install Python packages directly from Reticulum rngit remotes via pip, pipx, uv, or poetry.
 - [amol-/workdash](https://github.com/amol-/workdash) - Central dashboard to coordinate development work
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [mtsokol/mkdocs-command-generator](https://github.com/mtsokol/mkdocs-command-generator) - 
@@ -957,7 +962,7 @@
 - [IL-Group/FL-Studio-API-Stubs](https://github.com/IL-Group/FL-Studio-API-Stubs) - Documentation and stub code for the FL Studio Python API (unmaintained)
 - [tk0miya/diff-highlight](https://github.com/tk0miya/diff-highlight) - 
 - [lmmx/htmd](https://github.com/lmmx/htmd) - Python bindings for the htmd Rust library, a fast HTML to Markdown converter
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [pawamoy/mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) - MkDocs plugin to integrate your coverage HTML report into your site.
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
@@ -1219,7 +1224,7 @@
 - [initialcommit-com/git-dummy](https://github.com/initialcommit-com/git-dummy) - Generate dummy Git repositories populated with the desired number of commits, branches, and structure.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [davep/tdim](https://github.com/davep/tdim) - A quick and dirty terminal dimension checker/seeker
