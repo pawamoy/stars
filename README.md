@@ -330,7 +330,6 @@
 - [readthedocs/godocjson](https://github.com/readthedocs/godocjson) - Generate json from go.
 - [jbszczepaniak/slicegraph](https://github.com/jbszczepaniak/slicegraph) - Slice graph uses graphviz in order to pretty print slices for you.
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [coyim/coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
 - [MichaelMure/go-term-markdown](https://github.com/MichaelMure/go-term-markdown) - A markdown renderer package for the terminal
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
@@ -445,6 +444,7 @@
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [pallamidessi/annoying.js](https://github.com/pallamidessi/annoying.js) - 
 - [ryan-roemer/sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -494,7 +494,7 @@
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
 - [Bruno-Bells/PyWeb3D](https://github.com/Bruno-Bells/PyWeb3D) - Exploring three.js with python syntax
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [boytchev/mannequin.js](https://github.com/boytchev/mannequin.js) - A simple model of articulated human figure
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -883,6 +883,8 @@
 
 ## Python 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
+- [qxnode/luks-deadman](https://github.com/qxnode/luks-deadman) - USB kill switch + dead man's switch for Linux server: automatic LUKS header wipe on USB disconnection or operator inactivity.
 - [Roy-Kid/mkdocstrings-cpp](https://github.com/Roy-Kid/mkdocstrings-cpp) - 
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
@@ -2492,11 +2494,11 @@
 - [clayallsopp/readme-score](https://github.com/clayallsopp/readme-score) - Giving a score to README.md's everywhere
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [librariesio/license-compatibility](https://github.com/librariesio/license-compatibility) - :copyright: Check compatibility between different SPDX licenses
-- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [guard/guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.
 
 ## Rust 
 
+- [AerynOS/os-tools](https://github.com/AerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [kurama/dealve-tui](https://github.com/kurama/dealve-tui) - Delve into game deals from your terminal 👾
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
@@ -2834,6 +2836,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [pdm-project/setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [knowsuchagency/pdm-task-provider](https://github.com/knowsuchagency/pdm-task-provider) - 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
