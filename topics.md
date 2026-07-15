@@ -279,6 +279,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -1436,6 +1437,7 @@
 
 ## documentation 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [patrick-kidger/hippogriffe](https://github.com/patrick-kidger/hippogriffe) - Tweaks for `mkdocstrings[python]`
@@ -1525,6 +1527,7 @@
 
 ## education 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
@@ -2428,7 +2431,7 @@
 
 ## language 
 
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [mikeckennedy/python-switch](https://github.com/mikeckennedy/python-switch) - Adds switch blocks to Python #pypackage
@@ -2471,6 +2474,7 @@
 
 ## linux 
 
+- [qxnode/luks-deadman](https://github.com/qxnode/luks-deadman) - USB kill switch + dead man's switch for Linux server: automatic LUKS header wipe on USB disconnection or operator inactivity.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
@@ -3640,7 +3644,6 @@
 - [toumorokoshi/deepmerge](https://github.com/toumorokoshi/deepmerge) - A deep merging tool for Python core data structures
 - [chaudum/rgain3](https://github.com/chaudum/rgain3) - A Python 3 compatible fork of rgain -- ReplayGain tools and Python library
 - [staticshock/colored-traceback.py](https://github.com/staticshock/colored-traceback.py) - Automatically color Python's uncaught exception tracebacks
-- [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
 - [Instagram/Fixit](https://github.com/Instagram/Fixit) - Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.
 - [purarue/reddit-wallpaper-scraper](https://github.com/purarue/reddit-wallpaper-scraper) - scrapes/downloads the top posts from  wallpaper subreddits
 - [purarue/steamscraper](https://github.com/purarue/steamscraper) - Scrapes personal game/achievement data from steams website
@@ -4159,6 +4162,7 @@
 
 ## package-manager 
 
+- [AerynOS/os-tools](https://github.com/AerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
 - [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the uv package manager
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -4320,6 +4324,7 @@
 
 ## python 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -5049,6 +5054,7 @@
 
 ## python3 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
@@ -5365,6 +5371,7 @@
 
 ## security 
 
+- [qxnode/luks-deadman](https://github.com/qxnode/luks-deadman) - USB kill switch + dead man's switch for Linux server: automatic LUKS header wipe on USB disconnection or operator inactivity.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -5641,6 +5648,7 @@
 
 ## terminal 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
@@ -5817,6 +5825,7 @@
 
 ## tui 
 
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
@@ -6117,6 +6126,17 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+
+## workflow 
+
+- [JamesIves/github-sponsors-readme-action](https://github.com/JamesIves/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
+- [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## xml 
 
