@@ -300,7 +300,7 @@
 
 ## agents 
 
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a fast, extensible, native code editor with agents. lightweight &lt;20 mb in size. install and start using in seconds.
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a native, extensible, AI code editor. lightweight &lt;20 mb in size. install and start using in seconds.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
@@ -315,7 +315,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a fast, extensible, native code editor with agents. lightweight &lt;20 mb in size. install and start using in seconds.
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a native, extensible, AI code editor. lightweight &lt;20 mb in size. install and start using in seconds.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1592,7 +1592,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [Kludex/fastapix](https://github.com/Kludex/fastapix) - FastAPI X is a powerful CLI tool to help you! :rocket:
 - [Kludex/fastapix-project-simple](https://github.com/Kludex/fastapix-project-simple) - Template to start with FastAPI! 😎
-- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for FastApi & Starlette applications
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
@@ -2014,7 +2014,7 @@
 - [hugovk/pepotron](https://github.com/hugovk/pepotron) - CLI to open PEPs in your browser
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [tomlin7/cupcake](https://github.com/tomlin7/cupcake) - Embeddable feature-rich code editor widget for tkinter, with syntax highlighting, completions, minimap and more
-- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a fast, extensible, native code editor with agents. lightweight &lt;20 mb in size. install and start using in seconds.
+- [tomlin7/biscuit](https://github.com/tomlin7/biscuit) - biscuit is a native, extensible, AI code editor. lightweight &lt;20 mb in size. install and start using in seconds.
 - [tqdm/shtab](https://github.com/tqdm/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -3020,6 +3020,7 @@
 
 ## others 
 
+- [kgaur-org/api-drift-sol](https://github.com/kgaur-org/api-drift-sol) - Exploring the YC RFS 'Self-Maintaining APIs' idea: agents that keep API consumers up to date when providers ship changes. Brainstorming stage — no implementation yet.
 - [Roy-Kid/mkdocstrings-cpp](https://github.com/Roy-Kid/mkdocstrings-cpp) - 
 - [fr33n0w/rBrowser](https://github.com/fr33n0w/rBrowser) - Reticulum Nomadnet Standalone Browser
 - [Quad4-Software/pip-rns](https://github.com/Quad4-Software/pip-rns) - Install Python packages directly from Reticulum rngit remotes via pip, pipx, uv, or poetry.
@@ -3581,7 +3582,6 @@
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [zachhannum/mkdocs-tooltipster-links-plugin](https://github.com/zachhannum/mkdocs-tooltipster-links-plugin) - An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster
 - [Ravn-Tech/HyperTag](https://github.com/Ravn-Tech/HyperTag) - HyperTag - Intuitive Knowledge Management WebApp & CLI for Humans using Deep Learning & Tags
-- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [clarkduvall/serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
 - [theskumar/autolink-references-mkdocs-plugin](https://github.com/theskumar/autolink-references-mkdocs-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
 - [makerjackie/mkdocs-roamlinks-plugin](https://github.com/makerjackie/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
@@ -4717,6 +4717,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [wbolster/exceptional](https://github.com/wbolster/exceptional) - python library providing various exception handling utilities
+- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
@@ -4785,7 +4786,7 @@
 - [bskinn/sphobjinv](https://github.com/bskinn/sphobjinv) - Toolkit for manipulation and inspection of Sphinx objects.inv files
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
-- [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
+- [earthgecko/skyline](https://github.com/earthgecko/skyline) - Real-time anomaly detection for time series metrics. 11 years of production anomaly detection evolution. Multi-algorithm ensembles. Pattern recognition using semi-supervised and unsupervised learning.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [psincraian/climoji](https://github.com/psincraian/climoji) - Climoji is an initiative to facilitate the use of the emojis from the command line
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -5463,6 +5464,7 @@
 
 ## self-hosted 
 
+- [Honorboxx/honorbox](https://github.com/Honorboxx/honorbox) - Sell digital products with just Stripe + GitHub. An open source Gumroad alternative: no platform fee, no monthly cost, no server. Private repo delivery: after payment each buyer is granted collaborato
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy)
@@ -5590,6 +5592,7 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
