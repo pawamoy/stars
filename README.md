@@ -642,7 +642,6 @@
 
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [anarcat/terms-benchmarks](https://github.com/anarcat/terms-benchmarks) - Reproducible results for LWN review of terminal emulators: https://lwn.net/Articles/749992/ https://lwn.net/Articles/751763/. Mirror of GitLab repository, possibly out of date..
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -883,6 +882,8 @@
 
 ## Python 
 
+- [bagofseeds/griffe-bagof-magic](https://github.com/bagofseeds/griffe-bagof-magic) - A griffe extension for `Magic` or `@magic` classes.
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [qxnode/luks-deadman](https://github.com/qxnode/luks-deadman) - USB kill switch + dead man's switch for Linux server: automatic LUKS header wipe on USB disconnection or operator inactivity.
 - [Roy-Kid/mkdocstrings-cpp](https://github.com/Roy-Kid/mkdocstrings-cpp) - 
@@ -1545,6 +1546,7 @@
 - [python-desert/desert](https://github.com/python-desert/desert) - Deserialize to objects while staying DRY
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [tristanlatr/pydocspec](https://github.com/tristanlatr/pydocspec) - Pydocspec is a object specification for representing API documentation of a collection of related python modules.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [openITCOCKPIT/mkdocs-featherlight](https://github.com/openITCOCKPIT/mkdocs-featherlight) - Featherlight Plugin for MkDocs
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
