@@ -1192,6 +1192,7 @@
 
 ## data-analysis 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the Python data ecosystem.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1205,6 +1206,7 @@
 
 ## data-science 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
@@ -1223,6 +1225,7 @@
 
 ## data-visualization 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
@@ -3020,6 +3023,7 @@
 
 ## others 
 
+- [bagofseeds/griffe-bagof-magic](https://github.com/bagofseeds/griffe-bagof-magic) - A griffe extension for `Magic` or `@magic` classes.
 - [kgaur-org/api-drift-sol](https://github.com/kgaur-org/api-drift-sol) - Exploring the YC RFS 'Self-Maintaining APIs' idea: agents that keep API consumers up to date when providers ship changes. Brainstorming stage — no implementation yet.
 - [Roy-Kid/mkdocstrings-cpp](https://github.com/Roy-Kid/mkdocstrings-cpp) - 
 - [fr33n0w/rBrowser](https://github.com/fr33n0w/rBrowser) - Reticulum Nomadnet Standalone Browser
@@ -4334,6 +4338,7 @@
 
 ## python 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [ryumasai/pydocstring](https://github.com/ryumasai/pydocstring) - A zero-dependency Rust parser for Python docstrings (Google & NumPy) — full AST with byte-precise source locations, built for linters and formatters.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
@@ -5509,6 +5514,7 @@
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [tqdm/shtab](https://github.com/tqdm/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
