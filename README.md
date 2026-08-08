@@ -301,7 +301,7 @@
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices.
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
@@ -404,7 +404,6 @@
 - [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [jaseg/wsdiff](https://github.com/jaseg/wsdiff) - wsdiff: Produce pretty, single-file HTML-formatted diffs with a css-only adaptive inline/side-by-side layout
-- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL)
@@ -882,6 +881,7 @@
 
 ## Python 
 
+- [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
 - [bagofseeds/griffe-bagof-magic](https://github.com/bagofseeds/griffe-bagof-magic) - A griffe extension for `Magic` or `@magic` classes.
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
@@ -899,7 +899,7 @@
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
-- [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
+- [VocaHQ/vocalinux](https://github.com/VocaHQ/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [henryiii/flake8-lazy](https://github.com/henryiii/flake8-lazy) - Detect modules that can be lazy imported in Python 3.15+
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [jakob1379/pymdown-symbolic-snippets](https://github.com/jakob1379/pymdown-symbolic-snippets) - 
@@ -1027,6 +1027,7 @@
 - [glyph/PINPal](https://github.com/glyph/PINPal) - random PIN code memorization helper
 - [glyph/Pomodouroboros](https://github.com/glyph/Pomodouroboros) - Pomodoro timer that acknowledges the inexorable, infinite passage of time
 - [glyph/tokenring](https://github.com/glyph/tokenring) - A backend for the `keyring` module which uses a hardware token to require user presence for any secret access, by encrypting your vault and passwords as Fernet tokens.
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
 - [glennmatthews/markdown-version-annotations](https://github.com/glennmatthews/markdown-version-annotations) - MkDocs plugin to add custom admonitions for documenting version differences
 - [bittner/pyclean](https://github.com/bittner/pyclean) - Pure Python cross-platform pyclean. Clean up your Python bytecode.
@@ -1488,7 +1489,7 @@
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [beartype/numerary](https://github.com/beartype/numerary) - A pure-Python codified rant aspiring to a world where numbers and types can work together.
 - [NAFTeam/NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
-- [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) - PEP 621 metadata parsing
+- [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) - pyproject.toml `[project]` metadata parsing
 - [gaborbernat/pypi-changes](https://github.com/gaborbernat/pypi-changes) - Check what PyPI dependencies changed and when.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [vpelletier/pprofile](https://github.com/vpelletier/pprofile) - Line-granularity, thread-aware deterministic and statistic pure-python profiler
@@ -1509,7 +1510,7 @@
 - [axiros/docutools](https://github.com/axiros/docutools) - Dev Centric Tools for Mkdocs Based Documentation
 - [sleuth-io/code-video-generator](https://github.com/sleuth-io/code-video-generator) - Generates code walkthrough videos using Manim
 - [Julian/regret](https://github.com/Julian/regret) - You made a thing, but now you wish it'd go away... Deprecations, a love story.
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 - [YelpArchive/gprof2dot](https://github.com/YelpArchive/gprof2dot) - Converts profiling output to a dot graph.
 - [juancarlospaco/thatlib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python
 - [soysaurav/Parseltongue](https://github.com/soysaurav/Parseltongue) - Write python programs using your voice using Dragonfly and Parseltongue module
@@ -2335,7 +2336,6 @@
 - [coveragepy/django_coverage_plugin](https://github.com/coveragepy/django_coverage_plugin) - A plugin for coverage.py to measure Django template execution
 - [mikebryant/codeclimate-pylint](https://github.com/mikebryant/codeclimate-pylint) - Pylint engine for codeclimate
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [Grupo-Abraxas/eve-neo4j](https://github.com/Grupo-Abraxas/eve-neo4j) - Eve Neo4j extension
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [jfinkels/flask-restless](https://github.com/jfinkels/flask-restless) - NO LONGER MAINTAINED - A Flask extension for creating simple ReSTful JSON APIs from SQLAlchemy models.
@@ -2364,7 +2364,7 @@
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
 - [YelpArchive/requirements-tools](https://github.com/YelpArchive/requirements-tools) - requirements-tools contains scripts for working with Python requirements, primarily in applications.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -2503,7 +2503,7 @@
 
 - [ryumasai/pydocstring](https://github.com/ryumasai/pydocstring) - A zero-dependency Rust parser for Python docstrings (Google & NumPy) — full AST with byte-precise source locations, built for linters and formatters.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [AerynOS/os-tools](https://github.com/AerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
+- [aerynOS/os-tools](https://github.com/aerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [kurama/dealve-tui](https://github.com/kurama/dealve-tui) - Delve into game deals from your terminal 👾
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
@@ -2617,6 +2617,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [softprops/cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -2813,7 +2814,7 @@
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [skarukas/graph-gui](https://github.com/skarukas/graph-gui) - An interactive graph animation framework using the HTML canvas element and JavaScript. Display data, move vertices, and add edges.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
-- [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
+- [d2lang/text-to-diagram-site](https://github.com/d2lang/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
