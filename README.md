@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs) - MrDocs: A Clang/LLVM tool for building reference documentation from C++ code and javadoc comments.
@@ -287,6 +288,8 @@
 
 ## Go 
 
+- [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organisation based on MusicBrainz
+- [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -399,6 +402,8 @@
 
 ## HTML 
 
+- [solid/process](https://github.com/solid/process) - A definition of the culture around how decisions are made about Solid and a record of how this has changed over time
+- [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org
 - [fr33n0w/rBrowser](https://github.com/fr33n0w/rBrowser) - Reticulum Nomadnet Standalone Browser
 - [15r10nk/pypi-version-info](https://github.com/15r10nk/pypi-version-info) - tool which reads the pypi version info of all versions of a given package
 - [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) - 
@@ -625,6 +630,7 @@
 
 ## Jinja 
 
+- [noirbizarre/rust.tpl](https://github.com/noirbizarre/rust.tpl) - My personal Rust project template for git-tpl
 - [oedokumaci/python-production-template](https://github.com/oedokumaci/python-production-template) - AI-native Copier template for production-ready Python projects
 - [ritwiktiwari/copier-astral](https://github.com/ritwiktiwari/copier-astral) - Fast Python project template with Astral's toolchain (uv, ruff, ty) + pytest, MkDocs, Typer, GitHub Actions, Docker
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
@@ -881,6 +887,7 @@
 
 ## Python 
 
+- [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown) - 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
 - [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
 - [bagofseeds/griffe-bagof-magic](https://github.com/bagofseeds/griffe-bagof-magic) - A griffe extension for `Magic` or `@magic` classes.
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
@@ -2336,6 +2343,7 @@
 - [coveragepy/django_coverage_plugin](https://github.com/coveragepy/django_coverage_plugin) - A plugin for coverage.py to measure Django template execution
 - [mikebryant/codeclimate-pylint](https://github.com/mikebryant/codeclimate-pylint) - Pylint engine for codeclimate
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [Grupo-Abraxas/eve-neo4j](https://github.com/Grupo-Abraxas/eve-neo4j) - Eve Neo4j extension
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [jfinkels/flask-restless](https://github.com/jfinkels/flask-restless) - NO LONGER MAINTAINED - A Flask extension for creating simple ReSTful JSON APIs from SQLAlchemy models.
@@ -2501,6 +2509,11 @@
 
 ## Rust 
 
+- [noirbizarre/gh-settings](https://github.com/noirbizarre/gh-settings) - Declarative GitHub repository settings for the GitHub CLI
+- [noirbizarre/gh-ship](https://github.com/noirbizarre/gh-ship) - Ship GitHub releases your way. A GitHub CLI extension that orchestrates Release PRs and reusable GitHub Actions workflows.
+- [noirbizarre/git-wipe](https://github.com/noirbizarre/git-wipe) - Easily synchronize your local branches and worktrees
+- [noirbizarre/snypr](https://github.com/noirbizarre/snypr) - A GTK4-based screenshot, annotation, and live-drawing tool for Hyprland
+- [noirbizarre/git-tpl](https://github.com/noirbizarre/git-tpl) - Git-native project templates
 - [ryumasai/pydocstring](https://github.com/ryumasai/pydocstring) - A zero-dependency Rust parser for Python docstrings (Google & NumPy) — full AST with byte-precise source locations, built for linters and formatters.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [aerynOS/os-tools](https://github.com/aerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
@@ -2526,6 +2539,7 @@
 - [FifthTry/sphobjinv](https://github.com/FifthTry/sphobjinv) - Port of https://github.com/bskinn/sphobjinv to Rust
 - [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 - [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the uv package manager
+- [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - Pick patch emails from your IMAP inbox and apply them with git am
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -2597,7 +2611,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
@@ -2617,7 +2631,6 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [softprops/cargo-thanks](https://github.com/softprops/cargo-thanks) - 💖  🦀  give thanks to your fellow Rustaceans
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -2648,11 +2661,11 @@
 
 ## Shell 
 
+- [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
 - [jkool702/timep](https://github.com/jkool702/timep) - `timep` is an efficient and accurate state-of-the-art trap-based profiler and flamegraph generator for bash code. `timep` does much more than "providing per-command execution times" -- it maps the ful
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
-- [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - 
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [shenv/shenv](https://github.com/shenv/shenv) - Simple shell version management
