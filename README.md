@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -79,6 +80,10 @@
 ## Bikeshed 
 
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -157,6 +162,7 @@
 
 ## C++ 
 
+- [AnInsomniacy/aria2-next](https://github.com/AnInsomniacy/aria2-next) - Maintained aria2 fork with extensive bug fixes and modernized architecture
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -553,7 +559,6 @@
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [userdashboard/dashboard](https://github.com/userdashboard/dashboard) - Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [bobletanj/wpa2-hacking](https://github.com/bobletanj/wpa2-hacking) - Little project to obain WPA2 keys with social engineering.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -887,6 +892,7 @@
 
 ## Python 
 
+- [BHUVANSH855/PyRift](https://github.com/BHUVANSH855/PyRift) - Detect silent Python behaviour differences across CPython versions and CPython vs PyPy
 - [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown) - 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
 - [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
 - [bagofseeds/griffe-bagof-magic](https://github.com/bagofseeds/griffe-bagof-magic) - A griffe extension for `Magic` or `@magic` classes.
@@ -904,7 +910,7 @@
 - [lmmx/trusty-pub](https://github.com/lmmx/trusty-pub) - Indexing support for Trusted Publishing on PyPI
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
-- [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
+- [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included. WASI Supported.
 - [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
 - [VocaHQ/vocalinux](https://github.com/VocaHQ/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [henryiii/flake8-lazy](https://github.com/henryiii/flake8-lazy) - Detect modules that can be lazy imported in Python 3.15+
@@ -1000,7 +1006,7 @@
 - [Zatfer17/tui-network](https://github.com/Zatfer17/tui-network) - 
 - [arxlang/astx](https://github.com/arxlang/astx) - 
 - [fbraem/griffe-fastapi](https://github.com/fbraem/griffe-fastapi) - Griffe extension for FastAPI
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [litestar-org/type-lens](https://github.com/litestar-org/type-lens) - Runtime type introspection utilities
 - [DanCardin/dataclass-settings](https://github.com/DanCardin/dataclass-settings) - Declarative Settings Library
 - [willmcgugan/terminal-tree](https://github.com/willmcgugan/terminal-tree) - 
@@ -1008,7 +1014,6 @@
 - [Hyuto/mkdocstrings-javascript](https://github.com/Hyuto/mkdocstrings-javascript) - Javascript language doc generator for mkdocstrings.
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [15r10nk/codecrumbs](https://github.com/15r10nk/codecrumbs) - deprecate and refactor code across library boundaries
-- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [fralau/mkdocs-test](https://github.com/fralau/mkdocs-test) - A framework for testing MkDocs projects
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
@@ -1025,7 +1030,7 @@
 - [jonghwanhyeon/griffe-generics](https://github.com/jonghwanhyeon/griffe-generics) - A Griffe extension that resolves generic type parameters as bound types in subclasses
 - [costantinoai/mkdocs-task-collector](https://github.com/costantinoai/mkdocs-task-collector) - mkdocs plugin to generate a comprehensive and organized task list, making it easier to manage and track tasks, notes, and placeholders within your documentation.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [albertas/deadcode](https://github.com/albertas/deadcode) - Find and fix unused Python code using command line.
@@ -1101,7 +1106,7 @@
 - [davidfraser/pyan](https://github.com/davidfraser/pyan) - pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which functi
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [stablecaps/eyes3scribe](https://github.com/stablecaps/eyes3scribe) - Automatically creates HTML documentation files for BASH/Shell source code using markdown & python mkdocs
-- [andrewpetrochenkov/public.py](https://github.com/andrewpetrochenkov/public.py) - :snake: replace '__all__' with '@public.add' decorator
+- [petrochenkov-ak/public.py](https://github.com/petrochenkov-ak/public.py) - :snake: replace '__all__' with '@public.add' decorator
 - [tombulled/export](https://github.com/tombulled/export) - Expose module functionality
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
 - [JostTim/auto_fast_docs](https://github.com/JostTim/auto_fast_docs) - Generate static webside for your code documentation, with fast setup and no extra documentation effort. It is based on the great mkdocs, mkdocs-material and mkdocstrings packages
@@ -2542,6 +2547,7 @@
 - [djha-skin/git-receive-mail](https://github.com/djha-skin/git-receive-mail) - Pick patch emails from your IMAP inbox and apply them with git am
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
+- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [RustPython/rustpython-ast-pyo3](https://github.com/RustPython/rustpython-ast-pyo3) - 
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -2661,9 +2667,10 @@
 
 ## Shell 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
+- [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 - [jkool702/timep](https://github.com/jkool702/timep) - `timep` is an efficient and accurate state-of-the-art trap-based profiler and flamegraph generator for bash code. `timep` does much more than "providing per-command execution times" -- it maps the ful
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
