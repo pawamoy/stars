@@ -1441,7 +1441,6 @@
 - [mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx](https://github.com/mgnisia/Boilerplate-Docker-Django-Gunicorn-Nginx) - This repo contains a small example for a Django App in a Docker Container. For the deployment the docker-compose file uses Gunicorn and nginx. Based on the repo of Pawamoy (https://github.com/Pawamoy/
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -1524,6 +1523,7 @@
 
 ## dotfiles 
 
+- [noirbizarre/over](https://github.com/noirbizarre/over) - Git-based file overlays
 - [eduwass/monotheme](https://github.com/eduwass/monotheme) - One source of truth theme projected into every tool's native format, switched with one live-reloading command.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -1753,6 +1753,7 @@
 
 ## git 
 
+- [noirbizarre/over](https://github.com/noirbizarre/over) - Git-based file overlays
 - [noirbizarre/git-tpl](https://github.com/noirbizarre/git-tpl) - Git-native project templates
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -2441,7 +2442,6 @@
 - [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -3034,7 +3034,7 @@
 ## others 
 
 - [AnInsomniacy/aria2-next](https://github.com/AnInsomniacy/aria2-next) - Maintained aria2 fork with extensive bug fixes and modernized architecture
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
@@ -3176,7 +3176,7 @@
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
 - [glennmatthews/markdown-version-annotations](https://github.com/glennmatthews/markdown-version-annotations) - MkDocs plugin to add custom admonitions for documenting version differences
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
-- [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨
+- [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨ [BEING ARCHIVED]
 - [joelle-o-world/pattern-cutting](https://github.com/joelle-o-world/pattern-cutting) - pattern-cutting
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [scaffops/scaffops](https://github.com/scaffops/scaffops) - Take a sip of coffee while your project is being generated ☕
@@ -3760,7 +3760,7 @@
 - [flipee/pkgbuilds](https://github.com/flipee/pkgbuilds) - PKGBUILDs for the Arch User Repository
 - [salty-horse/ibus-uniemoji](https://github.com/salty-horse/ibus-uniemoji) - Input method (ibus) for entering unicode symbols and emoji by name
 - [andyoakley/mkdocs-jinja2](https://github.com/andyoakley/mkdocs-jinja2) - 
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
 - [mkbdfr/website](https://github.com/mkbdfr/website) - Entry point for the Mechanical Keyboards France community
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -4014,6 +4014,7 @@
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [themanifest/package-management-glossary](https://github.com/themanifest/package-management-glossary) - A glossary of terms relating to package management
 - [ikanor/intercept](https://github.com/ikanor/intercept) - Gracefully catch Python exceptions with a decorator
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [vstakhov/hpenc](https://github.com/vstakhov/hpenc) - High performance command line tool for stream encryption
 - [src-d/go-license-detector](https://github.com/src-d/go-license-detector) - Reliable project licenses detector.
 - [lamby/django-template-tests](https://github.com/lamby/django-template-tests) - Performs some quick static analysis on your Django templates
@@ -4363,6 +4364,7 @@
 
 ## python 
 
+- [promptromp/pytest-impacted](https://github.com/promptromp/pytest-impacted) - A pytest plugin that selectively runs tests affected by codechanges via git introspection, ASL parsing, and dependency graph analysis.
 - [BHUVANSH855/PyRift](https://github.com/BHUVANSH855/PyRift) - Detect silent Python behaviour differences across CPython versions and CPython vs PyPy
 - [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
@@ -5098,6 +5100,7 @@
 
 ## python3 
 
+- [promptromp/pytest-impacted](https://github.com/promptromp/pytest-impacted) - A pytest plugin that selectively runs tests affected by codechanges via git introspection, ASL parsing, and dependency graph analysis.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
