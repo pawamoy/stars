@@ -351,7 +351,7 @@
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -892,6 +892,7 @@
 
 ## Python 
 
+- [promptromp/pytest-impacted](https://github.com/promptromp/pytest-impacted) - A pytest plugin that selectively runs tests affected by codechanges via git introspection, ASL parsing, and dependency graph analysis.
 - [BHUVANSH855/PyRift](https://github.com/BHUVANSH855/PyRift) - Detect silent Python behaviour differences across CPython versions and CPython vs PyPy
 - [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown) - 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
 - [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
@@ -1043,7 +1044,7 @@
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
 - [glennmatthews/markdown-version-annotations](https://github.com/glennmatthews/markdown-version-annotations) - MkDocs plugin to add custom admonitions for documenting version differences
 - [bittner/pyclean](https://github.com/bittner/pyclean) - Pure Python cross-platform pyclean. Clean up your Python bytecode.
-- [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨
+- [capjamesg/aurora](https://github.com/capjamesg/aurora) - A fast, extensible static site generator implemented in Python. ✨ [BEING ARCHIVED]
 - [joelle-o-world/pattern-cutting](https://github.com/joelle-o-world/pattern-cutting) - pattern-cutting
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
@@ -2514,6 +2515,7 @@
 
 ## Rust 
 
+- [noirbizarre/over](https://github.com/noirbizarre/over) - Git-based file overlays
 - [noirbizarre/gh-settings](https://github.com/noirbizarre/gh-settings) - Declarative GitHub repository settings for the GitHub CLI
 - [noirbizarre/gh-ship](https://github.com/noirbizarre/gh-ship) - Ship GitHub releases your way. A GitHub CLI extension that orchestrates Release PRs and reusable GitHub Actions workflows.
 - [noirbizarre/git-wipe](https://github.com/noirbizarre/git-wipe) - Easily synchronize your local branches and worktrees
@@ -2667,7 +2669,7 @@
 
 ## Shell 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
