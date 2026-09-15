@@ -298,6 +298,7 @@
 ## agent 
 
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 
 ## agents 
 
@@ -321,6 +322,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [notshridhar/chain-reaction-ai](https://github.com/notshridhar/chain-reaction-ai) - ai opponent for the game chain reaction
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
@@ -2075,7 +2077,6 @@
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [Mte90/pydal](https://github.com/Mte90/pydal) - Remap your specific keyboard to execute custom scripts!
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3898,7 +3899,7 @@
 - [MTG/acousticbrainz-gui](https://github.com/MTG/acousticbrainz-gui) - 
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [sustrik/uxy](https://github.com/sustrik/uxy) - UXY: Adding structure to the UNIX tools
-- [langenhagen/explore-with-dmenu](https://github.com/langenhagen/explore-with-dmenu) - A simple Desktop file browser for Linux (and probably Mac)
+- [langenhagen/explore-with-dmenu](https://github.com/langenhagen/explore-with-dmenu) - A simple Desktop file browser for X11 Linux
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [spotify/echoprint-server](https://github.com/spotify/echoprint-server) - Server for the Echoprint audio fingerprint system
 - [wryun/es-shell](https://github.com/wryun/es-shell) - es: a shell with higher-order functions
@@ -4349,6 +4350,7 @@
 
 ## python 
 
+- [webmaven/asciidocstring](https://github.com/webmaven/asciidocstring) - Semantic extractor and parser of Python docstrings that are written in AsciiDoc. Also extracts Python source listing blocks from within the docstring.
 - [promptromp/pytest-impacted](https://github.com/promptromp/pytest-impacted) - A pytest plugin that selectively runs tests affected by codechanges via git introspection, ASL parsing, and dependency graph analysis.
 - [BHUVANSH855/PyRift](https://github.com/BHUVANSH855/PyRift) - Detect silent Python behaviour differences across CPython versions and CPython vs PyPy
 - [agent0ai/depfix](https://github.com/agent0ai/depfix) - Python dependencies, solved.
