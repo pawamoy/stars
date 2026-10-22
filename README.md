@@ -146,7 +146,7 @@
 - [iliasam/OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [stef/libsphinx](https://github.com/stef/libsphinx) - Sphinx-based Password Storage low-level library
-- [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
+- [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a high performance transactional graph database based on PostgreSQL
 - [chazmcgarvey/tint2](https://github.com/chazmcgarvey/tint2) - a lightweight panel/taskbar, with patches
 - [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
 - [jquast/wcwidth](https://github.com/jquast/wcwidth) - Python and C11 library that measures the width of strings in a terminal
@@ -302,6 +302,7 @@
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [MkDocsEditor/MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
@@ -425,7 +426,6 @@
 - [benchmark-urbanism/yapper](https://github.com/benchmark-urbanism/yapper) - Yapper converts Python docstrings to astro files for use by the Astro static site generator.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [nickderobertis/terminhtml](https://github.com/nickderobertis/terminhtml) - Run commands in your shell and convert into an animated HTML/CSS terminal
-- [mkdocstrings/vba](https://github.com/mkdocstrings/vba) - VBA handler for mkdocstrings
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pamelafox/recursive-visualizations](https://github.com/pamelafox/recursive-visualizations) - An online tool to visualize recursive JS functions step-by-step as a tree.
 - [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
@@ -453,6 +453,7 @@
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
 - [fightforthefuture/battleforthenet](https://github.com/fightforthefuture/battleforthenet) - 
 - [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
+- [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [pallamidessi/annoying.js](https://github.com/pallamidessi/annoying.js) - 
 - [ryan-roemer/sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme
@@ -626,7 +627,6 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
-- [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
@@ -1039,7 +1039,6 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [albertas/deadcode](https://github.com/albertas/deadcode) - Find and fix unused Python code using command line.
 - [dnlzrgz/memotica](https://github.com/dnlzrgz/memotica) - An easy, fast, and minimalist space repetition application for the terminal.
 - [i-m-mll/griffe-inherited-method-crossrefs](https://github.com/i-m-mll/griffe-inherited-method-crossrefs) - Griffe extension to replace docstrings of inherited methods with cross-references to parent
@@ -1380,7 +1379,7 @@
 - [amogorkon/justuse](https://github.com/amogorkon/justuse) - Just use() code from anywhere - a functional import alternative with advanced features like inline version checks, autoreload, module globals injection before import and more.
 - [tristanlatr/astuce](https://github.com/tristanlatr/astuce) - AST inference utilities
 - [frostming/modul](https://github.com/frostming/modul) - Python modules with public exports
-- [WaylonWalker/markata](https://github.com/WaylonWalker/markata) - A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones
+- [WaylonWalker/markata-py](https://github.com/WaylonWalker/markata-py) - A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones
 - [symbol-management/symbol-exporter](https://github.com/symbol-management/symbol-exporter) - Code for extracting exported symbols from existing packages
 - [aroberge/ideas](https://github.com/aroberge/ideas) - Easy creation of custom import hooks to experiment on alternatives to Python's syntax; see https://aroberge.github.io/ideas/docs/html/
 - [jjhelmus/give-me-python](https://github.com/jjhelmus/give-me-python) - CPython that can be installed using pip
@@ -1440,6 +1439,7 @@
 - [wemake-services/coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) - Conditional coverage based on any rules you define!
 - [pydanny/cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
 - [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
+- [mkdocstrings/vba](https://github.com/mkdocstrings/vba) - VBA handler for mkdocstrings
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [frostming/findpython](https://github.com/frostming/findpython) - A utility to find python versions on your system
@@ -1571,7 +1571,7 @@
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
 - [CodeWithSwastik/vscode.py](https://github.com/CodeWithSwastik/vscode.py) - Create VSCode Extensions with python
-- [kaiserpreusse/graphio](https://github.com/kaiserpreusse/graphio) - Bulk loading of large data sets into Neo4j
+- [mpreusse/graphio](https://github.com/mpreusse/graphio) - Bulk loading of large data sets into Neo4j
 - [yensa/hermod](https://github.com/yensa/hermod) - Hermod is a package that generates .proto files out of your sqlalchemy models
 - [MaartenGr/PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation.
 - [coady/placeholder](https://github.com/coady/placeholder) - Operator overloading for fast anonymous functions.
@@ -2053,7 +2053,6 @@
 - [Tesorio/django-anon](https://github.com/Tesorio/django-anon) - :shipit: Anonymize production data so it can be safely used in not-so-safe environments
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [florimondmanca/aiometer](https://github.com/florimondmanca/aiometer) - A Python concurrency scheduling library, compatible with asyncio and trio.
@@ -2533,7 +2532,7 @@
 - [aerynOS/os-tools](https://github.com/aerynOS/os-tools) - The home of moss (system state and package manager) and boulder (moss-format build tool)
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [kurama/dealve-tui](https://github.com/kurama/dealve-tui) - Delve into game deals from your terminal 👾
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [zensical/mono](https://github.com/zensical/mono) - Mono repository automation toolkit
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [lmmx/sapling](https://github.com/lmmx/sapling) - Rust-native tree-sitter
