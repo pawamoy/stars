@@ -236,7 +236,7 @@
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [WillSullivan/idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause) - I downvoted because...
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [diafygi/gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS (Stupid Hackathon Project)
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 
@@ -891,6 +891,7 @@
 
 ## Python 
 
+- [AxelVoitier/zensical-tarn](https://github.com/AxelVoitier/zensical-tarn) - Tarn: a quiet, Diátaxis-aware documentation theme for Zensical
 - [MohammadHijjawi97/since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent short AGENTS.md / CLAUDE.md notes from a static API diff. No model calls, no AP
 - [savannahostrowski/every-python](https://github.com/savannahostrowski/every-python) - A utility to build any commit of CPython, even with the JIT enabled
 - [webmaven/golem](https://github.com/webmaven/golem) - AsciiDoc-native Python static site generator (SSG).
@@ -918,7 +919,7 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included. WASI Supported.
-- [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
+- [meta/Lifeguard](https://github.com/meta/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
 - [VocaHQ/vocalinux](https://github.com/VocaHQ/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [henryiii/flake8-lazy](https://github.com/henryiii/flake8-lazy) - Detect modules that can be lazy imported in Python 3.15+
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
@@ -1282,7 +1283,7 @@
 - [waylan/bootstrap4markdown.py](https://github.com/waylan/bootstrap4markdown.py) - A Python-Markdown extension which provides a simple syntax for including Bootstrap objects within a Markdown document.
 - [cduck/hyperbolic](https://github.com/cduck/hyperbolic) - A Python 3 library for constructing and drawing hyperbolic geometry
 - [mozman/svgwrite](https://github.com/mozman/svgwrite) - Python Package to write SVG files (UNMAINTAINED)
-- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Moving to https://tangled.org/cduck.me/drawsvg/  Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
+- [cduck/drawsvg](https://github.com/cduck/drawsvg) - Programmatically generate SVG (vector) images, animations, and interactive Jupyter widgets
 - [Sanster/tldream](https://github.com/Sanster/tldream) - A tiny little diffusion drawing app
 - [eriknyquist/duckargs](https://github.com/eriknyquist/duckargs) - Code generation tool, creates python / C programs that parse command line arguments. Say bye to starting each project by reading "argparse" / "geptopt.h" docs.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
@@ -2816,6 +2817,7 @@
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [cloudflare/semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 - [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
+- [harenome/dotfiles](https://github.com/harenome/dotfiles) - 
 
 ## TeX 
 
@@ -2823,6 +2825,8 @@
 
 ## TypeScript 
 
+- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
+- [AnInsomniacy/rayburst](https://github.com/AnInsomniacy/rayburst) - Redefining the open-source download manager
 - [ewels/starlight-pydocs](https://github.com/ewels/starlight-pydocs) - Python API reference documentation for Starlight and plain Astro sites.
 - [eduwass/monotheme](https://github.com/eduwass/monotheme) - One source of truth theme projected into every tool's native format, switched with one live-reloading command.
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
@@ -2942,7 +2946,6 @@
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [renyard/vim-rangerexplorer](https://github.com/renyard/vim-rangerexplorer) - Use the ranger file manager as a file chooser in Vim
-- [harenome/dotfiles](https://github.com/harenome/dotfiles) - 
 - [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide) - Workshop on how to use Vim Plugins.
 
 ## Vue 
