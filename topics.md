@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -175,6 +176,7 @@
 - [matlab](#matlab)
 - [maven](#maven)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -280,6 +282,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -403,10 +406,14 @@
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+## android-app 
+
+- [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
+
 ## angular 
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [sfeir-open-source/sfeir-school-angular](https://github.com/sfeir-open-source/sfeir-school-angular) - Repository for Sfeir School Angular
 - [dnstanciu/drf-angular-docker-tutorial](https://github.com/dnstanciu/drf-angular-docker-tutorial) - Dockerized Django Back-end API using DRF with Angular Front-end Tutorial
@@ -426,7 +433,6 @@
 ## ansible 
 
 - [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 
 ## api 
@@ -828,7 +834,7 @@
 - [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organisation based on MusicBrainz
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [eduwass/monotheme](https://github.com/eduwass/monotheme) - One source of truth theme projected into every tool's native format, switched with one live-reloading command.
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [mtkalms/rich-typography](https://github.com/mtkalms/rich-typography) - Large letter typography for Rich and Textual.
@@ -1410,7 +1416,7 @@
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
@@ -1751,7 +1757,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 ## frameworks 
 
@@ -1960,7 +1966,7 @@
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
@@ -2218,7 +2224,7 @@
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -2256,7 +2262,7 @@
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the Python data ecosystem.
@@ -2405,7 +2411,7 @@
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
@@ -2846,11 +2852,16 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
+## mcp-server 
+
+- [MohammadHijjawi97/since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent short AGENTS.md / CLAUDE.md notes from a static API diff. No model calls, no AP
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## microservices 
 
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [vmagamedov/grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 ## microsoft 
 
@@ -2931,7 +2942,7 @@
 
 ## nestjs 
 
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 ## neural-network 
 
@@ -2963,7 +2974,7 @@
 
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 ## nodejs 
 
@@ -2976,7 +2987,7 @@
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid) - Map a BitTorrent peer ID to a human-readable client name and version
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -3550,7 +3561,6 @@
 - [branchv/pdm-publish](https://github.com/branchv/pdm-publish) - 📦 A PDM plugin to publish to PyPI
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plug-in for WhatsApp.
-- [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [thevinter/styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [houbie/pdmwrapper](https://github.com/houbie/pdmwrapper) - proof of concept for a bootstrap pdm command like the one that gradle provides
 - [cyruseuros/cake](https://github.com/cyruseuros/cake) - A sweet make wrapper 🍰
@@ -4410,7 +4420,7 @@
 - [ryumasai/pydocstring](https://github.com/ryumasai/pydocstring) - A zero-dependency Rust parser for Python docstrings (Google & NumPy) — full AST with byte-precise source locations, built for linters and formatters.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) - Comprehensive docstring quality vetting for Python projects
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included. WASI Supported.
@@ -4683,7 +4693,7 @@
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [johnthagen/python-blueprint](https://github.com/johnthagen/python-blueprint) - 🗺️ Example Python project using best practices 🐍 https://github.com/johnthagen/python-blueprint
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [juancarlospaco/thatlib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
@@ -5762,7 +5772,7 @@
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python and usable by agents
@@ -5939,7 +5949,7 @@
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [davep/textual-enhanced](https://github.com/davep/textual-enhanced) - A library of mildly-opinionated enhancements for Textual; mainly aimed at my own applications
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [davep/hike](https://github.com/davep/hike) - A Markdown browser for the terminal
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
@@ -6031,7 +6041,7 @@
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
 ## ubuntu 
@@ -6134,6 +6144,16 @@
 
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
+
+## vscode 
+
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
+- [maninak/radicle-vscode-extension](https://github.com/maninak/radicle-vscode-extension) - A VS Code extension bringing support for the Radicle network to your IDE.
+- [AlirezaMehrara/CodeXpert](https://github.com/AlirezaMehrara/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
+- [CodeWithSwastik/vscode.py](https://github.com/CodeWithSwastik/vscode.py) - Create VSCode Extensions with python
+- [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 
 ## vue 
 
